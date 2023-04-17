@@ -14,34 +14,41 @@
   "main-section": {
     "title": "Fijación directa",
     "image-alt": "Operario usando pistola de fijación directa para anclar un perfil en el suelo",
-    "checklist-1": "Menor tiempo de trabajo",
-    "checklist-2": "Mayor productividad",
-    "checklist-3": "Mayor seguridad",
+    "checklist": [
+      "Menor tiempo de trabajo",
+      "Mayor productividad",
+      "Mayor seguridad"
+    ],
     "know-range": "Conocer la gama",
     "url-know-range": "https://www.indexfix.com/canales-venta/anclajes/fijacion-directa"
-
   },
   "intro-section": {
     "title": "¿Qué es la fijación directa?",
     "description-1": "La fijación directa permite trabajar de forma precisa y fiable además de ahorrar tiempo en la instalación gracias a la rápida aplicación. La fijación directa a gas permite una fijación instantánea, autónoma y veloz. El sistema es idóneo para aquellos trabajos en los que se requiere fuerza y potencia a la hora de trabajar sobre materiales como hormigón hormigón celular, madera noble y acero.",
     "subtitle": "Ventajas",
-    "list-item-1": "Bajo coste. El tiempo empleado para realizar la instalación es menor.",
-    "list-item-2": "Ergonomía. La pistola ofrece un buen agarre y un peso ligero.",
-    "list-item-3": "Rapidez.",
-    "list-item-4": "Procedimiento de recarga automático.",
-    "image-alt": "pistola de fijación directa, maletín, accesorios y productos relacionados",
+    "list": [
+      "Bajo coste. El tiempo empleado para realizar la instalación es menor.",
+      "Ergonomía. La pistola ofrece un buen agarre y un peso ligero.",
+      "Rapidez.",
+      "Procedimiento de recarga automático.",
+      "pistola de fijación directa, maletín, accesorios y productos relacionados"
+    ],
     "interactive__popover": [
       {
-        "interactive__popover__description": "Batería de Litio de gran capacidad"
+        "description": "Batería de Litio de gran capacidad",
+        "coors": "left: 67%; top: 10%"
       },
       {
-        "interactive__popover__description": "Ligera, cómoda y fácil de usar. 3,8 kg de peso"
+        "description": "Ligera, cómoda y fácil de usar. 3,8 kg de peso",
+        "coors": "left: 73%; top: 31%"
       },
       {
-        "interactive__popover__description": "Profundidad de penetración ajustable"
+        "description": "Profundidad de penetración ajustable",
+        "coors": "left: 48%; top: 52%"
       },
       {
-        "interactive__popover__description": "Cañón para sector eléctrico"
+        "description": "Cañón para sector eléctrico",
+        "coors": "left: 18%; top: 32%"
       }
     ]
   },
@@ -49,37 +56,46 @@
     "title": "Características y ventajas de la fijación directa",
     "features": [
       {
+        "image": "assets/images/char-1.svg",
         "feature": "Fijación sobre hormigón y acero"
       },
       {
+        "image": "assets/images/char-2.svg",
         "feature": "Control de profundidad de clavado"
       },
       {
+        "image": "assets/images/char-3.svg",
         "feature": "Trabajos más rápidos y limpios"
       },
       {
+        "image": "assets/images/char-4.svg",
         "feature": "Sin cables"
       },
       {
+        "image": "assets/images/char-5.svg",
         "feature": "Sistemas de seguridad incorporados"
       },
       {
+        "image": "assets/images/char-6.svg",
         "feature": "Pistolas suministradas con maletín completo"
       },
       {
+        "image": "assets/images/char-7.svg",
         "feature": "Facilidad de uso"
       },
       {
+        "image": "assets/images/char-8.svg",
         "feature": "Gran autonomía de disparo"
       },
       {
+        "image": "assets/images/char-9.svg",
         "feature": "No necesita taladro previo, agilizando el proceso"
       },
       {
+        "image": "assets/images/char-10.svg",
         "feature": "Bajo retroceso"
       }
     ]
-
   },
   "range-section": {
     "title": "Pistola de fijación a gas",
@@ -87,14 +103,18 @@
       {
         "title": "FG-GUN",
         "description": "Pistola semiautomática de fijación a gas sin cables para tabiquería seca.",
-        "image": "assets/images/FG-GUNEL pistola PIM-2.png",
-        "image-alt": "CFG-GUN"
+        "image": "assets/images/FG-GUNEL-pistola-PIM-2.webp",
+        "image2x": "assets/images/FG-GUNEL-pistola-PIM-2_2x.webp",
+        "image-alt": "CFG-GUN",
+        "related-products-id": "FG-GUN"
       },
       {
         "title": "FG-CLH",
         "description": "Clavos con recubrimiento cincado para materiales duros",
-        "image": "assets/images/FG-GUNEL 1-1_1.png",
-        "image-alt": "FG-GUNEL"
+        "image": "assets/images/FG-GUNEL-1-1_1.webp",
+        "image2x": "assets/images/FG-GUNEL-1-1_1_2x.webp",
+        "image-alt": "FG-GUNEL",
+        "related-products-id": "FG-GUNEL"
       }
     ],
     "card-info-1": "La fijación directa mediante pistolas de gas, es sencilla: después de colocar la carga de gas, se sitúa la punta de la herramienta en la superficie para seguidamente accionar el gatillo.",
@@ -102,139 +122,153 @@
     "button-text": "Ver producto",
     "button-link": "https://www.indexfix.com/canales-venta/anclajes/fijacion-directa/fg-gun",
     "related-products-title": "Productos relacionados",
-    "related-products": [
+    "commons-related-products": [
       {
         "title": "FG-CL",
-        "description": "Clavos estándar con recubrimiento cincado para hormigón" ,
-        "image": "assets/images/FG-CL.jpeg",
+        "description": "Clavos estándar con recubrimiento cincado para hormigón",
+        "image": "assets/images/FG-CL.jpg",
         "image-alt": "FG-CL",
         "href": "https://www.indexfix.com/producto/10704-FG-CL-clavos-estandar"
       },
       {
         "title": "FG-CLH",
-        "description": "Clavos con recubrimiento cincado para materiales duros" ,
-        "image": "assets/images/FG-CLH.jpeg",
+        "description": "Clavos con recubrimiento cincado para materiales duros",
+        "image": "assets/images/FG-CLH.jpg",
         "image-alt": "FG-CLH",
         "href": "https://www.indexfix.com/producto/10703-FG-CLH-clavos-para-materiales-duros"
+      }
+    ],
+    "related-products": [
+      {
+        "id": "FG-GUN",
+        "swiper-id": "2",
+        "products": [
+          {
+            "title": "FG-ARAM EP",
+            "description": "Corona metálica. Formato de venta: bote de plástico",
+            "image": "assets/images/FG-ARAM-bote-1000-u.jpg",
+            "image-alt": "FG-ARAM EP",
+            "href": "https://www.indexfix.com/producto/11637-FG-ARAM-EP-arandela-metalica-bote-de-plastico"
+          },
+          {
+            "title": "FG-ARAM",
+            "description": "Corona metálica para pistola de gas",
+            "image": "assets/images/FG-ARAM.jpg",
+            "image-alt": "FG-ARAM",
+            "href": "https://www.indexfix.com/producto/11636-FG-ARAM-arandela-metalica"
+          },
+          {
+            "title": "OME",
+            "description": "Anclaje universal",
+            "image": "assets/images/OME.jpg",
+            "image-alt": "OME",
+            "href": "https://www.indexfix.com/producto/11173-OME-anclaje-universal"
+          },
+          {
+            "title": "AB-GU",
+            "description": "Abrazadera guía simple",
+            "image": "assets/images/AB-GU.jpg",
+            "image-alt": "AB-GU",
+            "href": "https://www.indexfix.com/producto/11305-AB-GU-abrazadera-guia-gris-simple-con-pre-rosca-m6"
+          },
+          {
+            "title": "AB-MUG",
+            "description": "Abrazadera multidiámetro",
+            "image": "assets/images/AB-MUG.jpg",
+            "image-alt": "AB-MUG",
+            "href": "https://www.indexfix.com/producto/10898-AB-MUG-abrazadera-multiusos"
+          },
+          {
+            "title": "AB-PR",
+            "description": "Abrazadera a presión",
+            "image": "assets/images/AB-PR.jpg",
+            "image-alt": "AB-PR",
+            "href": "https://www.indexfix.com/producto/11308-AB-PR-gris"
+          },
+          {
+            "title": "AB-PID",
+            "description": "Grapa un pie",
+            "image": "assets/images/AB-PID.jpg",
+            "image-alt": "AB-PID",
+            "href": "https://www.indexfix.com/producto/11496-AB-PID-grapa-1-pie-para-disparo"
+          },
+          {
+            "title": "FG-PLET",
+            "description": "Pletina roscada",
+            "image": "assets/images/FG-PLET.jpg",
+            "image-alt": "FG-PLET",
+            "href": "https://www.indexfix.com/producto/10691-FG-PLET-pletina-roscada-para-varilla"
+          },
+          {
+            "title": "FG-ABRA",
+            "description": "Abrazadera a presión",
+            "image": "assets/images/FG-ABRA.jpg",
+            "image-alt": "FG-ABRA",
+            "href": "https://www.indexfix.com/producto/10697-FG-ABRA-abrazadera-a-presion"
+          },
+          {
+            "title": "FG-BASE",
+            "description": "Base para brida. Color gris disponible",
+            "image": "assets/images/FG-BASE.jpg",
+            "image-alt": "FG-BASE",
+            "href": "https://www.indexfix.com/producto/10698-FG-BASE-base-para-brida"
+          },
+          {
+            "title": "CI-PE",
+            "description": "Cinta perforada",
+            "image": "assets/images/CI-PE.jpg",
+            "image-alt": "CI-PE",
+            "href": "https://www.indexfix.com/producto/11361-CI-PE-cinta-perforada-curva-atlantis-c2-m"
+          }
+        ]
       },
       {
-        "title": "FG-ARAM EP",
-        "description": "Corona metálica. Formato de venta: bote de plástico" ,
-        "image": "assets/images/FG-ARAM bote 1000 u.jpeg",
-        "image-alt": "FG-ARAM EP",
-        "href": "https://www.indexfix.com/producto/11637-FG-ARAM-EP-arandela-metalica-bote-de-plastico"
-      },
-      {
-        "title": "FG-ARAM",
-        "description": "Corona metálica para pistola de gas" ,
-        "image": "assets/images/FG-ARA M25.jpeg",
-        "image-alt": "FG-ARAM",
-        "href": "https://www.indexfix.com/producto/11636-FG-ARAM-arandela-metalica"
-      },
-      {
-        "title": "OME",
-        "description": "Anclaje universal" ,
-        "image": "assets/images/OME.jpeg",
-        "image-alt": "OME",
-        "href": "https://www.indexfix.com/producto/11173-OME-anclaje-universal"
-      },
-      {
-        "title": "AB-GU",
-        "description": "Abrazadera guía simple" ,
-        "image": "assets/images/AB-GU.jpeg",
-        "image-alt": "AB-GU",
-        "href": "https://www.indexfix.com/producto/11305-AB-GU-abrazadera-guia-gris-simple-con-pre-rosca-m6"
-      },
-      {
-        "title": "AB-MUG",
-        "description": "Abrazadera multidiámetro" ,
-        "image": "assets/images/AB-MUG.jpeg",
-        "image-alt": "AB-MUG",
-        "href": "https://www.indexfix.com/producto/10898-AB-MUG-abrazadera-multiusos"
-      },
-      {
-        "title": "AB-PR",
-        "description": "Abrazadera a presión" ,
-        "image": "assets/images/FG-CL.png",
-        "image-alt": "AB-PR",
-        "href": "https://www.indexfix.com/producto/11308-AB-PR-gris"
-      },
-      {
-        "title": "AB-PID",
-        "description": "Grapa un pie" ,
-        "image": "assets/images/AB-PID.jpeg",
-        "image-alt": "AB-PID",
-        "href": "https://www.indexfix.com/producto/11496-AB-PID-grapa-1-pie-para-disparo"
-      },
-      {
-        "title": "FG-PLET",
-        "description": "Pletina roscada" ,
-        "image": "assets/images/FG-PLET.jpeg",
-        "image-alt": "FG-PLET",
-        "href": "https://www.indexfix.com/producto/10691-FG-PLET-pletina-roscada-para-varilla"
-      },
-      {
-        "title": "FG-ABRA",
-        "description": "Abrazadera a presión" ,
-        "image": "assets/images/FG-ABRA.jpeg",
-        "image-alt": "FG-ABRA",
-        "href": "https://www.indexfix.com/producto/10697-FG-ABRA-abrazadera-a-presion"
-      },
-      {
-        "title": "FG-BASE",
-        "description": "Base para brida. Color gris disponible",
-        "image": "assets/images/FG-BASE.jpeg",
-        "image-alt": "FG-BASE",
-        "href": "https://www.indexfix.com/producto/10698-FG-BASE-base-para-brida"
-      },
-      {
-        "title": "CI-PE",
-        "description": "Cinta perforada" ,
-        "image": "assets/images/CI-PE.jpeg",
-        "image-alt": "CI-PE",
-        "href": "https://www.indexfix.com/producto/11361-CI-PE-cinta-perforada-curva-atlantis-c2-m"
-      },
-      {
-        "title": "FG-GAS",
-        "description": "Cartucho de gas" ,
-        "image": "assets/images/FG-GAS.jpeg",
-        "image-alt": "FG-GAS",
-        "href": "https://www.indexfix.com/producto/10699-FG-GAS-cartucho-de-gas"
-      },
-      {
-        "title": "FG-CAEL",
-        "description": "Cañón de pistola especial para electricista" ,
-        "image": "assets/images/FG-CAEL.jpeg",
-        "image-alt": "FG-CAEL",
-        "href": "https://www.indexfix.com/producto/11642-FG-CAEL-canon-de-pistola-especial-para-electricista"
-      },
-      {
-        "title": "FG-CLCAR",
-        "description": "Cargador para 40 clavos" ,
-        "image": "assets/images/FG-CLCAR40.jpeg",
-        "image-alt": "FG-CLCAR",
-        "href": "https://www.indexfix.com/producto/11626-FG-CLCAR-cargador-para-40-clavos"
-      },
-      {
-        "title": "FG-IMAN",
-        "description": "Imán" ,
-        "image": "assets/images/FG-IMAN.jpeg",
-        "image-alt": "FG-IMAN",
-        "href": "https://www.indexfix.com/producto/10690-FG-IMAN-iman"
-      },
-      {
-        "title": "FG-BAT",
-        "description": "Batería para pistola" ,
-        "image": "assets/images/FG-BAT PIM.jpeg",
-        "image-alt": "FG-BAT",
-        "href": "https://www.indexfix.com/producto/10701-FG-BAT-bateria-para-pistola-fp60gun"
-      },
-      {
-        "title": "FG-CAR",
-        "description": "Cargador para pistola" ,
-        "image": "assets/images/FG-CAR.jpeg",
-        "image-alt": "FG-CAR",
-        "href": "https://www.indexfix.com/producto/10700-FG-CAR-cargador-para-pistola-fp60gun"
+        "id": "FG-GUNEL",
+        "swiper-id": "3",
+        "products": [
+          {
+            "title": "FG-GAS",
+            "description": "Cartucho de gas",
+            "image": "assets/images/FG-GAS.jpg",
+            "image-alt": "FG-GAS",
+            "href": "https://www.indexfix.com/producto/10699-FG-GAS-cartucho-de-gas"
+          },
+          {
+            "title": "FG-CAEL",
+            "description": "Cañón de pistola especial para electricista",
+            "image": "assets/images/FG-CAEL.jpg",
+            "image-alt": "FG-CAEL",
+            "href": "https://www.indexfix.com/producto/11642-FG-CAEL-canon-de-pistola-especial-para-electricista"
+          },
+          {
+            "title": "FG-CLCAR",
+            "description": "Cargador para 40 clavos",
+            "image": "assets/images/FG-CLCAR.jpg",
+            "image-alt": "FG-CLCAR",
+            "href": "https://www.indexfix.com/producto/11626-FG-CLCAR-cargador-para-40-clavos"
+          },
+          {
+            "title": "FG-IMAN",
+            "description": "Imán",
+            "image": "assets/images/FG-IMAN.jpg",
+            "image-alt": "FG-IMAN",
+            "href": "https://www.indexfix.com/producto/10690-FG-IMAN-iman"
+          },
+          {
+            "title": "FG-BAT",
+            "description": "Batería para pistola",
+            "image": "assets/images/FG-BAT.jpg",
+            "image-alt": "FG-BAT",
+            "href": "https://www.indexfix.com/producto/10701-FG-BAT-bateria-para-pistola-fp60gun"
+          },
+          {
+            "title": "FG-CAR",
+            "description": "Cargador para pistola",
+            "image": "assets/images/FG-CAR.jpg",
+            "image-alt": "FG-CAR",
+            "href": "https://www.indexfix.com/producto/10700-FG-CAR-cargador-para-pistola-fp60gun"
+          }
+        ]
       }
     ]
   },
@@ -242,36 +276,54 @@
     "title": "Aplicaciones",
     "aplications-cards": [
       {
-        "description": "Instalación de canales y angulares para placas de yeso laminado."
+        "description": "Instalación de canales y angulares para placas de yeso laminado.",
+        "image": "assets/images/...",
+        "image2x": "assets/images/..."
       },
       {
-        "description": "Fijación de mallas y tejidos técnicos sobre pared de hormigón."
+        "description": "Fijación de mallas y tejidos técnicos sobre pared de hormigón.",
+        "image": "assets/images/...",
+        "image2x": "assets/images/..."
       },
       {
-        "description": "Fijación de instalaciones eléctricas en el techo o en la pared."
+        "description": "Fijación de instalaciones eléctricas en el techo o en la pared.",
+        "image": "assets/images/...",
+        "image2x": "assets/images/..."
       },
       {
-        "description": "Fijación de tubos corrugados con brida al suelo, pared y techo."
+        "description": "Fijación de tubos corrugados con brida al suelo, pared y techo.",
+        "image": "assets/images/...",
+        "image2x": "assets/images/..."
       },
       {
-        "description": "Fijación de tubos rígidos sobre superficies planas (pared, techo…)."
+        "description": "Fijación de tubos rígidos sobre superficies planas (pared, techo…).",
+        "image": "assets/images/...",
+        "image2x": "assets/images/..."
       }
-    ] 
+    ]
   },
   "materials-section": {
     "title": "Materiales",
     "materials-cards": [
       {
-        "description": "materials"
+        "description": "materials",
+        "image": "assets/images/...",
+        "image2x": "assets/images/..."
       },
       {
-        "description": "Madera noble"
+        "description": "Madera noble",
+        "image": "assets/images/...",
+        "image2x": "assets/images/..."
       },
       {
-        "description": "Hormigón celular"
+        "description": "Hormigón celular",
+        "image": "assets/images/...",
+        "image2x": "assets/images/..."
       },
       {
-        "description": "Chapa - perfil pesado"
+        "description": "Chapa - perfil pesado",
+        "image": "assets/images/...",
+        "image2x": "assets/images/..."
       }
     ]
   },
@@ -279,54 +331,102 @@
     "title": "Guía de instalación con herramientas de fijación",
     "installation-cards": [
       {
-        "description": "1. Colocar cartucho de clavos en la pistola"
+        "description": "1. Colocar cartucho de clavos en la pistola",
+        "image": "assets/images/...",
+        "image2x": "assets/images/..."
       },
       {
-        "description": "2. Introducir el cartucho de gas"
+        "description": "2. Introducir el cartucho de gas",
+        "image": "assets/images/...",
+        "image2x": "assets/images/..."
       },
       {
-        "description": "3. Enganchar la batería"
+        "description": "3. Enganchar la batería",
+        "image": "assets/images/...",
+        "image2x": "assets/images/..."
       },
       {
-        "description": "4. Introducir los clavos en el cartucho"
+        "description": "4. Introducir los clavos en el cartucho",
+        "image": "assets/images/...",
+        "image2x": "assets/images/..."
       },
       {
-        "description": "5. Colocar la pistola boca abajo"
+        "description": "5. Colocar la pistola boca abajo",
+        "image": "assets/images/...",
+        "image2x": "assets/images/..."
       },
       {
-        "description": "6. Apretar hacia abajo la pistola sobre una superficie plana"
+        "description": "6. Apretar hacia abajo la pistola sobre una superficie plana",
+        "image": "assets/images/...",
+        "image2x": "assets/images/..."
       },
       {
-        "description": "7. Apretar el gatillo"
+        "description": "7. Apretar el gatillo",
+        "image": "assets/images/...",
+        "image2x": "assets/images/..."
       },
       {
-        "description": "8. Resultado final"
+        "description": "8. Resultado final",
+        "image": "assets/images/...",
+        "image2x": "assets/images/..."
       }
     ]
   },
   "documentation-section": {
     "title": "Documentación",
-    "technical-data-sheets-title": "Fichas técnicas",
-    "technical-data-sheet-item-1": "Pistola, accesorios y clavos FG",
-    "technical-data-sheet-url-1": "https://www.indexfix.com/docs/FT_GAS_es_rev4.pdf",
-    "technical-data-sheet-item-2": "Anclaje Universal OME",
-    "technical-data-sheet-url-2": "https://www.indexfix.com/docs/FT_ACPY_es_rev4.pdf",
-    "technical-data-sheet-item-3": "Abrazaderas AB",
-    "technical-data-sheet-url-3": "https://www.indexfix.com/docs/FT_ABRAPL_es_rev8.pdf",
-    "technical-data-sheet-item-4": "Abrazaderas AB-PID",
-    "technical-data-sheet-url-4": "https://www.indexfix.com/docs/FT_POL_es_rev6.pdf",
-    "technical-data-sheet-item-5": "Cinta Perforada CI-PE",
-    "technical-data-sheet-url-5": "https://www.indexfix.com/docs/FT_CIPE_es_rev5.pdf",
-    "safety-data-sheets-title": "Fichas de seguridad",
-    "safety-data-sheets-item-1": "FG-CL",
-    "safety-data-sheets-url-1": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf",
-    "safety-data-sheets-item-2": "FG-CLH",
-    "safety-data-sheets-url-2": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf",
-    "safety-data-sheets-item-3": "FG-CAR",
-    "safety-data-sheets-url-3": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf",
-    "declaration-of-performance-title": "Declaración de prestaciones",
-    "sdeclaration-of-performance-item-1": "OME",
-    "sdeclaration-of-performance-url-1": "https://www.indexfix.com/docs/DoP_OME_es_rev1.pdf"
+    "documentations": [
+      {
+        "title": "Fichas técnicas",
+        "items": [
+          {
+            "text": "Pistola, accesorios y clavos FG",
+            "url": "https://www.indexfix.com/docs/FT_GAS_es_rev4.pdf"
+          },
+          {
+            "text": "Anclaje Universal OME",
+            "url": "https://www.indexfix.com/docs/FT_ACPY_es_rev4.pdf"
+          },
+          {
+            "text": "Abrazaderas AB",
+            "url": "https://www.indexfix.com/docs/FT_ABRAPL_es_rev8.pdf"
+          },
+          {
+            "text": "Abrazaderas AB-PID",
+            "url": "https://www.indexfix.com/docs/FT_POL_es_rev6.pdf"
+          },
+          {
+            "text": "Cinta Perforada CI-PE",
+            "url": "https://www.indexfix.com/docs/FT_CIPE_es_rev5.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Fichas de seguridad",
+        "items": [
+          {
+            "text": "FG-CL",
+            "url": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf"
+          },
+          {
+            "text": "FG-CLH",
+            "url": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf"
+          },
+          {
+            "text": "FG-CAR",
+            "url": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Declaración de prestaciones",
+        "items": [
+          {
+            "text": "OME",
+            "url": "https://www.indexfix.com/docs/DoP_OME_es_rev1.pdf"
+          }
+        ]
+      }
+    ]
   },
   "contact-section": {
     "title": "Solicita más información",

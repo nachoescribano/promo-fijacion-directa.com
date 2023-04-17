@@ -57,43 +57,53 @@
     "features": [
       {
         "image": "assets/images/char-1.svg",
-        "feature": "Fijación sobre hormigón y acero"
+        "feature": "Fijación sobre hormigón y acero",
+        "image-alt": "clavo fijado a pared"
       },
       {
         "image": "assets/images/char-2.svg",
-        "feature": "Control de profundidad de clavado"
+        "feature": "Control de profundidad de clavado",
+        "image-alt": "panel de control"
       },
       {
         "image": "assets/images/char-3.svg",
-        "feature": "Trabajos más rápidos y limpios"
+        "feature": "Trabajos más rápidos y limpios",
+        "image-alt": "doble velocidad"
       },
       {
         "image": "assets/images/char-4.svg",
-        "feature": "Sin cables"
+        "feature": "Sin cables",
+        "image-alt": "batería"
       },
       {
         "image": "assets/images/char-5.svg",
-        "feature": "Sistemas de seguridad incorporados"
+        "feature": "Sistemas de seguridad incorporados",
+        "image-alt": "escudo seguridad"
       },
       {
         "image": "assets/images/char-6.svg",
-        "feature": "Pistolas suministradas con maletín completo"
+        "feature": "Pistolas suministradas con maletín completo",
+        "image-alt": "maletín de obra"
       },
       {
         "image": "assets/images/char-7.svg",
-        "feature": "Facilidad de uso"
+        "feature": "Facilidad de uso",
+        "image-alt": "barita mágica"
       },
       {
         "image": "assets/images/char-8.svg",
-        "feature": "Gran autonomía de disparo"
+        "feature": "Gran autonomía de disparo",
+        "image-alt": "reloj de arena"
       },
       {
         "image": "assets/images/char-9.svg",
-        "feature": "No necesita taladro previo, agilizando el proceso"
+        "feature": "No necesita taladro previo, agilizando el proceso",
+        "image-alt": "sin taladro"
       },
       {
         "image": "assets/images/char-10.svg",
-        "feature": "Bajo retroceso"
+        "feature": "Bajo retroceso",
+        "image-alt": "pistola de fijación directa"
       }
     ]
   },
@@ -278,27 +288,32 @@
       {
         "description": "Instalación de canales y angulares para placas de yeso laminado.",
         "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image2x": "assets/images/...",
+        "image-alt": "Instalación de canales y angulares para placas de yeso laminado con pistola de fijación directa."
       },
       {
         "description": "Fijación de mallas y tejidos técnicos sobre pared de hormigón.",
         "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image2x": "assets/images/...",
+        "image-alt": "tubos eléctricos fijados a techo y paredes."
       },
       {
         "description": "Fijación de instalaciones eléctricas en el techo o en la pared.",
         "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image2x": "assets/images/...",
+        "image-alt": "Instalación conductos de cableado eléctrico con pistola de fijación directa."
       },
       {
         "description": "Fijación de tubos corrugados con brida al suelo, pared y techo.",
         "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image2x": "assets/images/...",
+        "image-alt": "tubos eléctricos fijados a techo."
       },
       {
         "description": "Fijación de tubos rígidos sobre superficies planas (pared, techo…).",
         "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image2x": "assets/images/...",
+        "image-alt": "tubos eléctricos fijados a pared."
       }
     ]
   },
@@ -306,24 +321,28 @@
     "title": "Materiales",
     "materials-cards": [
       {
-        "description": "materials",
+        "description": "hormigón",
         "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image2x": "assets/images/...",
+        "image-alt": "hormigón"
       },
       {
         "description": "Madera noble",
         "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image2x": "assets/images/...",
+        "image-alt": "Madera noble"
       },
       {
         "description": "Hormigón celular",
         "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image2x": "assets/images/...",
+        "image-alt": "Hormigón celular"
       },
       {
         "description": "Chapa - perfil pesado",
         "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image2x": "assets/images/...", 
+        "image-alt": "Chapa - perfil pesado"
       }
     ]
   },
@@ -333,42 +352,50 @@
       {
         "description": "1. Colocar cartucho de clavos en la pistola",
         "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image2x": "assets/images/...",
+        "image-alt": "Colocación de cartucho de clavos en la pistola de fijación directa."
       },
       {
         "description": "2. Introducir el cartucho de gas",
         "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image2x": "assets/images/...",
+        "image-alt": "Introducción del cartucho de gas en la pistola de fijación directa."
       },
       {
         "description": "3. Enganchar la batería",
         "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image2x": "assets/images/...",
+        "image-alt": "Colocación de la batería en la pistola de fijación directa."
       },
       {
         "description": "4. Introducir los clavos en el cartucho",
         "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image2x": "assets/images/...",
+        "image-alt": "Introducción de los clavos en el cartucho de la pistola de fijación directa."
       },
       {
         "description": "5. Colocar la pistola boca abajo",
         "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image2x": "assets/images/...",
+        "image-alt": "Colocación de la pistola de fijación directa boca abajo."
       },
       {
         "description": "6. Apretar hacia abajo la pistola sobre una superficie plana",
         "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image2x": "assets/images/...",
+        "image-alt": "Apretar hacia abajo la pistola de fijación directa sobre una superficie plana."
       },
       {
         "description": "7. Apretar el gatillo",
         "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image2x": "assets/images/...",
+        "image-alt": "Apretar el gatillo de la pistola de fijación directa"
       },
       {
         "description": "8. Resultado final",
         "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image2x": "assets/images/...",
+        "image-alt": "Clavo introducido en superficie con pistola de fijación directa"
       }
     ]
   },

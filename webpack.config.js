@@ -61,6 +61,21 @@ function generateHandlerbarsPlugin(language) {
       ifEven: function (value) {
         return value % 2 === 0;
       },
+      sumValues: function (value1, value2) {
+        return value1 + value2;
+      },
+      ifCond: function (v1, v2, options) {
+        if (v1 === v2) {
+          return options.fn(this);
+        }
+        return options.inverse(this);
+      },
+      ifExists: function (v1, options) {
+        if (typeof v1 !== "undefined") {
+          return options.inverse(this);
+        }
+        return options.fn(this);
+      },
     },
 
     // hooks

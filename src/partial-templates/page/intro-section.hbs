@@ -1,0 +1,47 @@
+<a id="intro-section"></a>
+{{#with intro-section}}
+  <section class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 col-lg-5 mb-5">
+          <h2 class="section__title">{{title}}</h2>
+          <p>{{description-1}}</p>
+          <h3 class="block__title">{{subtitle}}</h3>
+          <ul class="item-list">
+            {{#each list}}
+              <li class="item-list__item">{{this}}</li>
+            {{/each}}
+        </div>
+        <div class="col-12 col-lg-7 mb-5">
+          <div class="row">
+            <div class="col-12">
+              <div class="interactive__container">
+                {{#each interactive__popover}}
+                  <div class="interactive__point" style="{{this.coors}}">
+                    <div class="interactive__button" tabindex="-1">
+                      <i class="interactive__icon-plus"></i>
+                    </div>
+                    <div class="interactive__popover">
+                      {{#ifExists this.title}}
+                        <p class="interactive__popover__title">
+                          {{this.title}}
+                        </p>
+                      {{/ifExists}}
+                      <p>
+                        {{this.description}}
+                      </p>
+                    </div>
+                </div>
+                {{/each}}
+                <picture >
+                    <source class="img-fluid" srcset="assets/images/_45A0885@2x.webp" media="(min-width: 600px)">
+                    <img class="img-fluid" src="assets/images/_45A0885.webp" alt="MDN">
+                </picture>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+{{/with}}

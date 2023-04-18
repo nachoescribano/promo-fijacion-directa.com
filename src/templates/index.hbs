@@ -3,30 +3,10 @@
   <body>
     {{> page/header}}
     <main>
-      <a id="main-section"></a>
-      <section class="main-section">
-        <header class="main-section__header">
-          <h1 class="main-section__title">
-            <b class="main-section__bold">{{main-section.title}}</b>
-          </h1>
-          <p class="main-section__subtitle">
-            {{main-section.subtitle}}
-          </p>
-        </header>
-        <img
-          class="main-section__image js-main-section__image"
-          src="assets/images/Anclajes plasticos 20 06.webp"
-          alt="{{main-section.image-alt}}"
-        />
-        <div class="main-section__content">
-          <p>
-            {{main-section.p-1}}
-          </p>
-          <p>
-            {{main-section.p-2}}
-          </p>
-        </div>
-      </section>
+      {{> page/main-section}}
+      {{> page/intro-section}}
+      {{> page/features-section}}
+      {{> page/range-section}}
       <a id="gama"></a>
       <section class="section">
         <div class="container">

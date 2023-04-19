@@ -1,0 +1,483 @@
+{
+  "lang": "fr",
+  "description": "",
+  "keywords": "",
+  "title": "",
+  "home": "AccueilAccueilAccueilAccueil",
+  "features": "Caract&eacute;ristiquesCaract&eacute;ristiquesCaract&eacute;ristiquesCaract&eacute;ristiques",
+  "range": "GammeGammeGammeGamme",
+  "applications": "ApplicationsApplicationsApplicationsApplications",
+  "materials": "Mat&eacute;riauxMat&eacute;riauxMat&eacute;riauxMat&eacute;riaux",
+  "installation": "InstallationInstallationInstallationInstallation",
+  "documentation": "DocumentationDocumentationDocumentationDocumentation",
+  "contact": "ContactContactContactContact",
+  "main-section": {
+    "title": "Fixation directeFixation directeFixation directeFixation directe",
+    "image-alt": "Op&eacute;rateur utilisant un pistolet de fixation directe pour ancrer un profil&eacute; au sol.Op&eacute;rateur utilisant un pistolet de fixation directe pour ancrer un profil&eacute; au sol.Op&eacute;rateur utilisant un pistolet de fixation directe pour ancrer un profil&eacute; au sol.Op&eacute;rateur utilisant un pistolet de fixation directe pour ancrer un profil&eacute; au sol.",
+    "checklist": [
+      "Temps de travail r&eacute;duitTemps de travail r&eacute;duitTemps de travail r&eacute;duitTemps de travail r&eacute;duit",
+      "Plus grande productivit&eacute;Plus grande productivit&eacute;Plus grande productivit&eacute;Plus grande productivit&eacute;",
+      "Davantage de s&eacute;curit&eacute;Davantage de s&eacute;curit&eacute;Davantage de s&eacute;curit&eacute;Davantage de s&eacute;curit&eacute;"
+    ],
+    "know-range": "D&eacute;couvrir la gammeD&eacute;couvrir la gammeD&eacute;couvrir la gammeD&eacute;couvrir la gamme",
+    "url-know-range": "https://www.indexfix.com/canales-venta/anclajes/fijacion-directa"
+  },
+  "intro-section": {
+    "title": "Qu&apos;est-ce que la fixation directe ?Qu&apos;est-ce que la fixation directe ?Qu&apos;est-ce que la fixation directe ?Qu&apos;est-ce que la fixation directe ?",
+    "description-1": "La fixation directe permet un travail pr&eacute;cis et fiable et d&rsquo;&eacute;conomiser du temps dans l&apos;installation gr&acirc;ce &agrave; une application rapide.La fixation directe permet un travail pr&eacute;cis et fiable et d&rsquo;&eacute;conomiser du temps dans l&apos;installation gr&acirc;ce &agrave; une application rapide. La fixation directe au gaz permet une fixation instantan&eacute;e, autonome et rapide.La fixation directe au gaz permet une fixation instantan&eacute;e, autonome et rapide. Le syst&egrave;me est parfait pour les travaux qui n&eacute;cessitent force et puissance pour travailler sur des mat&eacute;riaux comme le b&eacute;ton, le b&eacute;ton cellulaire, le bois pr&eacute;cieux et l&apos;acier.Le syst&egrave;me est parfait pour les travaux qui n&eacute;cessitent force et puissance pour travailler sur des mat&eacute;riaux comme le b&eacute;ton, le b&eacute;ton cellulaire, le bois pr&eacute;cieux et l&apos;acier.La fixation directe permet un travail pr&eacute;cis et fiable et d&rsqLa fixation directe permet un travail pr&eacute;cis et fiable et d&rsquo;&eacute;conomiser du temps dans l&apos;installation gr&acirc;ce &agrave; une application rapide.La fixation directe permet un travail pr&eacute;cis et fiable et d&rsquo;&eacute;conomiser du temps dans l&apos;installation gr&acirc;ce &agrave; une application rapide. La fixation directe au gaz permet une fixation instantan&eacute;e, autonome et rapide.La fixation directe au gaz permet une fixation instantan&eacute;e, autonome et rapide. Le syst&egrave;me est parfait pour les travaux qui n&eacute;cessitent force et puissance pour travailler sur des mat&eacute;riaux comme le b&eacute;ton, le b&eacute;ton cellulaire, le bois pr&eacute;cieux et l&apos;acier.Le syst&egrave;me est parfait pour les travaux qui n&eacute;cessitent force et puissance pour travailler sur des mat&eacute;riaux comme le b&eacute;ton, le b&eacute;ton cellulaire, le bois pr&eacute;cieux et l&apos;acier.La fixation directe permet un travail pr&eacute;cis et fiable et d&rsquo;&eacute;conomiser du temps dans l&apos;installation gr&acirc;ce &agrave; une application rapide.La fixation directe permet un travail pr&eacute;cis et fiable et d&rsquo;&eacute;conomiser du temps dans l&apos;installation gr&acirc;ce &agrave; une application rapide. La fixation directe au gaz permet une fixation instantan&eacute;e, autonome et rapide.La fixation directe au gaz permet une fixation instantan&eacute;e, autonome et rapide. Le syst&egrave;me est parfait pour les travaux qui n&eacute;cessitent force et puissance pour travailler sur des mat&eacute;riaux comme le b&eacute;ton, le b&eacute;ton cellulaire, le bois pr&eacute;cieux et l&apos;acier.Le syst&egrave;me est parfait pour les travaux qui n&eacute;cessitent force et puissance pour travailler sur des mat&eacute;riaux comme le b&eacute;ton, le b&eacute;ton cellulaire, le bois pr&eacute;cieux et l&apos;acier.",
+    "subtitle": "AvantagesAvantagesAvantagesAvantages",
+    "list": [
+      "Faible co&ucirc;t.Faible co&ucirc;t. Le temps employ&eacute; pour proc&eacute;der &agrave; l&rsquo;installation est inf&eacute;rieur.Le temps employ&eacute; pour proc&eacute;der &agrave; l&rsquo;installation est inf&eacute;rieur.Faible co&ucirc;t.Faible co&ucirc;t. Le temps employ&eacute; pour proc&eacute;der &agrave; l&rsquo;installation est inf&eacute;rieur.Le temps employ&eacute; pour proc&eacute;der &agrave; l&rsquo;installation est inf&eacute;rieur.",
+      "Ergonomie.Ergonomie. Le pistolet offre une bonne prise en main et un poids l&eacute;ger.Le pistolet offre une bonne prise en main et un poids l&eacute;ger.Ergonomie.Ergonomie. Le pistolet offre une bonne prise en main et un poids l&eacute;ger.Le pistolet offre une bonne prise en main et un poids l&eacute;ger.",
+      "Rapidit&eacute;.Rapidit&eacute;.Rapidit&eacute;.Rapidit&eacute;.",
+      "Proc&eacute;d&eacute; de recharge automatique.Proc&eacute;d&eacute; de recharge automatique.Proc&eacute;d&eacute; de recharge automatique.Proc&eacute;d&eacute; de recharge automatique."
+    ],
+    "image-alt": "pistolet de fixation directe, &eacute;tui, accessoires et produits associ&eacute;spistolet de fixation directe, &eacute;tui, accessoires et produits associ&eacute;spistolet de fixation directe, &eacute;tui, accessoires et produits associ&eacute;spistolet de fixation directe, &eacute;tui, accessoires et produits associ&eacute;s",
+    "interactive__popover": [
+      {
+        "description": "Batterie au lithium haute capacit&eacute;Batterie au lithium haute capacit&eacute;Batterie au lithium haute capacit&eacute;Batterie au lithium haute capacit&eacute;",
+        "coors": "left: 67%; top: 10%"
+      },
+      {
+        "description": "L&eacute;ger, confortable et facile &agrave; utiliser.L&eacute;ger, confortable et facile &agrave; utiliser. Poids : 3,8 kgPoids : 3,8 kgL&eacute;ger, confortable et facile &agrave; utiliser.L&eacute;ger, confortable et facile &agrave; utiliser. Poids : 3,8 kgPoids : 3,8 kg",
+        "coors": "left: 73%; top: 31%"
+      },
+      {
+        "description": "Profondeur de p&eacute;n&eacute;tration r&eacute;glableProfondeur de p&eacute;n&eacute;tration r&eacute;glableProfondeur de p&eacute;n&eacute;tration r&eacute;glableProfondeur de p&eacute;n&eacute;tration r&eacute;glable",
+        "coors": "left: 48%; top: 52%"
+      },
+      {
+        "description": "Canon pour secteur &eacute;lectriqueCanon pour secteur &eacute;lectriqueCanon pour secteur &eacute;lectriqueCanon pour secteur &eacute;lectrique",
+        "coors": "left: 18%; top: 32%"
+      }
+    ]
+  },
+  "features-section": {
+    "title": "Caract&eacute;ristiques et avantages de la fixation directeCaract&eacute;ristiques et avantages de la fixation directeCaract&eacute;ristiques et avantages de la fixation directeCaract&eacute;ristiques et avantages de la fixation directe",
+    "features": [
+      {
+        "image": "assets/images/char-1.svg",
+        "feature": "Fixation sur le b&eacute;ton et l&rsquo;acierFixation sur le b&eacute;ton et l&rsquo;acierFixation sur le b&eacute;ton et l&rsquo;acierFixation sur le b&eacute;ton et l&rsquo;acier",
+        "image-alt": "clou fix&eacute; au murclou fix&eacute; au murclou fix&eacute; au murclou fix&eacute; au mur"
+      },
+      {
+        "image": "assets/images/char-2.svg",
+        "feature": "Contr&ocirc;le de la profondeur de clouageContr&ocirc;le de la profondeur de clouageContr&ocirc;le de la profondeur de clouageContr&ocirc;le de la profondeur de clouage",
+        "image-alt": "panneau de commandepanneau de commandepanneau de commandepanneau de commande"
+      },
+      {
+        "image": "assets/images/char-3.svg",
+        "feature": "Des travaux plus rapides et propresDes travaux plus rapides et propresDes travaux plus rapides et propresDes travaux plus rapides et propres",
+        "image-alt": "double vitessedouble vitessedouble vitessedouble vitesse"
+      },
+      {
+        "image": "assets/images/char-4.svg",
+        "feature": "Sans c&acirc;blesSans c&acirc;blesSans c&acirc;blesSans c&acirc;bles",
+        "image-alt": "batteriebatteriebatteriebatterie"
+      },
+      {
+        "image": "assets/images/char-5.svg",
+        "feature": "Syst&egrave;mes de s&eacute;curit&eacute; incorpor&eacute;sSyst&egrave;mes de s&eacute;curit&eacute; incorpor&eacute;sSyst&egrave;mes de s&eacute;curit&eacute; incorpor&eacute;sSyst&egrave;mes de s&eacute;curit&eacute; incorpor&eacute;s",
+        "image-alt": "bouclier de s&eacute;curit&eacute;bouclier de s&eacute;curit&eacute;bouclier de s&eacute;curit&eacute;bouclier de s&eacute;curit&eacute;"
+      },
+      {
+        "image": "assets/images/char-6.svg",
+        "feature": "Pistolets fournis avec &eacute;tui completPistolets fournis avec &eacute;tui completPistolets fournis avec &eacute;tui completPistolets fournis avec &eacute;tui complet",
+        "image-alt": "&eacute;tui de chantier&eacute;tui de chantier&eacute;tui de chantier&eacute;tui de chantier"
+      },
+      {
+        "image": "assets/images/char-7.svg",
+        "feature": "Facile &agrave; utiliserFacile &agrave; utiliserFacile &agrave; utiliserFacile &agrave; utiliser",
+        "image-alt": "baguette magiquebaguette magiquebaguette magiquebaguette magique"
+      },
+      {
+        "image": "assets/images/char-8.svg",
+        "feature": "Longue distance de tirLongue distance de tirLongue distance de tirLongue distance de tir",
+        "image-alt": "sabliersabliersabliersablier"
+      },
+      {
+        "image": "assets/images/char-9.svg",
+        "feature": "Sans besoin de pr&eacute;-per&ccedil;age, ce qui acc&eacute;l&egrave;re le processus.Sans besoin de pr&eacute;-per&ccedil;age, ce qui acc&eacute;l&egrave;re le processus.Sans besoin de pr&eacute;-per&ccedil;age, ce qui acc&eacute;l&egrave;re le processus.Sans besoin de pr&eacute;-per&ccedil;age, ce qui acc&eacute;l&egrave;re le processus.",
+        "image-alt": "sans per&ccedil;agesans per&ccedil;agesans per&ccedil;agesans per&ccedil;age"
+      },
+      {
+        "image": "assets/images/char-10.svg",
+        "feature": "Faible reculFaible reculFaible reculFaible recul",
+        "image-alt": "pistolet de fixation directepistolet de fixation directepistolet de fixation directepistolet de fixation directe"
+      }
+    ]
+  },
+  "range-section": {
+    "title": "Pistolet de fixation &agrave; gazPistolet de fixation &agrave; gazPistolet de fixation &agrave; gazPistolet de fixation &agrave; gaz",
+    "range-cards": [
+      {
+        "title": "FG-GUNFG-GUNFG-GUNFG-GUN",
+        "description": "Pistolet &agrave; gaz semi-automatique sans fil pour cloisons s&egrave;ches.Pistolet &agrave; gaz semi-automatique sans fil pour cloisons s&egrave;ches.Pistolet &agrave; gaz semi-automatique sans fil pour cloisons s&egrave;ches.Pistolet &agrave; gaz semi-automatique sans fil pour cloisons s&egrave;ches.",
+        "image": "assets/images/FG-GUNEL-pistola-PIM-2.webp",
+        "image2x": "assets/images/FG-GUNEL-pistola-PIM-2_2x.webp",
+        "image-alt": "CFG-GUNCFG-GUNCFG-GUNCFG-GUN",
+        "related-products-id": "FG-GUNFG-GUNFG-GUNFG-GUN"
+      },
+      {
+        "title": "FG-CLHFG-CLHFG-CLHFG-CLH",
+        "description": "Clous avec rev&ecirc;tement zingu&eacute; pour mat&eacute;riaux dursClous avec rev&ecirc;tement zingu&eacute; pour mat&eacute;riaux dursClous avec rev&ecirc;tement zingu&eacute; pour mat&eacute;riaux dursClous avec rev&ecirc;tement zingu&eacute; pour mat&eacute;riaux durs",
+        "image": "assets/images/FG-GUNEL-1-1_1.webp",
+        "image2x": "assets/images/FG-GUNEL-1-1_1_2x.webp",
+        "image-alt": "FG-GUNELFG-GUNELFG-GUNELFG-GUNEL",
+        "related-products-id": "FG-GUNELFG-GUNELFG-GUNELFG-GUNEL"
+      }
+    ],
+    "card-info-1": "La fixation directe avec des pistolets &agrave; gaz est simple : apr&egrave;s avoir plac&eacute; la charge de gaz, la pointe de l&apos;outil est situ&eacute;e sur la surface et la g&acirc;chette est actionn&eacute;e.La fixation directe avec des pistolets &agrave; gaz est simple : apr&egrave;s avoir plac&eacute; la charge de gaz, la pointe de l&apos;outil est situ&eacute;e sur la surface et la g&acirc;chette est actionn&eacute;e.La fixation directe avec des pistolets &agrave; gaz est simple : apr&egrave;s avoir plac&eacute; la charge de gaz, la pointe de l&apos;outil est situ&eacute;e sur la surface et la g&acirc;chette est actionn&eacute;e.La fixation directe avec des pistolets &agrave; gaz est simple : apr&egrave;s avoir plac&eacute; la charge de gaz, la pointe de l&apos;outil est situ&eacute;e sur la surface et la g&acirc;chette est actionn&eacute;e.",
+    "card-info-2": "Apr&egrave;s avoir franchi le syst&egrave;me de s&eacute;curit&eacute; et appuy&eacute; sur la g&acirc;chette, une &eacute;tincelle est activ&eacute;e et enflamme le gaz dans la chambre de combustion.Apr&egrave;s avoir franchi le syst&egrave;me de s&eacute;curit&eacute; et appuy&eacute; sur la g&acirc;chette, une &eacute;tincelle est activ&eacute;e et enflamme le gaz dans la chambre de combustion. La batterie, incluse dans l&rsquo;&eacute;tui, active un ventilateur qui &eacute;vacue les gaz de combustion.La batterie, incluse dans l&rsquo;&eacute;tui, active un ventilateur qui &eacute;vacue les gaz de combustion.Apr&egrave;s avoir franchi le syst&egrave;me de s&eacute;curit&eacute; et appuy&eacute; sur la g&acirc;chette, une &eacute;tincelle est activ&eacute;e et enflamme le gaz dans la chambre de combustion.Apr&egrave;s avoir franchi le syst&egrave;me de s&eacute;curit&eacute; et appuy&eacute; sur la g&acirc;chette, une &eacute;tincelle est activ&eacute;e et enflamme le gaz dans la chambre de combustion. La bApr&egrave;s avoir franchi le syst&egrave;me de s&eacute;curit&eacute; et appuy&eacute; sur la g&acirc;chette, une &eacute;tincelle est activ&eacute;e et enflamme le gaz dans la chambre de combustion.Apr&egrave;s avoir franchi le syst&egrave;me de s&eacute;curit&eacute; et appuy&eacute; sur la g&acirc;chette, une &eacute;tincelle est activ&eacute;e et enflamme le gaz dans la chambre de combustion. La batterie, incluse dans l&rsquo;&eacute;tui, active un ventilateur qui &eacute;vacue les gaz de combustion.La batterie, incluse dans l&rsquo;&eacute;tui, active un ventilateur qui &eacute;vacue les gaz de combustion.Apr&egrave;s avoir franchi le syst&egrave;me de s&eacute;curit&eacute; et appuy&eacute; sur la g&acirc;chette, une &eacute;tincelle est activ&eacute;e et enflamme le gaz dans la chambre de combustion.Apr&egrave;s avoir franchi le syst&egrave;me de s&eacute;curit&eacute; et appuy&eacute; sur la g&acirc;chette, une &eacute;tincelle est activ&eacute;e et enflamme le gaz dans la chambre de combustion. La batterie, incluse dans l&rsquo;&eacute;tui, active un ventilateur qui &eacute;vacue les gaz de combustion.La batterie, incluse dans l&rsquo;&eacute;tui, active un ventilateur qui &eacute;vacue les gaz de combustion.",
+    "button-text": "Voir le produitVoir le produitVoir le produitVoir le produit",
+    "button-link": "https://www.indexfix.com/canales-venta/anclajes/fijacion-directa/fg-gun",
+    "related-products-title": "Produits associ&eacute;sProduits associ&eacute;sProduits associ&eacute;sProduits associ&eacute;s",
+    "commons-related-products": [
+      {
+        "title": "FG-CLFG-CLFG-CLFG-CL",
+        "description": "Clous standard avec rev&ecirc;tement zingu&eacute; pour le b&eacute;tonClous standard avec rev&ecirc;tement zingu&eacute; pour le b&eacute;tonClous standard avec rev&ecirc;tement zingu&eacute; pour le b&eacute;tonClous standard avec rev&ecirc;tement zingu&eacute; pour le b&eacute;ton",
+        "image": "assets/images/FG-CL.jpg",
+        "image-alt": "FG-CLFG-CLFG-CLFG-CL",
+        "href": "https://www.indexfix.com/producto/10704-FG-CL-clavos-estandar"
+      },
+      {
+        "title": "FG-CLHFG-CLHFG-CLHFG-CLH",
+        "description": "Clous avec rev&ecirc;tement zingu&eacute; pour mat&eacute;riaux dursClous avec rev&ecirc;tement zingu&eacute; pour mat&eacute;riaux dursClous avec rev&ecirc;tement zingu&eacute; pour mat&eacute;riaux dursClous avec rev&ecirc;tement zingu&eacute; pour mat&eacute;riaux durs",
+        "image": "assets/images/FG-CLH.jpg",
+        "image-alt": "FG-CLHFG-CLHFG-CLHFG-CLH",
+        "href": "https://www.indexfix.com/producto/10703-FG-CLH-clavos-para-materiales-duros"
+      }
+    ],
+    "related-products": [
+      {
+        "id": "FG-GUNFG-GUNFG-GUNFG-GUN",
+        "swiper-id": "2222",
+        "products": [
+          {
+            "title": "FG-ARAM EPFG-ARAM EPFG-ARAM EPFG-ARAM EP",
+            "description": "Couronne m&eacute;tallique.Couronne m&eacute;tallique. Format de vente : pot en plastiqueFormat de vente : pot en plastiqueCouronne m&eacute;tallique.Couronne m&eacute;tallique. Format de vente : pot en plastiqueFormat de vente : pot en plastique",
+            "image": "assets/images/FG-ARAM-bote-1000-u.jpg",
+            "image-alt": "FG-ARAM EPFG-ARAM EPFG-ARAM EPFG-ARAM EP",
+            "href": "https://www.indexfix.com/producto/11637-FG-ARAM-EP-arandela-metalica-bote-de-plastico"
+          },
+          {
+            "title": "FG-ARAMFG-ARAMFG-ARAMFG-ARAM",
+            "description": "Couronne m&eacute;tallique pour pistolet &agrave; gazCouronne m&eacute;tallique pour pistolet &agrave; gazCouronne m&eacute;tallique pour pistolet &agrave; gazCouronne m&eacute;tallique pour pistolet &agrave; gaz",
+            "image": "assets/images/FG-ARAM.jpg",
+            "image-alt": "FG-ARAMFG-ARAMFG-ARAMFG-ARAM",
+            "href": "https://www.indexfix.com/producto/11636-FG-ARAM-arandela-metalica"
+          },
+          {
+            "title": "OMEOMEOMEOME",
+            "description": "Ancrage universelAncrage universelAncrage universelAncrage universel",
+            "image": "assets/images/OME.jpg",
+            "image-alt": "OMEOMEOMEOME",
+            "href": "https://www.indexfix.com/producto/11173-OME-anclaje-universal"
+          },
+          {
+            "title": "AB-GUAB-GUAB-GUAB-GU",
+            "description": "Collier de guidage simpleCollier de guidage simpleCollier de guidage simpleCollier de guidage simple",
+            "image": "assets/images/AB-GU.jpg",
+            "image-alt": "AB-GUAB-GUAB-GUAB-GU",
+            "href": "https://www.indexfix.com/producto/11305-AB-GU-abrazadera-guia-gris-simple-con-pre-rosca-m6"
+          },
+          {
+            "title": "AB-MUGAB-MUGAB-MUGAB-MUG",
+            "description": "Collier multi-diam&egrave;treCollier multi-diam&egrave;treCollier multi-diam&egrave;treCollier multi-diam&egrave;tre",
+            "image": "assets/images/AB-MUG.jpg",
+            "image-alt": "AB-MUGAB-MUGAB-MUGAB-MUG",
+            "href": "https://www.indexfix.com/producto/10898-AB-MUG-abrazadera-multiusos"
+          },
+          {
+            "title": "AB-PRAB-PRAB-PRAB-PR",
+            "description": "Collier sous pressionCollier sous pressionCollier sous pressionCollier sous pression",
+            "image": "assets/images/AB-PR.jpg",
+            "image-alt": "AB-PRAB-PRAB-PRAB-PR",
+            "href": "https://www.indexfix.com/producto/11308-AB-PR-gris"
+          },
+          {
+            "title": "AB-PIDAB-PIDAB-PIDAB-PID",
+            "description": "Agrafe un piedAgrafe un piedAgrafe un piedAgrafe un pied",
+            "image": "assets/images/AB-PID.jpg",
+            "image-alt": "AB-PIDAB-PIDAB-PIDAB-PID",
+            "href": "https://www.indexfix.com/producto/11496-AB-PID-grapa-1-pie-para-disparo"
+          },
+          {
+            "title": "FG-PLETFG-PLETFG-PLETFG-PLET",
+            "description": "Plaque filet&eacute;ePlaque filet&eacute;ePlaque filet&eacute;ePlaque filet&eacute;e",
+            "image": "assets/images/FG-PLET.jpg",
+            "image-alt": "FG-PLETFG-PLETFG-PLETFG-PLET",
+            "href": "https://www.indexfix.com/producto/10691-FG-PLET-pletina-roscada-para-varilla"
+          },
+          {
+            "title": "FG-ABRAFG-ABRAFG-ABRAFG-ABRA",
+            "description": "Collier sous pressionCollier sous pressionCollier sous pressionCollier sous pression",
+            "image": "assets/images/FG-ABRA.jpg",
+            "image-alt": "FG-ABRAFG-ABRAFG-ABRAFG-ABRA",
+            "href": "https://www.indexfix.com/producto/10697-FG-ABRA-abrazadera-a-presion"
+          },
+          {
+            "title": "FG-BASEFG-BASEFG-BASEFG-BASE",
+            "description": "Base pour bride.Base pour bride. Couleur&nbsp;grise disponibleCouleur&nbsp;grise disponibleBase pour bride.Base pour bride. Couleur&nbsp;grise disponibleCouleur&nbsp;grise disponible",
+            "image": "assets/images/FG-BASE.jpg",
+            "image-alt": "FG-BASEFG-BASEFG-BASEFG-BASE",
+            "href": "https://www.indexfix.com/producto/10698-FG-BASE-base-para-brida"
+          },
+          {
+            "title": "CI-PECI-PECI-PECI-PE",
+            "description": "Bande perfor&eacute;eBande perfor&eacute;eBande perfor&eacute;eBande perfor&eacute;e",
+            "image": "assets/images/CI-PE.jpg",
+            "image-alt": "CI-PECI-PECI-PECI-PE",
+            "href": "https://www.indexfix.com/producto/11361-CI-PE-cinta-perforada-curva-atlantis-c2-m"
+          }
+        ]
+      },
+      {
+        "id": "FG-GUNELFG-GUNELFG-GUNELFG-GUNEL",
+        "swiper-id": "3333",
+        "products": [
+          {
+            "title": "FG-GASFG-GASFG-GASFG-GAS",
+            "description": "Cartouche de gazCartouche de gazCartouche de gazCartouche de gaz",
+            "image": "assets/images/FG-GAS.jpg",
+            "image-alt": "FG-GASFG-GASFG-GASFG-GAS",
+            "href": "https://www.indexfix.com/producto/10699-FG-GAS-cartucho-de-gas"
+          },
+          {
+            "title": "FG-CAELFG-CAELFG-CAELFG-CAEL",
+            "description": "Canon de pistolet sp&eacute;cial pour &eacute;lectricienCanon de pistolet sp&eacute;cial pour &eacute;lectricienCanon de pistolet sp&eacute;cial pour &eacute;lectricienCanon de pistolet sp&eacute;cial pour &eacute;lectricien",
+            "image": "assets/images/FG-CAEL.jpg",
+            "image-alt": "FG-CAELFG-CAELFG-CAELFG-CAEL",
+            "href": "https://www.indexfix.com/producto/11642-FG-CAEL-canon-de-pistola-especial-para-electricista"
+          },
+          {
+            "title": "FG-CLCARFG-CLCARFG-CLCARFG-CLCAR",
+            "description": "Chargeur pour 40 clousChargeur pour 40 clousChargeur pour 40 clousChargeur pour 40 clous",
+            "image": "assets/images/FG-CLCAR.jpg",
+            "image-alt": "FG-CLCARFG-CLCARFG-CLCARFG-CLCAR",
+            "href": "https://www.indexfix.com/producto/11626-FG-CLCAR-cargador-para-40-clavos"
+          },
+          {
+            "title": "FG-IMANFG-IMANFG-IMANFG-IMAN",
+            "description": "AimantAimantAimantAimant",
+            "image": "assets/images/FG-IMAN.jpg",
+            "image-alt": "FG-IMANFG-IMANFG-IMANFG-IMAN",
+            "href": "https://www.indexfix.com/producto/10690-FG-IMAN-iman"
+          },
+          {
+            "title": "FG-BATFG-BATFG-BATFG-BAT",
+            "description": "Batterie pour pistoletBatterie pour pistoletBatterie pour pistoletBatterie pour pistolet",
+            "image": "assets/images/FG-BAT.jpg",
+            "image-alt": "FG-BATFG-BATFG-BATFG-BAT",
+            "href": "https://www.indexfix.com/producto/10701-FG-BAT-bateria-para-pistola-fp60gun"
+          },
+          {
+            "title": "FG-CARFG-CARFG-CARFG-CAR",
+            "description": "Chargeur pour pistoletChargeur pour pistoletChargeur pour pistoletChargeur pour pistolet",
+            "image": "assets/images/FG-CAR.jpg",
+            "image-alt": "FG-CARFG-CARFG-CARFG-CAR",
+            "href": "https://www.indexfix.com/producto/10700-FG-CAR-cargador-para-pistola-fp60gun"
+          }
+        ]
+      }
+    ]
+  },
+  "applications-section": {
+    "title": "ApplicationsApplicationsApplicationsApplications",
+    "aplications-cards": [
+      {
+        "description": "Installation de canaux et angulaires pour les plaques de pl&acirc;tre.Installation de canaux et angulaires pour les plaques de pl&acirc;tre.Installation de canaux et angulaires pour les plaques de pl&acirc;tre.Installation de canaux et angulaires pour les plaques de pl&acirc;tre.",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Installation de canaux et angulaires pour les plaques de pl&acirc;tre avec pistolet de fixation directe.Installation de canaux et angulaires pour les plaques de pl&acirc;tre avec pistolet de fixation directe.Installation de canaux et angulaires pour les plaques de pl&acirc;tre avec pistolet de fixation directe.Installation de canaux et angulaires pour les plaques de pl&acirc;tre avec pistolet de fixation directe."
+      },
+      {
+        "description": "Fixation de mailles et de tissus techniques sur un mur en b&eacute;ton.Fixation de mailles et de tissus techniques sur un mur en b&eacute;ton.Fixation de mailles et de tissus techniques sur un mur en b&eacute;ton.Fixation de mailles et de tissus techniques sur un mur en b&eacute;ton.",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "tubes &eacute;lectriques fix&eacute;s au plafond et aux murs.tubes &eacute;lectriques fix&eacute;s au plafond et aux murs.tubes &eacute;lectriques fix&eacute;s au plafond et aux murs.tubes &eacute;lectriques fix&eacute;s au plafond et aux murs."
+      },
+      {
+        "description": "Fixation d&rsquo;installations &eacute;lectriques au plafond ou au mur.Fixation d&rsquo;installations &eacute;lectriques au plafond ou au mur.Fixation d&rsquo;installations &eacute;lectriques au plafond ou au mur.Fixation d&rsquo;installations &eacute;lectriques au plafond ou au mur.",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Installation de conduites de c&acirc;blage &eacute;lectrique avec pistolet &agrave; fixation directe.Installation de conduites de c&acirc;blage &eacute;lectrique avec pistolet &agrave; fixation directe.Installation de conduites de c&acirc;blage &eacute;lectrique avec pistolet &agrave; fixation directe.Installation de conduites de c&acirc;blage &eacute;lectrique avec pistolet &agrave; fixation directe."
+      },
+      {
+        "description": "Fixation de tuyaux ondul&eacute;s avec bride au sol, au mur et au plafond.Fixation de tuyaux ondul&eacute;s avec bride au sol, au mur et au plafond.Fixation de tuyaux ondul&eacute;s avec bride au sol, au mur et au plafond.Fixation de tuyaux ondul&eacute;s avec bride au sol, au mur et au plafond.",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "tubes &eacute;lectriques fix&eacute;s au plafond.tubes &eacute;lectriques fix&eacute;s au plafond.tubes &eacute;lectriques fix&eacute;s au plafond.tubes &eacute;lectriques fix&eacute;s au plafond."
+      },
+      {
+        "description": "Fixation de tubes rigides sur des surfaces planes (mur, plafond...).Fixation de tubes rigides sur des surfaces planes (mur, plafond...).Fixation de tubes rigides sur des surfaces planes (mur, plafond...).Fixation de tubes rigides sur des surfaces planes (mur, plafond...).",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "tubes &eacute;lectriques fix&eacute;s au mur.tubes &eacute;lectriques fix&eacute;s au mur.tubes &eacute;lectriques fix&eacute;s au mur.tubes &eacute;lectriques fix&eacute;s au mur."
+      }
+    ]
+  },
+  "materials-section": {
+    "title": "Mat&eacute;riauxMat&eacute;riauxMat&eacute;riauxMat&eacute;riaux",
+    "materials-cards": [
+      {
+        "description": "b&eacute;tonb&eacute;tonb&eacute;tonb&eacute;ton",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "b&eacute;tonb&eacute;tonb&eacute;tonb&eacute;ton"
+      },
+      {
+        "description": "Bois pr&eacute;cieuxBois pr&eacute;cieuxBois pr&eacute;cieuxBois pr&eacute;cieux",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Bois pr&eacute;cieuxBois pr&eacute;cieuxBois pr&eacute;cieuxBois pr&eacute;cieux"
+      },
+      {
+        "description": "B&eacute;ton cellulaireB&eacute;ton cellulaireB&eacute;ton cellulaireB&eacute;ton cellulaire",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "B&eacute;ton cellulaireB&eacute;ton cellulaireB&eacute;ton cellulaireB&eacute;ton cellulaire"
+      },
+      {
+        "description": "T&ocirc;le - profil&eacute; lourdT&ocirc;le - profil&eacute; lourdT&ocirc;le - profil&eacute; lourdT&ocirc;le - profil&eacute; lourd",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "T&ocirc;le - profil&eacute; lourdT&ocirc;le - profil&eacute; lourdT&ocirc;le - profil&eacute; lourdT&ocirc;le - profil&eacute; lourd"
+      }
+    ]
+  },
+  "installation-section": {
+    "title": "Guide d&apos;installation avec outils de fixationGuide d&apos;installation avec outils de fixationGuide d&apos;installation avec outils de fixationGuide d&apos;installation avec outils de fixation",
+    "installation-cards": [
+      {
+        "description": "1.1. Placer la cartouche de clous dans le pistoletPlacer la cartouche de clous dans le pistolet1.1. Placer la cartouche de clous dans le pistoletPlacer la cartouche de clous dans le pistolet",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Mise en place de la cartouche de clous dans le pistolet de fixation directe.Mise en place de la cartouche de clous dans le pistolet de fixation directe.Mise en place de la cartouche de clous dans le pistolet de fixation directe.Mise en place de la cartouche de clous dans le pistolet de fixation directe."
+      },
+      {
+        "description": "2.2. Introduire la cartouche de gazIntroduire la cartouche de gaz2.2. Introduire la cartouche de gazIntroduire la cartouche de gaz",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Introduction de la cartouche de gaz dans le pistolet de fixation directe.Introduction de la cartouche de gaz dans le pistolet de fixation directe.Introduction de la cartouche de gaz dans le pistolet de fixation directe.Introduction de la cartouche de gaz dans le pistolet de fixation directe."
+      },
+      {
+        "description": "3.3. Raccordement de la batterieRaccordement de la batterie3.3. Raccordement de la batterieRaccordement de la batterie",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Mise en place de la batterie dans le pistolet de fixation directe.Mise en place de la batterie dans le pistolet de fixation directe.Mise en place de la batterie dans le pistolet de fixation directe.Mise en place de la batterie dans le pistolet de fixation directe."
+      },
+      {
+        "description": "4.4. Introduire les clous dans la cartoucheIntroduire les clous dans la cartouche4.4. Introduire les clous dans la cartoucheIntroduire les clous dans la cartouche",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Introduction des clous dans la cartouche du pistolet de fixation directe.Introduction des clous dans la cartouche du pistolet de fixation directe.Introduction des clous dans la cartouche du pistolet de fixation directe.Introduction des clous dans la cartouche du pistolet de fixation directe."
+      },
+      {
+        "description": "5.5. Retourner le pistoletRetourner le pistolet5.5. Retourner le pistoletRetourner le pistolet",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Placer le pistolet de fixation directe &agrave; l&apos;envers.Placer le pistolet de fixation directe &agrave; l&apos;envers.Placer le pistolet de fixation directe &agrave; l&apos;envers.Placer le pistolet de fixation directe &agrave; l&apos;envers."
+      },
+      {
+        "description": "6.6. Appuyer sur le pistolet vers le bas sur une surface plane.Appuyer sur le pistolet vers le bas sur une surface plane.6.6. Appuyer sur le pistolet vers le bas sur une surface plane.Appuyer sur le pistolet vers le bas sur une surface plane.",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Appuyer sur le pistolet de fixation directe vers le bas sur une surface plane.Appuyer sur le pistolet de fixation directe vers le bas sur une surface plane.Appuyer sur le pistolet de fixation directe vers le bas sur une surface plane.Appuyer sur le pistolet de fixation directe vers le bas sur une surface plane."
+      },
+      {
+        "description": "7.7. Appuyer sur la g&acirc;chetteAppuyer sur la g&acirc;chette7.7. Appuyer sur la g&acirc;chetteAppuyer sur la g&acirc;chette",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Appuyer sur la g&acirc;chette du pistolet de fixation directeAppuyer sur la g&acirc;chette du pistolet de fixation directeAppuyer sur la g&acirc;chette du pistolet de fixation directeAppuyer sur la g&acirc;chette du pistolet de fixation directe"
+      },
+      {
+        "description": "8.8. R&eacute;sultat finalR&eacute;sultat final8.8. R&eacute;sultat finalR&eacute;sultat final",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Clou enfonc&eacute; dans la surface avec le pistolet de fixation directeClou enfonc&eacute; dans la surface avec le pistolet de fixation directeClou enfonc&eacute; dans la surface avec le pistolet de fixation directeClou enfonc&eacute; dans la surface avec le pistolet de fixation directe"
+      }
+    ]
+  },
+  "documentation-section": {
+    "title": "DocumentationDocumentationDocumentationDocumentation",
+    "documentations": [
+      {
+        "title": "Fiches techniquesFiches techniquesFiches techniquesFiches techniques",
+        "items": [
+          {
+            "text": "Pistolet, accessoires et clous FGPistolet, accessoires et clous FGPistolet, accessoires et clous FGPistolet, accessoires et clous FG",
+            "url": "https://www.indexfix.com/docs/FT_GAS_es_rev4.pdf"
+          },
+          {
+            "text": "Ancrage universel OMEAncrage universel OMEAncrage universel OMEAncrage universel OME",
+            "url": "https://www.indexfix.com/docs/FT_ACPY_es_rev4.pdf"
+          },
+          {
+            "text": "Colliers ABColliers ABColliers ABColliers AB",
+            "url": "https://www.indexfix.com/docs/FT_ABRAPL_es_rev8.pdf"
+          },
+          {
+            "text": "Colliers AB-PIDColliers AB-PIDColliers AB-PIDColliers AB-PID",
+            "url": "https://www.indexfix.com/docs/FT_POL_es_rev6.pdf"
+          },
+          {
+            "text": "Bande perfor&eacute;e CI-PEBande perfor&eacute;e CI-PEBande perfor&eacute;e CI-PEBande perfor&eacute;e CI-PE",
+            "url": "https://www.indexfix.com/docs/FT_CIPE_es_rev5.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Fiches de s&eacute;curit&eacute;Fiches de s&eacute;curit&eacute;Fiches de s&eacute;curit&eacute;Fiches de s&eacute;curit&eacute;",
+        "items": [
+          {
+            "text": "FG-CLFG-CLFG-CLFG-CL",
+            "url": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf"
+          },
+          {
+            "text": "FG-CLHFG-CLHFG-CLHFG-CLH",
+            "url": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf"
+          },
+          {
+            "text": "FG-CARFG-CARFG-CARFG-CAR",
+            "url": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf"
+          }
+        ]
+      },
+      {
+        "title": "D&eacute;claration de performancesD&eacute;claration de performancesD&eacute;claration de performancesD&eacute;claration de performances",
+        "items": [
+          {
+            "text": "OMEOMEOMEOME",
+            "url": "https://www.indexfix.com/docs/DoP_OME_es_rev1.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  "contact-section": {
+    "title": "Demandez plus d&rsquo;informationsDemandez plus d&rsquo;informationsDemandez plus d&rsquo;informationsDemandez plus d&rsquo;informations",
+    "error": "ErreurErreurErreurErreur",
+    "close": "FermerFermerFermerFermer",
+    "name": "Pr&eacute;nomPr&eacute;nomPr&eacute;nomPr&eacute;nom",
+    "surnames": "NomNomNomNom",
+    "company": "EntrepriseEntrepriseEntrepriseEntreprise",
+    "email": "E-mailE-mailE-mailE-mail",
+    "phone": "T&eacute;l&eacute;phoneT&eacute;l&eacute;phoneT&eacute;l&eacute;phoneT&eacute;l&eacute;phone",
+    "phone-legend": "Format accept&eacute; 613445599 ou +34613445599Format accept&eacute; 613445599 ou +34613445599Format accept&eacute; 613445599 ou +34613445599Format accept&eacute; 613445599 ou +34613445599",
+    "message": "Message/ConsultationMessage/ConsultationMessage/ConsultationMessage/Consultation",
+    "personal-data": "J&rsquo;accepte que mes donn&eacute;es personnelles soient utilis&eacute;es par le personnel technique de T&eacute;cnicas Expansivas SL (CIF B-26220491) pour me contacter uniquement dans le cadre de ma formation et de l&rsquo;assistance technique de ses produits.J&rsquo;accepte que mes donn&eacute;es personnelles soient utilis&eacute;es par le personnel technique de T&eacute;cnicas Expansivas SL (CIF B-26220491) pour me contacter uniquement dans le cadre de ma formation et de l&rsquo;assistance technique de ses produits.J&rsquo;accepte que mes donn&eacute;es personnelles soient utilis&eacute;es par le personnel technique de T&eacute;cnicas Expansivas SL (CIF B-26220491) pour me contacter uniquement dans le cadre de ma formation et de l&rsquo;assistance technique de ses produits.J&rsquo;accepte que mes donn&eacute;es personnelles soient utilis&eacute;es par le personnel technique de T&eacute;cnicas Expansivas SL (CIF B-26220491) pour me contacter uniquement dans le cadre de ma formation et de l&rsquo;assistancJ&rsquo;accepte que mes donn&eacute;es personnelles soient utilis&eacute;es par le personnel technique de T&eacute;cnicas Expansivas SL (CIF B-26220491) pour me contacter uniquement dans le cadre de ma formation et de l&rsquo;assistance technique de ses produits.J&rsquo;accepte que mes donn&eacute;es personnelles soient utilis&eacute;es par le personnel technique de T&eacute;cnicas Expansivas SL (CIF B-26220491) pour me contacter uniquement dans le cadre de ma formation et de l&rsquo;assistance technique de ses produits.J&rsquo;accepte que mes donn&eacute;es personnelles soient utilis&eacute;es par le personnel technique de T&eacute;cnicas Expansivas SL (CIF B-26220491) pour me contacter uniquement dans le cadre de ma formation et de l&rsquo;assistance technique de ses produits.J&rsquo;accepte que mes donn&eacute;es personnelles soient utilis&eacute;es par le personnel technique de T&eacute;cnicas Expansivas SL (CIF B-26220491) pour me contacter uniquement dans le cadre de ma formation et de l&rsquo;assistance technique de ses produits.",
+    "legal-data": "J&rsquo;ai lu et j&apos;accepte les <a href='https://www.indexfix.com/aviso-es' target='_blank' class='index-link'>Mentions L&eacute;gales</a>Mentions L&eacute;gales et la <a href='https://www.indexfix.com/privacidad' target='_blank' class='index-link'>Politique de Confidentialit&eacute;</a>Politique de Confidentialit&eacute;.J&rsquo;ai lu et j&apos;accepte les <a href='https://www.indexfix.com/aviso-es' target='_blank' class='index-link'>Mentions L&eacute;gales</a>Mentions L&eacute;gales et la <a href='https://www.indexfix.com/privacidad' target='_blank' class='index-link'>Politique de Confidentialit&eacute;</a>Politique de Confidentialit&eacute;.J&rsquo;ai lu et j&apos;accepte les <a href='https://www.indexfix.com/aviso-es' target='_blank' class='index-link'>Mentions L&eacute;gales</a>Mentions L&eacute;gales et la <a href='https://www.indexfix.com/privacidad' target='_blank' class='index-link'>Politique de Confidentialit&eacute;</a>Politique de Confidentialit&eacute;.J&rsquo;ai lu et j&apos;accepte les <a hJ&rsquo;ai lu et j&apos;accepte les Mentions L&eacute;gales<a href='https://www.indexfix.com/aviso-es' target='_blank' class='index-link'>Mentions L&eacute;gales</a> et la Politique de Confidentialit&eacute;<a href='https://www.indexfix.com/privacidad' target='_blank' class='index-link'>Politique de Confidentialit&eacute;</a>.J&rsquo;ai lu et j&apos;accepte les Mentions L&eacute;gales<a href='https://www.indexfix.com/aviso-es' target='_blank' class='index-link'>Mentions L&eacute;gales</a> et la Politique de Confidentialit&eacute;<a href='https://www.indexfix.com/privacidad' target='_blank' class='index-link'>Politique de Confidentialit&eacute;</a>.J&rsquo;ai lu et j&apos;accepte les Mentions L&eacute;gales<a href='https://www.indexfix.com/aviso-es' target='_blank' class='index-link'>Mentions L&eacute;gales</a> et la Politique de Confidentialit&eacute;<a href='https://www.indexfix.com/privacidad' target='_blank' class='index-link'>Politique de Confidentialit&eacute;</a>.J&rsquo;ai lu et j&apos;accepte les Mentions L&eacute;gales<a href='https://www.indexfix.com/aviso-es' target='_blank' class='index-link'>Mentions L&eacute;gales</a> et la Politique de Confidentialit&eacute;<a href='https://www.indexfix.com/privacidad' target='_blank' class='index-link'>Politique de Confidentialit&eacute;</a>.",
+    "description-1": "T&Eacute;CNICAS EXPANSIVAS S.L. informe que les donn&eacute;es &agrave; caract&egrave;re personnel fournies volontairement, dont la finalit&eacute;, les cessions pr&eacute;vues et autres circonstances sont d&eacute;crites au moment de la collecte des donn&eacute;es &agrave; caract&egrave;re personnel. Toutefois, selon le cas, la finalit&eacute; peut &ecirc;tre une des suivantes&nbsp;: traitement d&rsquo;une demande, r&eacute;clamation ou question pos&eacute;e&nbsp;; maintien de la relation &eacute;tablie&nbsp;; gestion int&eacute;grale et commerciale des clients&nbsp;; comptabilit&eacute; et facturation&nbsp;; ou envoi de communications, y compris par voie &eacute;lectronique, d&rsquo;actualit&eacute;s et activit&eacute;s relatives &agrave; T&Eacute;CNICAS EXPANSIVAS S.L.T&Eacute;CNICAS EXPANSIVAS S.L. informe que les donn&eacute;es &agrave; caract&egrave;re personnel fournies volontairement, dont la finalit&eacute;, les cessions pr&eacute;vues et autres circonstances sont d&eacute;crites au moment de la collT&Eacute;CNICAS EXPANSIVAS S.L. informe que les donn&eacute;es &agrave; caract&egrave;re personnel fournies volontairement, dont la finalit&eacute;, les cessions pr&eacute;vues et autres circonstances sont d&eacute;crites au moment de la collecte des donn&eacute;es &agrave; caract&egrave;re personnel. Toutefois, selon le cas, la finalit&eacute; peut &ecirc;tre une des suivantes&nbsp;: traitement d&rsquo;une demande, r&eacute;clamation ou question pos&eacute;e&nbsp;; maintien de la relation &eacute;tablie&nbsp;; gestion int&eacute;grale et commerciale des clients&nbsp;; comptabilit&eacute; et facturation&nbsp;; ou envoi de communications, y compris par voie &eacute;lectronique, d&rsquo;actualit&eacute;s et activit&eacute;s relatives &agrave; T&Eacute;CNICAS EXPANSIVAS S.L.T&Eacute;CNICAS EXPANSIVAS S.L. informe que les donn&eacute;es &agrave; caract&egrave;re personnel fournies volontairement, dont la finalit&eacute;, les cessions pr&eacute;vues et autres circonstances sont d&eacute;crites au moment de la collecte des donn&eacute;es &agrave; caract&egrave;re personnel. Toutefois, selon le cas, la finalit&eacute; peut &ecirc;tre une des suivantes&nbsp;: traitement d&rsquo;une demande, r&eacute;clamation ou question pos&eacute;e&nbsp;; maintien de la relation &eacute;tablie&nbsp;; gestion int&eacute;grale et commerciale des clients&nbsp;; comptabilit&eacute; et facturation&nbsp;; ou envoi de communications, y compris par voie &eacute;lectronique, d&rsquo;actualit&eacute;s et activit&eacute;s relatives &agrave; T&Eacute;CNICAS EXPANSIVAS S.L.T&Eacute;CNICAS EXPANSIVAS S.L. informe que les donn&eacute;es &agrave; caract&egrave;re personnel fournies volontairement, dont la finalit&eacute;, les cessions pr&eacute;vues et autres circonstances sont d&eacute;crites au moment de la collecte des donn&eacute;es &agrave; caract&egrave;re personnel. Toutefois, selon le cas, la finalit&eacute; peut &ecirc;tre une des suivantes&nbsp;: traitement d&rsquo;une demande, r&eacute;clamation ou question pos&eacute;e&nbsp;; maintien de lecte des donn&eacute;es &agrave; caract&egrave;re personnel. Toutefois, selon le cas, la finalit&eacute; peut &ecirc;tre une des suivantes&nbsp;: traitement d&rsquo;une demande, r&eacute;clamation ou question pos&eacute;e&nbsp;; maintien de la relation &eacute;tablie&nbsp;; gestion int&eacute;grale et commerciale des clients&nbsp;; comptabilit&eacute; et facturation&nbsp;; ou envoi de communications, y compris par voie &eacute;lectronique, d&rsquo;actualit&eacute;s et activit&eacute;s relatives &agrave; T&Eacute;CNICAS EXPANSIVAS S.L.T&Eacute;CNICAS EXPANSIVAS S.L. informe que les donn&eacute;es &agrave; caract&egrave;re personnel fournies volontairement, dont la finalit&eacute;, les cessions pr&eacute;vues et autres circonstances sont d&eacute;crites au moment de la collecte des donn&eacute;es &agrave; caract&egrave;re personnel. Toutefois, selon le cas, la finalit&eacute; peut &ecirc;tre une des suivantes&nbsp;: traitement d&rsquo;une demande, r&eacute;clamation ou question pos&eacute;e&nbsp;; maintien de la relation &eacute;tablie&nbsp;; gestion int&eacute;grale et commerciale des clients&nbsp;; comptabilit&eacute; et facturation&nbsp;; ou envoi de communications, y compris par voie &eacute;lectronique, d&rsquo;actualit&eacute;s et activit&eacute;s relatives &agrave; T&Eacute;CNICAS EXPANSIVAS S.L.T&Eacute;CNICAS EXPANSIVAS S.L. informe que les donn&eacute;es &agrave; caract&egrave;re personnel fournies volontairement, dont la finalit&eacute;, les cessions pr&eacute;vues et autres circonstances sont d&eacute;crites au moment de la collecte des donn&eacute;es &agrave; caract&egrave;re personnel. Toutefois, selon le cas, la finalit&eacute; peut &ecirc;tre une des suivantes&nbsp;: traitement d&rsquo;une demande, r&eacute;clamation ou question pos&eacute;e&nbsp;; maintien de la relation &eacute;tablie&nbsp;; gestion int&eacute;grale et commerciale des clients&nbsp;; comptabilit&eacute; et facturation&nbsp;; ou envoi de communications, y compris par voie &eacute;lectronique, d&rsquo;actualit&eacute;s et activit&eaca relation &eacute;tablie&nbsp;; gestion int&eacute;grale et commerciale des clients&nbsp;; comptabilit&eacute; et facturation&nbsp;; ou envoi de communications, y compris par voie &eacute;lectronique, d&rsquo;actualit&eacute;s et activit&eacute;s relatives &agrave; T&Eacute;CNICAS EXPANSIVAS S.L.T&Eacute;CNICAS EXPANSIVAS S.L. informe que les donn&eacute;es &agrave; caract&egrave;re personnel fournies volontairement, dont la finalit&eacute;, les cessions pr&eacute;vues et autres circonstances sont d&eacute;crites au moment de la collecte des donn&eacute;es &agrave; caract&egrave;re personnel. Toutefois, selon le cas, la finalit&eacute; peut &ecirc;tre une des suivantes&nbsp;: traitement d&rsquo;une demande, r&eacute;clamation ou question pos&eacute;e&nbsp;; maintien de la relation &eacute;tablie&nbsp;; gestion int&eacute;grale et commerciale des clients&nbsp;; comptabilit&eacute; et facturation&nbsp;; ou envoi de communications, y compris par voie &eacute;lectronique, d&rsquo;actualit&eacute;s et activit&eacute;s relatives &agrave; T&Eacute;CNICAS EXPANSIVAS S.L.",
+    "description-2": "Les donn&eacute;es int&eacute;gr&eacute;es &agrave; nos fichiers sont absolument confidentielles et seront trait&eacute;es dans la plus grande confidentialit&eacute; ainsi que conform&eacute;ment &agrave; toutes les exigences impos&eacute;es par le R&egrave;glement G&eacute;n&eacute;ral sur la Protection des Donn&eacute;es (RGPD) du 27 avril 2016.Les donn&eacute;es int&eacute;gr&eacute;es &agrave; nos fichiers sont absolument confidentielles et seront trait&eacute;es dans la plus grande confidentialit&eacute; ainsi que conform&eacute;ment &agrave; toutes les exigences impos&eacute;es par le R&egrave;glement G&eacute;n&eacute;ral sur la Protection des Donn&eacute;es (RGPD) du 27 avril 2016. Les donn&eacute;es resteront enregistr&eacute;es dans nos fichiers pendant la dur&eacute;e n&eacute;cessaire &agrave; la finalit&eacute; ayant motiv&eacute; leur collecte.Les donn&eacute;es resteront enregistr&eacute;es dans nos fichiers pendant la dur&eacute;e n&eacute;cessaire &agrave; la finalit&eacute; ayant motiv&eacutLes donn&eacute;es int&eacute;gr&eacute;es &agrave; nos fichiers sont absolument confidentielles et seront trait&eacute;es dans la plus grande confidentialit&eacute; ainsi que conform&eacute;ment &agrave; toutes les exigences impos&eacute;es par le R&egrave;glement G&eacute;n&eacute;ral sur la Protection des Donn&eacute;es (RGPD) du 27 avril 2016.Les donn&eacute;es int&eacute;gr&eacute;es &agrave; nos fichiers sont absolument confidentielles et seront trait&eacute;es dans la plus grande confidentialit&eacute; ainsi que conform&eacute;ment &agrave; toutes les exigences impos&eacute;es par le R&egrave;glement G&eacute;n&eacute;ral sur la Protection des Donn&eacute;es (RGPD) du 27 avril 2016. Les donn&eacute;es resteront enregistr&eacute;es dans nos fichiers pendant la dur&eacute;e n&eacute;cessaire &agrave; la finalit&eacute; ayant motiv&eacute; leur collecte.Les donn&eacute;es resteront enregistr&eacute;es dans nos fichiers pendant la dur&eacute;e n&eacute;cessaire &agrave; la finalit&eacute; ayant motiv&eacute; leur collecte. Le d&eacute;lai pendant lequel les donn&eacute;es personnelles seront conserv&eacute;es sera celui d&eacute;fini par la l&eacute;gislation en vigueur et toujours pendant la dur&eacute;e de la prestation du service pour lequel elles ont &eacute;t&eacute; communiqu&eacute;es.Le d&eacute;lai pendant lequel les donn&eacute;es personnelles seront conserv&eacute;es sera celui d&eacute;fini par la l&eacute;gislation en vigueur et toujours pendant la dur&eacute;e de la prestation du service pour lequel elles ont &eacute;t&eacute; communiqu&eacute;es.Les donn&eacute;es int&eacute;gr&eacute;es &agrave; nos fichiers sont absolument confidentielles et seront trait&eacute;es dans la plus grande confidentialit&eacute; ainsi que conform&eacute;ment &agrave; toutes les exigences impos&eacute;es par le R&egrave;glement G&eacute;n&eacute;ral sur la Protection des Donn&eacute;es (RGPD) du 27 avril 2016.Les donn&eacute;es int&eacute;gr&eacute;es &agrave; nos fichiers sont absolument confidentielles et seront tre; leur collecte. Le d&eacute;lai pendant lequel les donn&eacute;es personnelles seront conserv&eacute;es sera celui d&eacute;fini par la l&eacute;gislation en vigueur et toujours pendant la dur&eacute;e de la prestation du service pour lequel elles ont &eacute;t&eacute; communiqu&eacute;es.Le d&eacute;lai pendant lequel les donn&eacute;es personnelles seront conserv&eacute;es sera celui d&eacute;fini par la l&eacute;gislation en vigueur et toujours pendant la dur&eacute;e de la prestation du service pour lequel elles ont &eacute;t&eacute; communiqu&eacute;es.Les donn&eacute;es int&eacute;gr&eacute;es &agrave; nos fichiers sont absolument confidentielles et seront trait&eacute;es dans la plus grande confidentialit&eacute; ainsi que conform&eacute;ment &agrave; toutes les exigences impos&eacute;es par le R&egrave;glement G&eacute;n&eacute;ral sur la Protection des Donn&eacute;es (RGPD) du 27 avril 2016.Les donn&eacute;es int&eacute;gr&eacute;es &agrave; nos fichiers sont absolument confidentielles et seront trait&eacute;es dans la plus grande confidentialit&eacute; ainsi que conform&eacute;ment &agrave; toutes les exigences impos&eacute;es par le R&egrave;glement G&eacute;n&eacute;ral sur la Protection des Donn&eacute;es (RGPD) du 27 avril 2016. Les donn&eacute;es resteront enregistr&eacute;es dans nos fichiers pendant la dur&eacute;e n&eacute;cessaire &agrave; la finalit&eacute; ayant motiv&eacute; leur collecte.Les donn&eacute;es resteront enregistr&eacute;es dans nos fichiers pendant la dur&eacute;e n&eacute;cessaire &agrave; la finalit&eacute; ayant motiv&eacute; leur collecte. Le d&eacute;lai pendant lequel les donn&eacute;es personnelles seront conserv&eacute;es sera celui d&eacute;fini par la l&eacute;gislation en vigueur et toujours pendant la dur&eacute;e de la prestation du service pour lequel elles ont &eacute;t&eacute; communiqu&eacute;es.Le d&eacute;lai pendant lequel les donn&eacute;es personnelles seront conserv&eacute;es sera celui d&eacute;fini par la l&eacute;gislation en vigueur et toujours pendait&eacute;es dans la plus grande confidentialit&eacute; ainsi que conform&eacute;ment &agrave; toutes les exigences impos&eacute;es par le R&egrave;glement G&eacute;n&eacute;ral sur la Protection des Donn&eacute;es (RGPD) du 27 avril 2016. Les donn&eacute;es resteront enregistr&eacute;es dans nos fichiers pendant la dur&eacute;e n&eacute;cessaire &agrave; la finalit&eacute; ayant motiv&eacute; leur collecte.Les donn&eacute;es resteront enregistr&eacute;es dans nos fichiers pendant la dur&eacute;e n&eacute;cessaire &agrave; la finalit&eacute; ayant motiv&eacute; leur collecte. Le d&eacute;lai pendant lequel les donn&eacute;es personnelles seront conserv&eacute;es sera celui d&eacute;fini par la l&eacute;gislation en vigueur et toujours pendant la dur&eacute;e de la prestation du service pour lequel elles ont &eacute;t&eacute; communiqu&eacute;es.Le d&eacute;lai pendant lequel les donn&eacute;es personnelles seront conserv&eacute;es sera celui d&eacute;fini par la l&eacute;gislation en vigueur et toujours pendant la dur&eacute;e de la prestation du service pour lequel elles ont &eacute;t&eacute; communiqu&eacute;es.",
+    "description-3": "Il est recommand&eacute; de ne pas envoyer de donn&eacute;es personnelles de haut niveau, selon la l&eacute;gislation de protection des donn&eacute;es, comme celles relatives &agrave; la sant&eacute;, car leur transfert n&apos;est pas chiffr&eacute; ni crypt&eacute;.Il est recommand&eacute; de ne pas envoyer de donn&eacute;es personnelles de haut niveau, selon la l&eacute;gislation de protection des donn&eacute;es, comme celles relatives &agrave; la sant&eacute;, car leur transfert n&apos;est pas chiffr&eacute; ni crypt&eacute;. Par cons&eacute;quent, si vous les envoyez, vous le ferez sous votre enti&egrave;re responsabilit&eacute;.Par cons&eacute;quent, si vous les envoyez, vous le ferez sous votre enti&egrave;re responsabilit&eacute;.Il est recommand&eacute; de ne pas envoyer de donn&eacute;es personnelles de haut niveau, selon la l&eacute;gislation de protection des donn&eacute;es, comme celles relatives &agrave; la sant&eacute;, car leur transfert n&apos;est pas chiffr&eacute; ni crypt&eacute;.Il est recIl est recommand&eacute; de ne pas envoyer de donn&eacute;es personnelles de haut niveau, selon la l&eacute;gislation de protection des donn&eacute;es, comme celles relatives &agrave; la sant&eacute;, car leur transfert n&apos;est pas chiffr&eacute; ni crypt&eacute;.Il est recommand&eacute; de ne pas envoyer de donn&eacute;es personnelles de haut niveau, selon la l&eacute;gislation de protection des donn&eacute;es, comme celles relatives &agrave; la sant&eacute;, car leur transfert n&apos;est pas chiffr&eacute; ni crypt&eacute;. Par cons&eacute;quent, si vous les envoyez, vous le ferez sous votre enti&egrave;re responsabilit&eacute;.Par cons&eacute;quent, si vous les envoyez, vous le ferez sous votre enti&egrave;re responsabilit&eacute;.Il est recommand&eacute; de ne pas envoyer de donn&eacute;es personnelles de haut niveau, selon la l&eacute;gislation de protection des donn&eacute;es, comme celles relatives &agrave; la sant&eacute;, car leur transfert n&apos;est pas chiffr&eacute; ni crypt&eacute;.Il est recommand&eacute; de ne pas envoyer de donn&eacute;es personnelles de haut niveau, selon la l&eacute;gislation de protection des donn&eacute;es, comme celles relatives &agrave; la sant&eacute;, car leur transfert n&apos;est pas chiffr&eacute; ni crypt&eacute;. Par cons&eacute;quent, si vous les envoyez, vous le ferez sous votre enti&egrave;re responsabilit&eacute;.Par cons&eacute;quent, si vous les envoyez, vous le ferez sous votre enti&egrave;re responsabilit&eacute;.",
+    "description-4": "L&rsquo;utilisateur peut &agrave; tout moment exercer ses droits d&apos;acc&egrave;s, rectification, opposition, annulation, limitation du traitement ou bien solliciter la portabilit&eacute; des donn&eacute;es conform&eacute;ment aux dispositions du R&egrave;glement G&eacute;n&eacute;ral sur la Protection des Donn&eacute;es (RGPD) du 27 avril 2016, en adressant un courrier au responsable du traitement :L&rsquo;utilisateur peut &agrave; tout moment exercer ses droits d&apos;acc&egrave;s, rectification, opposition, annulation, limitation du traitement ou bien solliciter la portabilit&eacute; des donn&eacute;es conform&eacute;ment aux dispositions du R&egrave;glement G&eacute;n&eacute;ral sur la Protection des Donn&eacute;es (RGPD) du 27 avril 2016, en adressant un courrier au responsable du traitement : Valent&iacute;n G&oacute;mez, G&eacute;rant, avec une photocopie de sa carte d&apos;identit&eacute;, &agrave; T&Eacute;CNICAS EXPANSIVAS SL | P.I.Valent&iacute;n G&oacute;mez, G&eacute;rant, avec une photocopie L&rsquo;utilisateur peut &agrave; tout moment exercer ses droits d&apos;acc&egrave;s, rectification, opposition, annulation, limitation du traitement ou bien solliciter la portabilit&eacute; des donn&eacute;es conform&eacute;ment aux dispositions du R&egrave;glement G&eacute;n&eacute;ral sur la Protection des Donn&eacute;es (RGPD) du 27 avril 2016, en adressant un courrier au responsable du traitement :L&rsquo;utilisateur peut &agrave; tout moment exercer ses droits d&apos;acc&egrave;s, rectification, opposition, annulation, limitation du traitement ou bien solliciter la portabilit&eacute; des donn&eacute;es conform&eacute;ment aux dispositions du R&egrave;glement G&eacute;n&eacute;ral sur la Protection des Donn&eacute;es (RGPD) du 27 avril 2016, en adressant un courrier au responsable du traitement : Valent&iacute;n G&oacute;mez, G&eacute;rant, avec une photocopie de sa carte d&apos;identit&eacute;, &agrave; T&Eacute;CNICAS EXPANSIVAS SL | P.I.Valent&iacute;n G&oacute;mez, G&eacute;rant, avec une photocopie de sa carte d&apos;identit&eacute;, &agrave; T&Eacute;CNICAS EXPANSIVAS SL | P.I. La Portalada II | c/ Segador 13, 26006 | Logro&ntilde;o (La Rioja) ou bien &agrave; l&rsquo;adresse e-mail info@indexfix.com.La Portalada II | c/ Segador 13, 26006 | Logro&ntilde;o (La Rioja) ou bien &agrave; l&rsquo;adresse e-mail info@indexfix.com.L&rsquo;utilisateur peut &agrave; tout moment exercer ses droits d&apos;acc&egrave;s, rectification, opposition, annulation, limitation du traitement ou bien solliciter la portabilit&eacute; des donn&eacute;es conform&eacute;ment aux dispositions du R&egrave;glement G&eacute;n&eacute;ral sur la Protection des Donn&eacute;es (RGPD) du 27 avril 2016, en adressant un courrier au responsable du traitement :L&rsquo;utilisateur peut &agrave; tout moment exercer ses droits d&apos;acc&egrave;s, rectification, opposition, annulation, limitation du traitement ou bien solliciter la portabilit&eacute; des donn&eacute;es conform&eacute;ment aux dispositions du R&egrave;glement G&eacute;n&eacute;rde sa carte d&apos;identit&eacute;, &agrave; T&Eacute;CNICAS EXPANSIVAS SL | P.I. La Portalada II | c/ Segador 13, 26006 | Logro&ntilde;o (La Rioja) ou bien &agrave; l&rsquo;adresse e-mail info@indexfix.com.La Portalada II | c/ Segador 13, 26006 | Logro&ntilde;o (La Rioja) ou bien &agrave; l&rsquo;adresse e-mail info@indexfix.com.L&rsquo;utilisateur peut &agrave; tout moment exercer ses droits d&apos;acc&egrave;s, rectification, opposition, annulation, limitation du traitement ou bien solliciter la portabilit&eacute; des donn&eacute;es conform&eacute;ment aux dispositions du R&egrave;glement G&eacute;n&eacute;ral sur la Protection des Donn&eacute;es (RGPD) du 27 avril 2016, en adressant un courrier au responsable du traitement :L&rsquo;utilisateur peut &agrave; tout moment exercer ses droits d&apos;acc&egrave;s, rectification, opposition, annulation, limitation du traitement ou bien solliciter la portabilit&eacute; des donn&eacute;es conform&eacute;ment aux dispositions du R&egrave;glement G&eacute;n&eacute;ral sur la Protection des Donn&eacute;es (RGPD) du 27 avril 2016, en adressant un courrier au responsable du traitement : Valent&iacute;n G&oacute;mez, G&eacute;rant, avec une photocopie de sa carte d&apos;identit&eacute;, &agrave; T&Eacute;CNICAS EXPANSIVAS SL | P.I.Valent&iacute;n G&oacute;mez, G&eacute;rant, avec une photocopie de sa carte d&apos;identit&eacute;, &agrave; T&Eacute;CNICAS EXPANSIVAS SL | P.I. La Portalada II | c/ Segador 13, 26006 | Logro&ntilde;o (La Rioja) ou bien &agrave; l&rsquo;adresse e-mail info@indexfix.com.La Portalada II | c/ Segador 13, 26006 | Logro&ntilde;o (La Rioja) ou bien &agrave; l&rsquo;adresse e-mail info@indexfix.com.",
+    "button-send": "EnvoyerEnvoyerEnvoyerEnvoyer"
+  },
+  "menu-aside": {
+    "button-features": "Caract&eacute;ristiquesCaract&eacute;ristiquesCaract&eacute;ristiquesCaract&eacute;ristiques",
+    "button-range": "Voir la gammeVoir la gammeVoir la gammeVoir la gamme",
+    "button-resources": "T&eacute;l&eacute;charger ressourcesT&eacute;l&eacute;charger ressourcesT&eacute;l&eacute;charger ressourcesT&eacute;l&eacute;charger ressources",
+    "button-info": "InformationInformationInformationInformation"
+  }
+}

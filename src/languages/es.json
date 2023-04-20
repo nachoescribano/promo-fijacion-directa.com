@@ -277,28 +277,28 @@
     "aplications-cards": [
       {
         "description": "Instalación de canales y angulares para placas de yeso laminado.",
-        "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image": "assets/images/instalacion-canales-placas-yeso.webp",
+        "image2x": "assets/images/instalacion-canales-placas-yeso_2x.webp"
       },
       {
         "description": "Fijación de mallas y tejidos técnicos sobre pared de hormigón.",
-        "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image": "assets/images/fijacion-mallas-y-tejidos-tecnicos.webp",
+        "image2x": "assets/images/fijacion-mallas-y-tejidos-tecnicos_2x.webp"
       },
       {
         "description": "Fijación de instalaciones eléctricas en el techo o en la pared.",
-        "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image": "assets/images/fijacion-instalaciones-electricas.webp",
+        "image2x": "assets/images/fijacion-instalaciones-electricas@2x.webp"
       },
       {
         "description": "Fijación de tubos corrugados con brida al suelo, pared y techo.",
-        "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image": "assets/images/fijacion-tubos-corrugados.webp",
+        "image2x": "assets/images/fijacion-tubos-corrugados_2x.webp"
       },
       {
         "description": "Fijación de tubos rígidos sobre superficies planas (pared, techo…).",
-        "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image": "assets/images/fijacion-tubos-rigidos.webp",
+        "image2x": "assets/images/fijacion-tubos-rigidos_2x.webp"
       }
     ]
   },
@@ -306,24 +306,24 @@
     "title": "Materiales",
     "materials-cards": [
       {
-        "description": "materials",
-        "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "description": "Hormigón",
+        "image": "assets/images/MU_HORMIGON.webp",
+        "image2x": "assets/images/MU_HORMIGON@2x.webp"
       },
       {
         "description": "Madera noble",
-        "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image": "assets/images/MU_MADERA_NOBLE.webp",
+        "image2x": "assets/images/MU_MADERA_NOBLE@2x.webp"
       },
       {
         "description": "Hormigón celular",
-        "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image": "assets/images/MU_HORM_CELULAR.webp",
+        "image2x": "assets/images/MU_HORM_CELULAR@2x.webp"
       },
       {
         "description": "Chapa - perfil pesado",
-        "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image": "assets/images/MU_CHAPA_PERF_PESADO@.webp",
+        "image2x": "assets/images/MU_CHAPA_PERF_PESADO@2x.webp"
       }
     ]
   },
@@ -332,43 +332,43 @@
     "installation-cards": [
       {
         "description": "1. Colocar cartucho de clavos en la pistola",
-        "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image": "assets/images/FG-GUN_0.webp",
+        "image2x": "assets/images/FG-GUN_0@2x.webp"
       },
       {
         "description": "2. Introducir el cartucho de gas",
-        "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image": "assets/images/FG-GUN_1@2x.webp",
+        "image2x": "assets/images/FG-GUN_1@2x.webp"
       },
       {
         "description": "3. Enganchar la batería",
-        "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image": "assets/images/FG-GUN_2.webp",
+        "image2x": "assets/images/FG-GUN_2@2x.webp"
       },
       {
         "description": "4. Introducir los clavos en el cartucho",
-        "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image": "assets/images/FG-GUN_3.webp",
+        "image2x": "assets/images/FG-GUN_3@2x.webp"
       },
       {
         "description": "5. Colocar la pistola boca abajo",
-        "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image": "assets/images/FG-GUN_4.webp",
+        "image2x": "assets/images/FG-GUN_4@2x.webp"
       },
       {
         "description": "6. Apretar hacia abajo la pistola sobre una superficie plana",
-        "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image": "assets/images/FG-GUN_5.webp",
+        "image2x": "assets/images/FG-GUN_5@2x.webp"
       },
       {
         "description": "7. Apretar el gatillo",
-        "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image": "assets/images/FG-GUN_6.webp",
+        "image2x": "assets/images/FG-GUN_6@2x.webp"
       },
       {
         "description": "8. Resultado final",
-        "image": "assets/images/...",
-        "image2x": "assets/images/..."
+        "image": "assets/images/FG-GUN_7.webp",
+        "image2x": "assets/images/FG-GUN_7@2x.webp"
       }
     ]
   },
@@ -377,6 +377,8 @@
     "documentations": [
       {
         "title": "Fichas técnicas",
+        "icon": "book",
+        "list-icon": "file-earmark-pdf",
         "items": [
           {
             "text": "Pistola, accesorios y clavos FG",
@@ -402,6 +404,8 @@
       },
       {
         "title": "Fichas de seguridad",
+        "icon": "cone-striped",
+        "list-icon": "file-earmark-pdf",
         "items": [
           {
             "text": "FG-CL",
@@ -419,6 +423,8 @@
       },
       {
         "title": "Declaración de prestaciones",
+        "icon": "table",
+        "list-icon": "file-earmark-pdf",
         "items": [
           {
             "text": "OME",

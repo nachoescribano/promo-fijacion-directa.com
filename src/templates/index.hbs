@@ -7,48 +7,11 @@
       {{> page/intro-section}}
       {{> page/features-section}}
       {{> page/range-section}}
-      <a id="gama"></a>
-      <section class="section">
-        <div class="container">
-          <header class="section__header">
-            <h2 class="section__title">
-              {{{gama-section.title}}}
-            </h2>
-          </header>
-          <div class="swiper-container js-swiper-container-1">
-            <div class="index-cards-container">
-              {{#each gama-section.cards}}
-                <article class="index-card">
-                  <div class="index-card__container">
-                    <div class="index-card__body">
-                      <h2
-                        class="index-card__title index-card__title--xl"
-                      >{{this.title}}</h2>
-                      <img
-                        class="index-card__image index-card__image--inline"
-                        alt="{{this.image-alt}}"
-                        src="{{this.image-src}}"
-                      />
-                      <p class="index-card__subtitle">
-                        {{this.subtitle}}
-                      </p>
-                      <footer class="index-card__footer">
-                        <a
-                          href="{{this.href}}"
-                          class="index-card__link"
-                          target="_blank"
-                        >{{../gama-section.cards-more-info}}<i
-                            class="fas fa-arrow-right index-card__link-icon"
-                          ></i></a>
-                      </footer>
-                    </div>
-                  </div>
-                </article>
-              {{/each}}
-            </div>
-          </div>
-        </div>
-      </section>
+      {{> page/applications-section}}
+      {{> page/materials-section}}
+      {{> page/installation-section}}
+      {{> page/documentation-section}}
+      {{> page/contact-section}}
       <aside class="menu-sections">
         <button
           class="js-buttonMenuMobile btn btn-primary menu-sections__button-menu"

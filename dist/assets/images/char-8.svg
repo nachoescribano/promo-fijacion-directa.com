@@ -1,0 +1,13 @@
+<svg id="char-8" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54.634" height="61" viewBox="0 0 54.634 61">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_833" data-name="Rectángulo 833" width="54.634" height="61" fill="none" stroke="#4da9a8" stroke-width="2"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1414" data-name="Grupo 1414" clip-path="url(#clip-path)">
+    <path id="Trazado_2719" data-name="Trazado 2719" d="M40.777,32.422a4.455,4.455,0,0,0,2.515,4.009A19.924,19.924,0,0,1,54.539,54.368v6.62H15.7v-6.62A19.93,19.93,0,0,1,26.949,36.431a4.449,4.449,0,0,0,2.515-4.009V30.566a4.449,4.449,0,0,0-2.515-4.009A19.924,19.924,0,0,1,15.7,8.62V2H54.539V8.62A19.924,19.924,0,0,1,43.292,26.557a4.455,4.455,0,0,0-2.515,4.009Z" transform="translate(-7.804 -0.994)" fill="none" stroke="#4da9a8" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Línea_59" data-name="Línea 59" x2="52.622" transform="translate(1.006 1.006)" fill="none" stroke="#4da9a8" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Línea_60" data-name="Línea 60" x2="52.622" transform="translate(1.006 59.994)" fill="none" stroke="#4da9a8" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Trazado_2720" data-name="Trazado 2720" d="M44.465,61.164a3,3,0,0,1-2.254-2.917V43.535a7.507,7.507,0,0,1,4.217-6.724A17.066,17.066,0,0,0,53.484,30.4,1.513,1.513,0,0,0,52.2,28.1H26.946A1.513,1.513,0,0,0,25.661,30.4a17.069,17.069,0,0,0,7.054,6.405,7.515,7.515,0,0,1,4.219,6.725v14.71a3,3,0,0,1-2.254,2.918c-4.79,1.2-8.531,4.107-9.926,7.757a1.506,1.506,0,0,0,1.42,2.026H52.968a1.506,1.506,0,0,0,1.421-2.026C52.994,65.271,49.254,62.363,44.465,61.164Z" transform="translate(-12.254 -13.964)" fill="none" stroke="#4da9a8" stroke-width="2"/>
+  </g>
+</svg>

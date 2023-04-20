@@ -174,7 +174,28 @@ h2 {
 }
 .section__instalation-figcaption {
   color: var(--color-neutral-5);
+  
 }
+
+/* CARD2*/
+.card2 {
+  position: relative;
+}
+.card2__image {
+  max-width: 100%;
+  height: auto;
+}
+.card2__copy {
+  position: relative;
+  transform: translate(0, -50%);
+  background-color: var(--color-white);
+  padding: 1.56rem;
+  max-width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2);
+}
+
 /* CARD */
 
 .index-cards-container {

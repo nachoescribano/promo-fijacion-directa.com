@@ -1,4 +1,4 @@
-<a id="instalacion"></a>
+<a id="installation-section"></a>
 {{#with installation-section}}
   <section class="section section--color">
     <div class="container">
@@ -8,7 +8,7 @@
             {{title}}
           </h2>
           <div class="swiper-container js-swiper-container-6">
-            <div class="row d-flex justify-content-center">
+            <div class="row justify-content-center-768">
               {{#each installation-cards}}
                 <article
                   class="col-12 col-md-6 col-lg-3 section__instalation-item"
@@ -20,8 +20,8 @@
                       media="(min-width: 768px)"
                     />
                     <img
-                      alt="{{this.description}}"
                       class="img-fluid image-thumb"
+                      alt="{{this.description}}"
                       src="{{this.image}}"
                     />
                   </picture>

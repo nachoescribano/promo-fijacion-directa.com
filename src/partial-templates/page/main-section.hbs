@@ -7,16 +7,19 @@
   </header>
   <img
     class="main-section__image js-main-section__image"
-    src="assets/images/Anclajes plasticos 20 06.webp"
+    src="assets/images/Anclajes-plasticos-20-06.webp"
     alt="{{main-section.image-alt}}"
   />
-  <div class="main-section__content">
+  <div class="main-section__content main-section__content--special">
     <h1 class="main-section__title">
       <b class="main-section__bold">{{main-section.title}}</b>
     </h1>
-    <ul>
+    <ul class="main-section__list">
       {{#each main-section.checklist}}
-        <li>{{this}}</li>
+        <li class="main-section__list-item">
+          <i class="bi bi-check-circle main-section__list-item-icon"></i>
+          {{this}}
+        </li>
       {{/each}}
     </ul>
     <p>
@@ -27,7 +30,7 @@
     </p>
     <a
       type="button"
-      class="btn btn-outline-light"
+      class="btn btn-outline-light main-section__button"
       href="{{main-section.url-know-range}}"
     >{{main-section.know-range}}</a>
   </div>

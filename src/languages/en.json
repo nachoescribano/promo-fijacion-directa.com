@@ -1,1 +1,483 @@
-{}
+{
+  "lang": "en",
+  "description": "",
+  "keywords": "",
+  "title": "",
+  "home": "HomeHomeHomeHome",
+  "features": "CharacteristicsCharacteristicsCharacteristicsCharacteristics",
+  "range": "RangeRangeRangeRange",
+  "applications": "ApplicationsApplicationsApplicationsApplications",
+  "materials": "MaterialsMaterialsMaterialsMaterials",
+  "installation": "InstallationInstallationInstallationInstallation",
+  "documentation": "DocumentationDocumentationDocumentationDocumentation",
+  "contact": "ContactContactContactContact",
+  "main-section": {
+    "title": "Direct fixingDirect fixingDirect fixingDirect fixing",
+    "image-alt": "Operator using nail gun to anchor profile to the floorOperator using nail gun to anchor profile to the floorOperator using nail gun to anchor profile to the floorOperator using nail gun to anchor profile to the floor",
+    "checklist": [
+      "Reduced working timeReduced working timeReduced working timeReduced working time",
+      "Greater productivityGreater productivityGreater productivityGreater productivity",
+      "Increased safetyIncreased safetyIncreased safetyIncreased safety"
+    ],
+    "know-range": "See the full rangeSee the full rangeSee the full rangeSee the full range",
+    "url-know-range": "https://www.indexfix.com/canales-venta/anclajes/fijacion-directa"
+  },
+  "intro-section": {
+    "title": "What is direct fixing?What is direct fixing?What is direct fixing?What is direct fixing?",
+    "description-1": "Direct fixing enables precise, reliable installation and also saves time due to its rapid application.Direct fixing enables precise, reliable installation and also saves time due to its rapid application. Gas-actuated direct fixing allows instant, fast, autonomous fixing.Gas-actuated direct fixing allows instant, fast, autonomous fixing. The system is ideal for jobs that require strength and power when working with materials such as concrete, aerated concrete, hardwood or steel.The system is ideal for jobs that require strength and power when working with materials such as concrete, aerated concrete, hardwood or steel.Direct fixing enables precise, reliable installation and also saves time due to its rapid application.Direct fixing enables precise, reliable installation and also saves time due to its rapid application. Gas-actuated direct fixing allows instant, fast, autonomous fixing.Gas-actuated direct fixing allows instant, fast, autonomous fixing. The system is ideal for jobs that require strength and powDirect fixing enables precise, reliable installation and also saves time due to its rapid application.Direct fixing enables precise, reliable installation and also saves time due to its rapid application. Gas-actuated direct fixing allows instant, fast, autonomous fixing.Gas-actuated direct fixing allows instant, fast, autonomous fixing. The system is ideal for jobs that require strength and power when working with materials such as concrete, aerated concrete, hardwood or steel.The system is ideal for jobs that require strength and power when working with materials such as concrete, aerated concrete, hardwood or steel.Direct fixing enables precise, reliable installation and also saves time due to its rapid application.Direct fixing enables precise, reliable installation and also saves time due to its rapid application. Gas-actuated direct fixing allows instant, fast, autonomous fixing.Gas-actuated direct fixing allows instant, fast, autonomous fixing. The system is ideal for jobs that require strength and power when working with materials such as concrete, aerated concrete, hardwood or steel.The system is ideal for jobs that require strength and power when working with materials such as concrete, aerated concrete, hardwood or steel.",
+    "subtitle": "AdvantagesAdvantagesAdvantagesAdvantages",
+    "list": [
+      "Low cost.Low cost. It takes less time to complete installations.It takes less time to complete installations.Low cost.Low cost. It takes less time to complete installations.It takes less time to complete installations.",
+      "Ergonomic.Ergonomic. The light-weight gun offers good grip.The light-weight gun offers good grip.Ergonomic.Ergonomic. The light-weight gun offers good grip.The light-weight gun offers good grip.",
+      "Speed.Speed.Speed.Speed.",
+      "Automatic reloading procedure.Automatic reloading procedure.Automatic reloading procedure.Automatic reloading procedure."
+    ],
+    "image-alt": "nail gun, case, accessories and related productsnail gun, case, accessories and related productsnail gun, case, accessories and related productsnail gun, case, accessories and related products",
+    "interactive__popover": [
+      {
+        "description": "High-capacity lithium batteryHigh-capacity lithium batteryHigh-capacity lithium batteryHigh-capacity lithium battery",
+        "coors": "left: 67%; top: 10%"
+      },
+      {
+        "description": "Light, comfortable and easy to use.Light, comfortable and easy to use. Weighs 3.8 kgWeighs 3.8 kgLight, comfortable and easy to use.Light, comfortable and easy to use. Weighs 3.8 kgWeighs 3.8 kg",
+        "coors": "left: 73%; top: 31%"
+      },
+      {
+        "description": "Adjustable penetration depthAdjustable penetration depthAdjustable penetration depthAdjustable penetration depth",
+        "coors": "left: 48%; top: 52%"
+      },
+      {
+        "description": "Barrel for electrical applicationsBarrel for electrical applicationsBarrel for electrical applicationsBarrel for electrical applications",
+        "coors": "left: 18%; top: 32%"
+      }
+    ]
+  },
+  "features-section": {
+    "title": "Characteristics and advantages of direct fixingCharacteristics and advantages of direct fixingCharacteristics and advantages of direct fixingCharacteristics and advantages of direct fixing",
+    "features": [
+      {
+        "image": "assets/images/char-1.svg",
+        "feature": "Fixing to concrete and steelFixing to concrete and steelFixing to concrete and steelFixing to concrete and steel",
+        "image-alt": "nail fixed to wallnail fixed to wallnail fixed to wallnail fixed to wall"
+      },
+      {
+        "image": "assets/images/char-2.svg",
+        "feature": "Nail depth controlNail depth controlNail depth controlNail depth control",
+        "image-alt": "control panelcontrol panelcontrol panelcontrol panel"
+      },
+      {
+        "image": "assets/images/char-3.svg",
+        "feature": "Faster, cleaner jobsFaster, cleaner jobsFaster, cleaner jobsFaster, cleaner jobs",
+        "image-alt": "double speeddouble speeddouble speeddouble speed"
+      },
+      {
+        "image": "assets/images/char-4.svg",
+        "feature": "No cablesNo cablesNo cablesNo cables",
+        "image-alt": "batterybatterybatterybattery"
+      },
+      {
+        "image": "assets/images/char-5.svg",
+        "feature": "Integrated safety systemsIntegrated safety systemsIntegrated safety systemsIntegrated safety systems",
+        "image-alt": "safety shieldsafety shieldsafety shieldsafety shield"
+      },
+      {
+        "image": "assets/images/char-6.svg",
+        "feature": "Guns supplied with full caseGuns supplied with full caseGuns supplied with full caseGuns supplied with full case",
+        "image-alt": "on-site caseon-site caseon-site caseon-site case"
+      },
+      {
+        "image": "assets/images/char-7.svg",
+        "feature": "Ease of useEase of useEase of useEase of use",
+        "image-alt": "magic wandmagic wandmagic wandmagic wand"
+      },
+      {
+        "image": "assets/images/char-8.svg",
+        "feature": "Great trigger autonomyGreat trigger autonomyGreat trigger autonomyGreat trigger autonomy",
+        "image-alt": "sand timersand timersand timersand timer"
+      },
+      {
+        "image": "assets/images/char-9.svg",
+        "feature": "No need for prior drilling, speeding up the processNo need for prior drilling, speeding up the processNo need for prior drilling, speeding up the processNo need for prior drilling, speeding up the process",
+        "image-alt": "no drillingno drillingno drillingno drilling"
+      },
+      {
+        "image": "assets/images/char-10.svg",
+        "feature": "Low recoilLow recoilLow recoilLow recoil",
+        "image-alt": "nail gunnail gunnail gunnail gun"
+      }
+    ]
+  },
+  "range-section": {
+    "title": "Gas-actuated nail gunGas-actuated nail gunGas-actuated nail gunGas-actuated nail gun",
+    "range-cards": [
+      {
+        "title": "FG-GUNFG-GUNFG-GUNFG-GUN",
+        "description": "Semi-automatic, gas-actuated, cordless nail gun for dry partitions.Semi-automatic, gas-actuated, cordless nail gun for dry partitions.Semi-automatic, gas-actuated, cordless nail gun for dry partitions.Semi-automatic, gas-actuated, cordless nail gun for dry partitions.",
+        "image": "assets/images/FG-GUNEL-pistola-PIM-2.webp",
+        "image2x": "assets/images/FG-GUNEL-pistola-PIM-2_2x.webp",
+        "image-alt": "CFG-GUNCFG-GUNCFG-GUNCFG-GUN",
+        "related-products-id": "FG-GUNFG-GUNFG-GUNFG-GUN"
+      },
+      {
+        "title": "FG-CLHFG-CLHFG-CLHFG-CLH",
+        "description": "Galvanised nails for hard materialsGalvanised nails for hard materialsGalvanised nails for hard materialsGalvanised nails for hard materials",
+        "image": "assets/images/FG-GUNEL-1-1_1.webp",
+        "image2x": "assets/images/FG-GUNEL-1-1_1_2x.webp",
+        "image-alt": "FG-GUNELFG-GUNELFG-GUNELFG-GUNEL",
+        "related-products-id": "FG-GUNELFG-GUNELFG-GUNELFG-GUNEL"
+      }
+    ],
+    "card-info-1": "Direct fixing using a gas-actuated nail gun is simple: once the gas has been charged, just position the tip of the gun on the surface and pull the trigger.Direct fixing using a gas-actuated nail gun is simple: once the gas has been charged, just position the tip of the gun on the surface and pull the trigger.Direct fixing using a gas-actuated nail gun is simple: once the gas has been charged, just position the tip of the gun on the surface and pull the trigger.Direct fixing using a gas-actuated nail gun is simple: once the gas has been charged, just position the tip of the gun on the surface and pull the trigger.",
+    "card-info-2": "Upon squeezing the trigger, unless the safety system is activated, a spark ignites the gas in the combustion chamber.Upon squeezing the trigger, unless the safety system is activated, a spark ignites the gas in the combustion chamber. The battery, included in the case, then activates a fan that extracts the combustion gases.The battery, included in the case, then activates a fan that extracts the combustion gases.Upon squeezing the trigger, unless the safety system is activated, a spark ignites the gas in the combustion chamber.Upon squeezing the trigger, unless the safety system is activated, a spark ignites the gas in the combustion chamber. The battery, included in the case, then activates a fan that extracts the combustion gases.The battery, included in the case, then activates a fan that extracts the combustion gases.",
+    "button-text": "See productSee productSee productSee product",
+    "button-link": "https://www.indexfix.com/canales-venta/anclajes/fijacion-directa/fg-gun",
+    "related-products-title": "Related productsRelated productsRelated productsRelated products",
+    "commons-related-products": [
+      {
+        "title": "FG-CLFG-CLFG-CLFG-CL",
+        "description": "Standard galvanised nails for concreteStandard galvanised nails for concreteStandard galvanised nails for concreteStandard galvanised nails for concrete",
+        "image": "assets/images/FG-CL.jpg",
+        "image-alt": "FG-CLFG-CLFG-CLFG-CL",
+        "href": "https://www.indexfix.com/producto/10704-FG-CL-clavos-estandar"
+      },
+      {
+        "title": "FG-CLHFG-CLHFG-CLHFG-CLH",
+        "description": "Galvanised nails for hard materialsGalvanised nails for hard materialsGalvanised nails for hard materialsGalvanised nails for hard materials",
+        "image": "assets/images/FG-CLH.jpg",
+        "image-alt": "FG-CLHFG-CLHFG-CLHFG-CLH",
+        "href": "https://www.indexfix.com/producto/10703-FG-CLH-clavos-para-materiales-duros"
+      }
+    ],
+    "related-products": [
+      {
+        "id": "FG-GUNFG-GUNFG-GUNFG-GUN",
+        "swiper-id": "2222",
+        "products": [
+          {
+            "title": "FG-ARAM EPFG-ARAM EPFG-ARAM EPFG-ARAM EP",
+            "description": "Metal crown.Metal crown. Sale format: plastic containerSale format: plastic containerMetal crown.Metal crown. Sale format: plastic containerSale format: plastic container",
+            "image": "assets/images/FG-ARAM-bote-1000-u.jpg",
+            "image-alt": "FG-ARAM EPFG-ARAM EPFG-ARAM EPFG-ARAM EP",
+            "href": "https://www.indexfix.com/producto/11637-FG-ARAM-EP-arandela-metalica-bote-de-plastico"
+          },
+          {
+            "title": "FG-ARAMFG-ARAMFG-ARAMFG-ARAM",
+            "description": "Metal crown for gas-actuated nail gunMetal crown for gas-actuated nail gunMetal crown for gas-actuated nail gunMetal crown for gas-actuated nail gun",
+            "image": "assets/images/FG-ARAM.jpg",
+            "image-alt": "FG-ARAMFG-ARAMFG-ARAMFG-ARAM",
+            "href": "https://www.indexfix.com/producto/11636-FG-ARAM-arandela-metalica"
+          },
+          {
+            "title": "OMEOMEOMEOME",
+            "description": "Universal anchorUniversal anchorUniversal anchorUniversal anchor",
+            "image": "assets/images/OME.jpg",
+            "image-alt": "OMEOMEOMEOME",
+            "href": "https://www.indexfix.com/producto/11173-OME-anclaje-universal"
+          },
+          {
+            "title": "AB-GUAB-GUAB-GUAB-GU",
+            "description": "Simple guide conduit clipSimple guide conduit clipSimple guide conduit clipSimple guide conduit clip",
+            "image": "assets/images/AB-GU.jpg",
+            "image-alt": "AB-GUAB-GUAB-GUAB-GU",
+            "href": "https://www.indexfix.com/producto/11305-AB-GU-abrazadera-guia-gris-simple-con-pre-rosca-m6"
+          },
+          {
+            "title": "AB-MUGAB-MUGAB-MUGAB-MUG",
+            "description": "Multi-diameter conduit clipMulti-diameter conduit clipMulti-diameter conduit clipMulti-diameter conduit clip",
+            "image": "assets/images/AB-MUG.jpg",
+            "image-alt": "AB-MUGAB-MUGAB-MUGAB-MUG",
+            "href": "https://www.indexfix.com/producto/10898-AB-MUG-abrazadera-multiusos"
+          },
+          {
+            "title": "AB-PRAB-PRAB-PRAB-PR",
+            "description": "Snap-in conduit clipSnap-in conduit clipSnap-in conduit clipSnap-in conduit clip",
+            "image": "assets/images/AB-PR.jpg",
+            "image-alt": "AB-PRAB-PRAB-PRAB-PR",
+            "href": "https://www.indexfix.com/producto/11308-AB-PR-gris"
+          },
+          {
+            "title": "AB-PIDAB-PIDAB-PIDAB-PID",
+            "description": "Pipe strapPipe strapPipe strapPipe strap",
+            "image": "assets/images/AB-PID.jpg",
+            "image-alt": "AB-PIDAB-PIDAB-PIDAB-PID",
+            "href": "https://www.indexfix.com/producto/11496-AB-PID-grapa-1-pie-para-disparo"
+          },
+          {
+            "title": "FG-PLETFG-PLETFG-PLETFG-PLET",
+            "description": "Threaded bracketThreaded bracketThreaded bracketThreaded bracket",
+            "image": "assets/images/FG-PLET.jpg",
+            "image-alt": "FG-PLETFG-PLETFG-PLETFG-PLET",
+            "href": "https://www.indexfix.com/producto/10691-FG-PLET-pletina-roscada-para-varilla"
+          },
+          {
+            "title": "FG-ABRAFG-ABRAFG-ABRAFG-ABRA",
+            "description": "Snap-in conduit clipSnap-in conduit clipSnap-in conduit clipSnap-in conduit clip",
+            "image": "assets/images/FG-ABRA.jpg",
+            "image-alt": "FG-ABRAFG-ABRAFG-ABRAFG-ABRA",
+            "href": "https://www.indexfix.com/producto/10697-FG-ABRA-abrazadera-a-presion"
+          },
+          {
+            "title": "FG-BASEFG-BASEFG-BASEFG-BASE",
+            "description": "Flange base.Flange base. Grey colour availableGrey colour availableFlange base.Flange base. Grey colour availableGrey colour available",
+            "image": "assets/images/FG-BASE.jpg",
+            "image-alt": "FG-BASEFG-BASEFG-BASEFG-BASE",
+            "href": "https://www.indexfix.com/producto/10698-FG-BASE-base-para-brida"
+          },
+          {
+            "title": "CI-PECI-PECI-PECI-PE",
+            "description": "Fixing bandFixing bandFixing bandFixing band",
+            "image": "assets/images/CI-PE.jpg",
+            "image-alt": "CI-PECI-PECI-PECI-PE",
+            "href": "https://www.indexfix.com/producto/11361-CI-PE-cinta-perforada-curva-atlantis-c2-m"
+          }
+        ]
+      },
+      {
+        "id": "FG-GUNELFG-GUNELFG-GUNELFG-GUNEL",
+        "swiper-id": "3333",
+        "products": [
+          {
+            "title": "FG-GASFG-GASFG-GASFG-GAS",
+            "description": "Gas cartridgeGas cartridgeGas cartridgeGas cartridge",
+            "image": "assets/images/FG-GAS.jpg",
+            "image-alt": "FG-GASFG-GASFG-GASFG-GAS",
+            "href": "https://www.indexfix.com/producto/10699-FG-GAS-cartucho-de-gas"
+          },
+          {
+            "title": "FG-CAELFG-CAELFG-CAELFG-CAEL",
+            "description": "Special gun barrel for electriciansSpecial gun barrel for electriciansSpecial gun barrel for electriciansSpecial gun barrel for electricians",
+            "image": "assets/images/FG-CAEL.jpg",
+            "image-alt": "FG-CAELFG-CAELFG-CAELFG-CAEL",
+            "href": "https://www.indexfix.com/producto/11642-FG-CAEL-canon-de-pistola-especial-para-electricista"
+          },
+          {
+            "title": "FG-CLCARFG-CLCARFG-CLCARFG-CLCAR",
+            "description": "Magazine for 40 nailsMagazine for 40 nailsMagazine for 40 nailsMagazine for 40 nails",
+            "image": "assets/images/FG-CLCAR.jpg",
+            "image-alt": "FG-CLCARFG-CLCARFG-CLCARFG-CLCAR",
+            "href": "https://www.indexfix.com/producto/11626-FG-CLCAR-cargador-para-40-clavos"
+          },
+          {
+            "title": "FG-IMANFG-IMANFG-IMANFG-IMAN",
+            "description": "MagnetMagnetMagnetMagnet",
+            "image": "assets/images/FG-IMAN.jpg",
+            "image-alt": "FG-IMANFG-IMANFG-IMANFG-IMAN",
+            "href": "https://www.indexfix.com/producto/10690-FG-IMAN-iman"
+          },
+          {
+            "title": "FG-BATFG-BATFG-BATFG-BAT",
+            "description": "Gun batteryGun batteryGun batteryGun battery",
+            "image": "assets/images/FG-BAT.jpg",
+            "image-alt": "FG-BATFG-BATFG-BATFG-BAT",
+            "href": "https://www.indexfix.com/producto/10701-FG-BAT-bateria-para-pistola-fp60gun"
+          },
+          {
+            "title": "FG-CARFG-CARFG-CARFG-CAR",
+            "description": "Gun chargerGun chargerGun chargerGun charger",
+            "image": "assets/images/FG-CAR.jpg",
+            "image-alt": "FG-CARFG-CARFG-CARFG-CAR",
+            "href": "https://www.indexfix.com/producto/10700-FG-CAR-cargador-para-pistola-fp60gun"
+          }
+        ]
+      }
+    ]
+  },
+  "applications-section": {
+    "title": "ApplicationsApplicationsApplicationsApplications",
+    "aplications-cards": [
+      {
+        "description": "Installation of channels and angles for laminated plaster panels.Installation of channels and angles for laminated plaster panels.Installation of channels and angles for laminated plaster panels.Installation of channels and angles for laminated plaster panels.",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Installation of channels and angles for laminated plaster panels with nail gun.Installation of channels and angles for laminated plaster panels with nail gun.Installation of channels and angles for laminated plaster panels with nail gun.Installation of channels and angles for laminated plaster panels with nail gun."
+      },
+      {
+        "description": "Fixing of meshes and technical fabrics on concrete wall.Fixing of meshes and technical fabrics on concrete wall.Fixing of meshes and technical fabrics on concrete wall.Fixing of meshes and technical fabrics on concrete wall.",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "electrical conduits fitted to ceiling and walls.electrical conduits fitted to ceiling and walls.electrical conduits fitted to ceiling and walls.electrical conduits fitted to ceiling and walls."
+      },
+      {
+        "description": "Fitting of electrical installations to the ceiling or the wall.Fitting of electrical installations to the ceiling or the wall.Fitting of electrical installations to the ceiling or the wall.Fitting of electrical installations to the ceiling or the wall.",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Installation of electrical conduits with nail gun.Installation of electrical conduits with nail gun.Installation of electrical conduits with nail gun.Installation of electrical conduits with nail gun."
+      },
+      {
+        "description": "Fitting of corrugated tubes with clamp to the floor, wall and ceiling.Fitting of corrugated tubes with clamp to the floor, wall and ceiling.Fitting of corrugated tubes with clamp to the floor, wall and ceiling.Fitting of corrugated tubes with clamp to the floor, wall and ceiling.",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "electrical conduits fitted to ceiling.electrical conduits fitted to ceiling.electrical conduits fitted to ceiling.electrical conduits fitted to ceiling."
+      },
+      {
+        "description": "Fitting of rigid tubes to flat surfaces (wall, ceiling, etc.).Fitting of rigid tubes to flat surfaces (wall, ceiling, etc.).Fitting of rigid tubes to flat surfaces (wall, ceiling, etc.).Fitting of rigid tubes to flat surfaces (wall, ceiling, etc.).",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "electrical conduits fixed to wall.electrical conduits fixed to wall.electrical conduits fixed to wall.electrical conduits fixed to wall."
+      }
+    ]
+  },
+  "materials-section": {
+    "title": "MaterialsMaterialsMaterialsMaterials",
+    "materials-cards": [
+      {
+        "description": "concreteconcreteconcreteconcrete",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "concreteconcreteconcreteconcrete"
+      },
+      {
+        "description": "HardwoodHardwoodHardwoodHardwood",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "HardwoodHardwoodHardwoodHardwood"
+      },
+      {
+        "description": "Aerated concreteAerated concreteAerated concreteAerated concrete",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Aerated concreteAerated concreteAerated concreteAerated concrete"
+      },
+      {
+        "description": "Sheet metal - heavy profileSheet metal - heavy profileSheet metal - heavy profileSheet metal - heavy profile",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Sheet metal - heavy profileSheet metal - heavy profileSheet metal - heavy profileSheet metal - heavy profile"
+      }
+    ]
+  },
+  "installation-section": {
+    "title": "Installation guide when using fixing toolsInstallation guide when using fixing toolsInstallation guide when using fixing toolsInstallation guide when using fixing tools",
+    "installation-cards": [
+      {
+        "description": "1.1. Insert nail magazine into the gunInsert nail magazine into the gun1.1. Insert nail magazine into the gunInsert nail magazine into the gun",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Insertion of nail magazine in the nail gun.Insertion of nail magazine in the nail gun.Insertion of nail magazine in the nail gun.Insertion of nail magazine in the nail gun."
+      },
+      {
+        "description": "2.2. Insert the gas cartridgeInsert the gas cartridge2.2. Insert the gas cartridgeInsert the gas cartridge",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Insertion of gas cartridge in the nail gun.Insertion of gas cartridge in the nail gun.Insertion of gas cartridge in the nail gun.Insertion of gas cartridge in the nail gun."
+      },
+      {
+        "description": "3.3. Attach the batteryAttach the battery3.3. Attach the batteryAttach the battery",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Attaching the battery to the nail gun.Attaching the battery to the nail gun.Attaching the battery to the nail gun.Attaching the battery to the nail gun."
+      },
+      {
+        "description": "4.4. Load the nails in the magazineLoad the nails in the magazine4.4. Load the nails in the magazineLoad the nails in the magazine",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Loading of nails in the nail gun magazine.Loading of nails in the nail gun magazine.Loading of nails in the nail gun magazine.Loading of nails in the nail gun magazine."
+      },
+      {
+        "description": "5.5. Point the gun downwardsPoint the gun downwards5.5. Point the gun downwardsPoint the gun downwards",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Pointing the nail gun downwards.Pointing the nail gun downwards.Pointing the nail gun downwards.Pointing the nail gun downwards."
+      },
+      {
+        "description": "6.6. Press the gun down against a flat surfacePress the gun down against a flat surface6.6. Press the gun down against a flat surfacePress the gun down against a flat surface",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Pressing the nail gun down against a flat surface.Pressing the nail gun down against a flat surface.Pressing the nail gun down against a flat surface.Pressing the nail gun down against a flat surface."
+      },
+      {
+        "description": "7.7. Squeeze the triggerSqueeze the trigger7.7. Squeeze the triggerSqueeze the trigger",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Squeezing the nail gun triggerSqueezing the nail gun triggerSqueezing the nail gun triggerSqueezing the nail gun trigger"
+      },
+      {
+        "description": "8.8. End resultEnd result8.8. End resultEnd result",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Nail inserted in the surface with the nail gunNail inserted in the surface with the nail gunNail inserted in the surface with the nail gunNail inserted in the surface with the nail gun"
+      }
+    ]
+  },
+  "documentation-section": {
+    "title": "DocumentationDocumentationDocumentationDocumentation",
+    "documentations": [
+      {
+        "title": "Technical data sheetsTechnical data sheetsTechnical data sheetsTechnical data sheets",
+        "items": [
+          {
+            "text": "Gun, accessories and FG nailsGun, accessories and FG nailsGun, accessories and FG nailsGun, accessories and FG nails",
+            "url": "https://www.indexfix.com/docs/FT_GAS_es_rev4.pdf"
+          },
+          {
+            "text": "OME Universal AnchorOME Universal AnchorOME Universal AnchorOME Universal Anchor",
+            "url": "https://www.indexfix.com/docs/FT_ACPY_es_rev4.pdf"
+          },
+          {
+            "text": "AB ClipsAB ClipsAB ClipsAB Clips",
+            "url": "https://www.indexfix.com/docs/FT_ABRAPL_es_rev8.pdf"
+          },
+          {
+            "text": "AB- PID ClipsAB- PID ClipsAB- PID ClipsAB- PID Clips",
+            "url": "https://www.indexfix.com/docs/FT_POL_es_rev6.pdf"
+          },
+          {
+            "text": "CI-PE Fixing BandCI-PE Fixing BandCI-PE Fixing BandCI-PE Fixing Band",
+            "url": "https://www.indexfix.com/docs/FT_CIPE_es_rev5.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Safety sheetsSafety sheetsSafety sheetsSafety sheets",
+        "items": [
+          {
+            "text": "FG-CLFG-CLFG-CLFG-CL",
+            "url": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf"
+          },
+          {
+            "text": "FG-CLHFG-CLHFG-CLHFG-CLH",
+            "url": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf"
+          },
+          {
+            "text": "FG-CARFG-CARFG-CARFG-CAR",
+            "url": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Declaration of PerformanceDeclaration of PerformanceDeclaration of PerformanceDeclaration of Performance",
+        "items": [
+          {
+            "text": "OMEOMEOMEOME",
+            "url": "https://www.indexfix.com/docs/DoP_OME_es_rev1.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  "contact-section": {
+    "title": "Request more informationRequest more informationRequest more informationRequest more information",
+    "error": "ErrorErrorErrorError",
+    "close": "CloseCloseCloseClose",
+    "name": "NameNameNameName",
+    "surnames": "SurnameSurnameSurnameSurname",
+    "company": "CompanyCompanyCompanyCompany",
+    "email": "EmailEmailEmailEmail",
+    "phone": "TelephoneTelephoneTelephoneTelephone",
+    "phone-legend": "Accepted format 613445599 or +34613445599Accepted format 613445599 or +34613445599Accepted format 613445599 or +34613445599Accepted format 613445599 or +34613445599",
+    "message": "Message/QueryMessage/QueryMessage/QueryMessage/Query",
+    "personal-data": "I authorise the use of my personal data by the technical staff of T&eacute;cnicas Expansivas SL (Tax ID (CIF) B-26220491) to contact me exclusively for the purpose of training me and providing me with technical advice regarding their products.I authorise the use of my personal data by the technical staff of T&eacute;cnicas Expansivas SL (Tax ID (CIF) B-26220491) to contact me exclusively for the purpose of training me and providing me with technical advice regarding their products.I authorise the use of my personal data by the technical staff of T&eacute;cnicas Expansivas SL (Tax ID (CIF) B-26220491) to contact me exclusively for the purpose of training me and providing me with technical advice regarding their products.I authorise the use of my personal data by the technical staff of T&eacute;cnicas Expansivas SL (Tax ID (CIF) B-26220491) to contact me exclusively for the purpose of training me and providing me with technical advice regarding their products.",
+    "legal-data": "I have read and accept the Legal Notice<a href='https://www.indexfix.com/aviso-es' target='_blank' class='index-link'>Legal Notice</a> and Privacy Policy<a href='https://www.indexfix.com/privacidad' target='_blank' class='index-link'>Privacy Policy</a>.I have read and accept the Legal Notice<a href='https://www.indexfix.com/aviso-es' target='_blank' class='index-link'>Legal Notice</a> and Privacy Policy<a href='https://www.indexfix.com/privacidad' target='_blank' class='index-link'>Privacy Policy</a>.I have read and accept the Legal Notice<a href='https://www.indexfix.com/aviso-es' target='_blank' class='index-link'>Legal Notice</a> and Privacy Policy<a href='https://www.indexfix.com/privacidad' target='_blank' class='index-link'>Privacy Policy</a>.I have read and accept the Legal Notice<a href='https://www.indexfix.com/aviso-es' target='_blank' class='index-link'>Legal Notice</a> and Privacy Policy<a href='https://www.indexfix.com/privacidad' target='_blank' class='index-link'>Privacy Policy</a>.",
+    "description-1": "T&Eacute;CNICAS EXPANSIVAS S.L. informs you that the personal data provided voluntarily on this website, the purpose, intended transfers and other circumstances of which are communicated when the personal data is collected, may, depending on the specific case, have any of the following purposes: responding to your request, complaint or question, maintaining the established relationship, the comprehensive and commercial management of customers, accounting and invoicing or sending of communications of news and activities related with T&Eacute;CNICAS EXPANSIVAS S.L., including by electronic means.T&Eacute;CNICAS EXPANSIVAS S.L. informs you that the personal data provided voluntarily on this website, the purpose, intended transfers and other circumstances of which are communicated when the personal data is collected, may, depending on the specific case, have any of the following purposes: responding to your request, complaint or question, maintaining the established relationship, the comprehensive and commercial T&Eacute;CNICAS EXPANSIVAS S.L. informs you that the personal data provided voluntarily on this website, the purpose, intended transfers and other circumstances of which are communicated when the personal data is collected, may, depending on the specific case, have any of the following purposes: responding to your request, complaint or question, maintaining the established relationship, the comprehensive and commercial management of customers, accounting and invoicing or sending of communications of news and activities related with T&Eacute;CNICAS EXPANSIVAS S.L., including by electronic means.T&Eacute;CNICAS EXPANSIVAS S.L. informs you that the personal data provided voluntarily on this website, the purpose, intended transfers and other circumstances of which are communicated when the personal data is collected, may, depending on the specific case, have any of the following purposes: responding to your request, complaint or question, maintaining the established relationship, the comprehensive and commercial management of customers, accounting and invoicing or sending of communications of news and activities related with T&Eacute;CNICAS EXPANSIVAS S.L., including by electronic means.T&Eacute;CNICAS EXPANSIVAS S.L. informs you that the personal data provided voluntarily on this website, the purpose, intended transfers and other circumstances of which are communicated when the personal data is collected, may, depending on the specific case, have any of the following purposes: responding to your request, complaint or question, maintaining the established relationship, the comprehensive and commercial management of customers, accounting and invoicing or sending of communications of news and activities related with T&Eacute;CNICAS EXPANSIVAS S.L., including by electronic means.T&Eacute;CNICAS EXPANSIVAS S.L. informs you that the personal data provided voluntarily on this website, the purpose, intended transfers and other circumstances of which are communicated when the personal data is collected, may, depending on themanagement of customers, accounting and invoicing or sending of communications of news and activities related with T&Eacute;CNICAS EXPANSIVAS S.L., including by electronic means.T&Eacute;CNICAS EXPANSIVAS S.L. informs you that the personal data provided voluntarily on this website, the purpose, intended transfers and other circumstances of which are communicated when the personal data is collected, may, depending on the specific case, have any of the following purposes: responding to your request, complaint or question, maintaining the established relationship, the comprehensive and commercial management of customers, accounting and invoicing or sending of communications of news and activities related with T&Eacute;CNICAS EXPANSIVAS S.L., including by electronic means.T&Eacute;CNICAS EXPANSIVAS S.L. informs you that the personal data provided voluntarily on this website, the purpose, intended transfers and other circumstances of which are communicated when the personal data is collected, may, depending on the specific case, have any of the following purposes: responding to your request, complaint or question, maintaining the established relationship, the comprehensive and commercial management of customers, accounting and invoicing or sending of communications of news and activities related with T&Eacute;CNICAS EXPANSIVAS S.L., including by electronic means.",
+    "description-2": "The data included in our files is absolutely confidential and will be processed with the utmost confidentiality and in compliance with all the requirements set out in the General Data Protection Regulation (GDPR) of the 27<sup>th</sup>th of April 2016.The data included in our files is absolutely confidential and will be processed with the utmost confidentiality and in compliance with all the requirements set out in the General Data Protection Regulation (GDPR) of the 27<sup>th</sup>th of April 2016. The data is registered in our files for the time necessary for the purpose for which it was collected.The data is registered in our files for the time necessary for the purpose for which it was collected. The period during which the personal data will be kept will be that established by current legislation and always during the period of the provision of the service for which it was provided.The period during which the personal data will be kept will be that established by current legislation and always during theThe data included in our files is absolutely confidential and will be processed with the utmost confidentiality and in compliance with all the requirements set out in the General Data Protection Regulation (GDPR) of the 27th<sup>th</sup> of April 2016.The data included in our files is absolutely confidential and will be processed with the utmost confidentiality and in compliance with all the requirements set out in the General Data Protection Regulation (GDPR) of the 27th<sup>th</sup> of April 2016. The data is registered in our files for the time necessary for the purpose for which it was collected.The data is registered in our files for the time necessary for the purpose for which it was collected. The period during which the personal data will be kept will be that established by current legislation and always during the period of the provision of the service for which it was provided.The period during which the personal data will be kept will be that established by current legislation and always during the period of the provision of the service for which it was provided.The data included in our files is absolutely confidential and will be processed with the utmost confidentiality and in compliance with all the requirements set out in the General Data Protection Regulation (GDPR) of the 27<sup>th</sup>th of April 2016.The data included in our files is absolutely confidential and will be processed with the utmost confidentiality and in compliance with all the requirements set out in the General Data Protection Regulation (GDPR) of the 27<sup>th</sup>th of April 2016. The data is registered in our files for the time necessary for the purpose for which it was collected.The data is registered in our files for the time necessary for the purpose for which it was collected. The period during which the personal data will be kept will be that established by current legislation and always during the period of the provision of the service for which it was provided.The period during which the personal data will be kept wil period of the provision of the service for which it was provided.The data included in our files is absolutely confidential and will be processed with the utmost confidentiality and in compliance with all the requirements set out in the General Data Protection Regulation (GDPR) of the 27th<sup>th</sup> of April 2016.The data included in our files is absolutely confidential and will be processed with the utmost confidentiality and in compliance with all the requirements set out in the General Data Protection Regulation (GDPR) of the 27th<sup>th</sup> of April 2016. The data is registered in our files for the time necessary for the purpose for which it was collected.The data is registered in our files for the time necessary for the purpose for which it was collected. The period during which the personal data will be kept will be that established by current legislation and always during the period of the provision of the service for which it was provided.The period during which the personal data will be kept will be that established by current legislation and always during the period of the provision of the service for which it was provided.",
+    "description-3": "We do not recommend sending personal data that is classified as highly confidential by data protection legislation, such as that related to health, as it is not sent coded or encrypted.We do not recommend sending personal data that is classified as highly confidential by data protection legislation, such as that related to health, as it is not sent coded or encrypted. Therefore, if you send this type of data, it will be at your own risk.Therefore, if you send this type of data, it will be at your own risk.We do not recommend sending personal data that is classified as highly confidential by data protection legislation, such as that related to health, as it is not sent coded or encrypted.We do not recommend sending personal data that is classified as highly confidential by data protection legislation, such as that related to health, as it is not sent coded or encrypted. Therefore, if you send this type of data, it will be at your own risk.Therefore, if you send this type of data, it will be at your own risk.",
+    "description-4": "The user may at any time exercise their rights of access, rectification, opposition, erasure, restricted processing or requesting of its portability in accordance with the content of the General Data Protection Regulation (GDPR) of the 27<sup>th</sup>th of April 2016 by sending a letter to the data controller:The user may at any time exercise their rights of access, rectification, opposition, erasure, restricted processing or requesting of its portability in accordance with the content of the General Data Protection Regulation (GDPR) of the 27<sup>th</sup>th of April 2016 by sending a letter to the data controller: Valent&iacute;n G&oacute;mez, Manager, along with a photocopy of their National Identity Document (DNI), to T&Eacute;CNICAS EXPANSIVAS SL | P.I.Valent&iacute;n G&oacute;mez, Manager, along with a photocopy of their National Identity Document (DNI), to T&Eacute;CNICAS EXPANSIVAS SL | P.I. La Portalada II | C/ Segador 13, 26006 | Logro&ntilde;o (La Rioja) or by email to&nbsp;info@indexfix.comLa PortaThe user may at any time exercise their rights of access, rectification, opposition, erasure, restricted processing or requesting of its portability in accordance with the content of the General Data Protection Regulation (GDPR) of the 27th<sup>th</sup> of April 2016 by sending a letter to the data controller:The user may at any time exercise their rights of access, rectification, opposition, erasure, restricted processing or requesting of its portability in accordance with the content of the General Data Protection Regulation (GDPR) of the 27th<sup>th</sup> of April 2016 by sending a letter to the data controller: Valent&iacute;n G&oacute;mez, Manager, along with a photocopy of their National Identity Document (DNI), to T&Eacute;CNICAS EXPANSIVAS SL | P.I.Valent&iacute;n G&oacute;mez, Manager, along with a photocopy of their National Identity Document (DNI), to T&Eacute;CNICAS EXPANSIVAS SL | P.I. La Portalada II | C/ Segador 13, 26006 | Logro&ntilde;o (La Rioja) or by email to&nbsp;info@indexfix.comLa Portalada II | C/ Segador 13, 26006 | Logro&ntilde;o (La Rioja) or by email to&nbsp;info@indexfix.comThe user may at any time exercise their rights of access, rectification, opposition, erasure, restricted processing or requesting of its portability in accordance with the content of the General Data Protection Regulation (GDPR) of the 27<sup>th</sup>th of April 2016 by sending a letter to the data controller:The user may at any time exercise their rights of access, rectification, opposition, erasure, restricted processing or requesting of its portability in accordance with the content of the General Data Protection Regulation (GDPR) of the 27<sup>th</sup>th of April 2016 by sending a letter to the data controller: Valent&iacute;n G&oacute;mez, Manager, along with a photocopy of their National Identity Document (DNI), to T&Eacute;CNICAS EXPANSIVAS SL | P.I.Valent&iacute;n G&oacute;mez, Manager, along with a photocopy of their National Identity Document (DNI), to T&Eacute;CNICAS EXPANSIVAS SL | P.I. La Portalada II lada II | C/ Segador 13, 26006 | Logro&ntilde;o (La Rioja) or by email to&nbsp;info@indexfix.comThe user may at any time exercise their rights of access, rectification, opposition, erasure, restricted processing or requesting of its portability in accordance with the content of the General Data Protection Regulation (GDPR) of the 27th<sup>th</sup> of April 2016 by sending a letter to the data controller:The user may at any time exercise their rights of access, rectification, opposition, erasure, restricted processing or requesting of its portability in accordance with the content of the General Data Protection Regulation (GDPR) of the 27th<sup>th</sup> of April 2016 by sending a letter to the data controller: Valent&iacute;n G&oacute;mez, Manager, along with a photocopy of their National Identity Document (DNI), to T&Eacute;CNICAS EXPANSIVAS SL | P.I.Valent&iacute;n G&oacute;mez, Manager, along with a photocopy of their National Identity Document (DNI), to T&Eacute;CNICAS EXPANSIVAS SL | P.I. La Portalada II | C/ Segador 13, 26006 | Logro&ntilde;o (La Rioja) or by email to&nbsp;info@indexfix.comLa Portalada II | C/ Segador 13, 26006 | Logro&ntilde;o (La Rioja) or by email to&nbsp;info@indexfix.com",
+    "button-send": "SendSendSendSend"
+  },
+  "menu-aside": {
+    "button-features": "CharacteristicsCharacteristicsCharacteristicsCharacteristics",
+    "button-range": "See rangeSee rangeSee rangeSee range",
+    "button-resources": "Download resourcesDownload resourcesDownload resourcesDownload resources",
+    "button-info": "InformationInformationInformationInformation"
+  }
+}

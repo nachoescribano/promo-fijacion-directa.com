@@ -3,7 +3,7 @@
   const header = document.querySelector(".js-header");
   const navMenu = document.querySelector(".js-navMenu");
   const navMenuList = document.querySelector(".js-navMenuList");
-  const htmlContainer = document.querySelector("html");
+  const htmlContainer = document.querySelector("body");
   const separatorLogo = document.querySelector(".js-separtator-logo");
   const mainSectionImage = document.querySelector(".js-main-section__image");
   const buttonMenuMobile = document.querySelector(".js-buttonMenuMobile");
@@ -68,8 +68,9 @@
         navMenu.classList.remove("nav-menu--force-white");
         separatorLogo.classList.remove("separtator-logo--force");
       }
-      if (separatorLogo.classList.contains("separtator-logo--disappear"))
+      if (separatorLogo.classList.contains("separtator-logo--disappear")) {
         separatorLogo.classList.remove("separtator-logo--disappear");
+      }
     } else if (scrollPosition <= scrollBefore && isAfterMainSection) {
       separatorLogo.classList.add("separtator-logo--disappear");
       navMenuList.classList.add("nav-menu__list--hide");
@@ -92,8 +93,9 @@
         navMenu.classList.remove("nav-menu--force-white");
         separatorLogo.classList.remove("separtator-logo--force");
       }
-      if (separatorLogo.classList.contains("separtator-logo--disappear"))
+      if (separatorLogo.classList.contains("separtator-logo--disappear")) {
         separatorLogo.classList.remove("separtator-logo--disappear");
+      }
     } else {
       menuBtn.classList.add("mobile-button-menu--show");
       navMenuList.classList.add("nav-menu__list--hide");

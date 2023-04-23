@@ -1,1 +1,483 @@
-{}
+{
+  "lang": "de",
+  "description": "",
+  "keywords": "",
+  "title": "",
+  "home": "StartStartStartStart",
+  "features": "EigenschaftenEigenschaftenEigenschaftenEigenschaften",
+  "range": "SortimentSortimentSortimentSortiment",
+  "applications": "AnwendungenAnwendungenAnwendungenAnwendungen",
+  "materials": "MaterialMaterialMaterialMaterial",
+  "installation": "InstallationInstallationInstallationInstallation",
+  "documentation": "DokumentationDokumentationDokumentationDokumentation",
+  "contact": "KontaktKontaktKontaktKontakt",
+  "main-section": {
+    "title": "DirektbefestigungDirektbefestigungDirektbefestigungDirektbefestigung",
+    "image-alt": "Bediener, der ein Gasnagelger&auml;t verwendet, um ein Profil im Boden zu verankernBediener, der ein Gasnagelger&auml;t verwendet, um ein Profil im Boden zu verankernBediener, der ein Gasnagelger&auml;t verwendet, um ein Profil im Boden zu verankernBediener, der ein Gasnagelger&auml;t verwendet, um ein Profil im Boden zu verankern",
+    "checklist": [
+      "K&uuml;rzere ArbeitszeitK&uuml;rzere ArbeitszeitK&uuml;rzere ArbeitszeitK&uuml;rzere Arbeitszeit",
+      "H&ouml;here Produktivit&auml;tH&ouml;here Produktivit&auml;tH&ouml;here Produktivit&auml;tH&ouml;here Produktivit&auml;t",
+      "Mehr SicherheitMehr SicherheitMehr SicherheitMehr Sicherheit"
+    ],
+    "know-range": "Das Sortiment kennen lernenDas Sortiment kennen lernenDas Sortiment kennen lernenDas Sortiment kennen lernen",
+    "url-know-range": "https://www.indexfix.com/canales-venta/anclajes/fijacion-directa"
+  },
+  "intro-section": {
+    "title": "Was ist die Direktbefestigung?Was ist die Direktbefestigung?Was ist die Direktbefestigung?Was ist die Direktbefestigung?",
+    "description-1": "Die Direktbefestigung erm&ouml;glicht ein pr&auml;zises und zuverl&auml;ssiges Arbeiten und spart durch die schnelle Montage Zeit bei der Installation.Die Direktbefestigung erm&ouml;glicht ein pr&auml;zises und zuverl&auml;ssiges Arbeiten und spart durch die schnelle Montage Zeit bei der Installation. Die Direktbefestigung mit Gasnagelger&auml;ten erm&ouml;glicht eine sofortige, autonome und schnelle Befestigung.Die Direktbefestigung mit Gasnagelger&auml;ten erm&ouml;glicht eine sofortige, autonome und schnelle Befestigung. Das System eignet sich ideal f&uuml;r Arbeiten, bei denen Kraft und Leistung bei der Bearbeitung von Materialien wie Beton, Porenbeton, Hartholz und Stahl erforderlich sind.Das System eignet sich ideal f&uuml;r Arbeiten, bei denen Kraft und Leistung bei der Bearbeitung von Materialien wie Beton, Porenbeton, Hartholz und Stahl erforderlich sind.Die Direktbefestigung erm&ouml;glicht ein pr&auml;zises und zuverl&auml;ssiges Arbeiten und spart durch die schnelle Montage Zeit bei der InstallatiDie Direktbefestigung erm&ouml;glicht ein pr&auml;zises und zuverl&auml;ssiges Arbeiten und spart durch die schnelle Montage Zeit bei der Installation.Die Direktbefestigung erm&ouml;glicht ein pr&auml;zises und zuverl&auml;ssiges Arbeiten und spart durch die schnelle Montage Zeit bei der Installation. Die Direktbefestigung mit Gasnagelger&auml;ten erm&ouml;glicht eine sofortige, autonome und schnelle Befestigung.Die Direktbefestigung mit Gasnagelger&auml;ten erm&ouml;glicht eine sofortige, autonome und schnelle Befestigung. Das System eignet sich ideal f&uuml;r Arbeiten, bei denen Kraft und Leistung bei der Bearbeitung von Materialien wie Beton, Porenbeton, Hartholz und Stahl erforderlich sind.Das System eignet sich ideal f&uuml;r Arbeiten, bei denen Kraft und Leistung bei der Bearbeitung von Materialien wie Beton, Porenbeton, Hartholz und Stahl erforderlich sind.Die Direktbefestigung erm&ouml;glicht ein pr&auml;zises und zuverl&auml;ssiges Arbeiten und spart durch die schnelle Montage Zeit bei der Installation.Die Direktbefestigung erm&ouml;glicht ein pr&auml;zises und zuverl&auml;ssiges Arbeiten und spart durch die schnelle Montage Zeit bei der Installation. Die Direktbefestigung mit Gasnagelger&auml;ten erm&ouml;glicht eine sofortige, autonome und schnelle Befestigung.Die Direktbefestigung mit Gasnagelger&auml;ten erm&ouml;glicht eine sofortige, autonome und schnelle Befestigung. Das System eignet sich ideal f&uuml;r Arbeiten, bei denen Kraft und Leistung bei der Bearbeitung von Materialien wie Beton, Porenbeton, Hartholz und Stahl erforderlich sind.Das System eignet sich ideal f&uuml;r Arbeiten, bei denen Kraft und Leistung bei der Bearbeitung von Materialien wie Beton, Porenbeton, Hartholz und Stahl erforderlich sind.",
+    "subtitle": "VorteileVorteileVorteileVorteile",
+    "list": [
+      "Kosteng&uuml;nstig.Kosteng&uuml;nstig. Der Zeitaufwand f&uuml;r die Installation ist geringer.Der Zeitaufwand f&uuml;r die Installation ist geringer.Kosteng&uuml;nstig.Kosteng&uuml;nstig. Der Zeitaufwand f&uuml;r die Installation ist geringer.Der Zeitaufwand f&uuml;r die Installation ist geringer.",
+      "Ergonomie.Ergonomie. Das Gasnagelger&auml;t zeichnet sich durch einen guten Griff und ein geringes Gewicht aus.Das Gasnagelger&auml;t zeichnet sich durch einen guten Griff und ein geringes Gewicht aus.Ergonomie.Ergonomie. Das Gasnagelger&auml;t zeichnet sich durch einen guten Griff und ein geringes Gewicht aus.Das Gasnagelger&auml;t zeichnet sich durch einen guten Griff und ein geringes Gewicht aus.",
+      "Schnelligkeit.Schnelligkeit.Schnelligkeit.Schnelligkeit.",
+      "Automatisches Wiederladeverfahren.Automatisches Wiederladeverfahren.Automatisches Wiederladeverfahren.Automatisches Wiederladeverfahren."
+    ],
+    "image-alt": "Direktbefestigungsger&auml;t, Koffer, Zubeh&ouml;r und verwandte ProdukteDirektbefestigungsger&auml;t, Koffer, Zubeh&ouml;r und verwandte ProdukteDirektbefestigungsger&auml;t, Koffer, Zubeh&ouml;r und verwandte ProdukteDirektbefestigungsger&auml;t, Koffer, Zubeh&ouml;r und verwandte Produkte",
+    "interactive__popover": [
+      {
+        "description": "Lithium-Batterie mit hoher Kapazit&auml;tLithium-Batterie mit hoher Kapazit&auml;tLithium-Batterie mit hoher Kapazit&auml;tLithium-Batterie mit hoher Kapazit&auml;t",
+        "coors": "left: 67%; top: 10%"
+      },
+      {
+        "description": "Leicht, handlich und bedienerfreundlich.Leicht, handlich und bedienerfreundlich. 3,8 kg Gewicht3,8 kg GewichtLeicht, handlich und bedienerfreundlich.Leicht, handlich und bedienerfreundlich. 3,8 kg Gewicht3,8 kg Gewicht",
+        "coors": "left: 73%; top: 31%"
+      },
+      {
+        "description": "Einstellbarer TiefenanschlagEinstellbarer TiefenanschlagEinstellbarer TiefenanschlagEinstellbarer Tiefenanschlag",
+        "coors": "left: 48%; top: 52%"
+      },
+      {
+        "description": "Pistolenlauf f&uuml;r den ElektrobereichPistolenlauf f&uuml;r den ElektrobereichPistolenlauf f&uuml;r den ElektrobereichPistolenlauf f&uuml;r den Elektrobereich",
+        "coors": "left: 18%; top: 32%"
+      }
+    ]
+  },
+  "features-section": {
+    "title": "Merkmale und Vorteile der DirektbefestigungMerkmale und Vorteile der DirektbefestigungMerkmale und Vorteile der DirektbefestigungMerkmale und Vorteile der Direktbefestigung",
+    "features": [
+      {
+        "image": "assets/images/char-1.svg",
+        "feature": "Befestigung auf Beton und StahlBefestigung auf Beton und StahlBefestigung auf Beton und StahlBefestigung auf Beton und Stahl",
+        "image-alt": "Nagel an Wand befestigtNagel an Wand befestigtNagel an Wand befestigtNagel an Wand befestigt"
+      },
+      {
+        "image": "assets/images/char-2.svg",
+        "feature": "Kontrolle der NageltiefeKontrolle der NageltiefeKontrolle der NageltiefeKontrolle der Nageltiefe",
+        "image-alt": "BedienfeldBedienfeldBedienfeldBedienfeld"
+      },
+      {
+        "image": "assets/images/char-3.svg",
+        "feature": "Schnelleres und saubereres ArbeitenSchnelleres und saubereres ArbeitenSchnelleres und saubereres ArbeitenSchnelleres und saubereres Arbeiten",
+        "image-alt": "doppelte Geschwindigkeitdoppelte Geschwindigkeitdoppelte Geschwindigkeitdoppelte Geschwindigkeit"
+      },
+      {
+        "image": "assets/images/char-4.svg",
+        "feature": "KabellosKabellosKabellosKabellos",
+        "image-alt": "BatterieBatterieBatterieBatterie"
+      },
+      {
+        "image": "assets/images/char-5.svg",
+        "feature": "Eingebaute SicherheitssystemeEingebaute SicherheitssystemeEingebaute SicherheitssystemeEingebaute Sicherheitssysteme",
+        "image-alt": "SchutzschildSchutzschildSchutzschildSchutzschild"
+      },
+      {
+        "image": "assets/images/char-6.svg",
+        "feature": "Die Gasnagelger&auml;te werden mit komplettem Koffer geliefertDie Gasnagelger&auml;te werden mit komplettem Koffer geliefertDie Gasnagelger&auml;te werden mit komplettem Koffer geliefertDie Gasnagelger&auml;te werden mit komplettem Koffer geliefert",
+        "image-alt": "BaustellenkofferBaustellenkofferBaustellenkofferBaustellenkoffer"
+      },
+      {
+        "image": "assets/images/char-7.svg",
+        "feature": "BenutzerfreundlichBenutzerfreundlichBenutzerfreundlichBenutzerfreundlich",
+        "image-alt": "ZauberstabZauberstabZauberstabZauberstab"
+      },
+      {
+        "image": "assets/images/char-8.svg",
+        "feature": "Gro&szlig;e Reichweite der Setzvorg&auml;ngeGro&szlig;e Reichweite der Setzvorg&auml;ngeGro&szlig;e Reichweite der Setzvorg&auml;ngeGro&szlig;e Reichweite der Setzvorg&auml;nge",
+        "image-alt": "SanduhrSanduhrSanduhrSanduhr"
+      },
+      {
+        "image": "assets/images/char-9.svg",
+        "feature": "Kein Vorbohren erforderlich, was den Prozess beschleunigtKein Vorbohren erforderlich, was den Prozess beschleunigtKein Vorbohren erforderlich, was den Prozess beschleunigtKein Vorbohren erforderlich, was den Prozess beschleunigt",
+        "image-alt": "Ohne BohrenOhne BohrenOhne BohrenOhne Bohren"
+      },
+      {
+        "image": "assets/images/char-10.svg",
+        "feature": "Geringer R&uuml;cksto&szlig;Geringer R&uuml;cksto&szlig;Geringer R&uuml;cksto&szlig;Geringer R&uuml;cksto&szlig;",
+        "image-alt": "Direktbefestigungsger&auml;tDirektbefestigungsger&auml;tDirektbefestigungsger&auml;tDirektbefestigungsger&auml;t"
+      }
+    ]
+  },
+  "range-section": {
+    "title": "Gasnagelger&auml;tGasnagelger&auml;tGasnagelger&auml;tGasnagelger&auml;t",
+    "range-cards": [
+      {
+        "title": "FG-GUNFG-GUNFG-GUNFG-GUN",
+        "description": "Halbautomatisches kabelloses Gasnagelger&auml;t f&uuml;r Trockenbauw&auml;nde.Halbautomatisches kabelloses Gasnagelger&auml;t f&uuml;r Trockenbauw&auml;nde.Halbautomatisches kabelloses Gasnagelger&auml;t f&uuml;r Trockenbauw&auml;nde.Halbautomatisches kabelloses Gasnagelger&auml;t f&uuml;r Trockenbauw&auml;nde.",
+        "image": "assets/images/FG-GUNEL-pistola-PIM-2.webp",
+        "image2x": "assets/images/FG-GUNEL-pistola-PIM-2_2x.webp",
+        "image-alt": "CFG-GUNCFG-GUNCFG-GUNCFG-GUN",
+        "related-products-id": "FG-GUNFG-GUNFG-GUNFG-GUN"
+      },
+      {
+        "title": "FG-CLHFG-CLHFG-CLHFG-CLH",
+        "description": "Verzinkte N&auml;gel f&uuml;r harte WerkstoffeVerzinkte N&auml;gel f&uuml;r harte WerkstoffeVerzinkte N&auml;gel f&uuml;r harte WerkstoffeVerzinkte N&auml;gel f&uuml;r harte Werkstoffe",
+        "image": "assets/images/FG-GUNEL-1-1_1.webp",
+        "image2x": "assets/images/FG-GUNEL-1-1_1_2x.webp",
+        "image-alt": "FG-GUNELFG-GUNELFG-GUNELFG-GUNEL",
+        "related-products-id": "FG-GUNELFG-GUNELFG-GUNELFG-GUNEL"
+      }
+    ],
+    "card-info-1": "Die Direktbefestigung mit Gasnagelger&auml;ten ist einfach: Nach dem Einbringen der Gasladung wird die Werkzeugspitze auf die Oberfl&auml;che gesetzt und dann der Abzug bet&auml;tigt.Die Direktbefestigung mit Gasnagelger&auml;ten ist einfach: Nach dem Einbringen der Gasladung wird die Werkzeugspitze auf die Oberfl&auml;che gesetzt und dann der Abzug bet&auml;tigt.Die Direktbefestigung mit Gasnagelger&auml;ten ist einfach: Nach dem Einbringen der Gasladung wird die Werkzeugspitze auf die Oberfl&auml;che gesetzt und dann der Abzug bet&auml;tigt.Die Direktbefestigung mit Gasnagelger&auml;ten ist einfach: Nach dem Einbringen der Gasladung wird die Werkzeugspitze auf die Oberfl&auml;che gesetzt und dann der Abzug bet&auml;tigt.",
+    "card-info-2": "Nach &Uuml;berwindung des Sicherheitssystems und Bet&auml;tigung des Abzugs wird ein Funke ausgel&ouml;st, der das Gas im Brennraum entz&uuml;ndet.Nach &Uuml;berwindung des Sicherheitssystems und Bet&auml;tigung des Abzugs wird ein Funke ausgel&ouml;st, der das Gas im Brennraum entz&uuml;ndet. Die im Koffer enthaltene Batterie aktiviert ein Gebl&auml;se, das die Verbrennungsgase ausbl&auml;st.Die im Koffer enthaltene Batterie aktiviert ein Gebl&auml;se, das die Verbrennungsgase ausbl&auml;st.Nach &Uuml;berwindung des Sicherheitssystems und Bet&auml;tigung des Abzugs wird ein Funke ausgel&ouml;st, der das Gas im Brennraum entz&uuml;ndet.Nach &Uuml;berwindung des Sicherheitssystems und Bet&auml;tigung des Abzugs wird ein Funke ausgel&ouml;st, der das Gas im Brennraum entz&uuml;ndet. Die im Koffer enthaltene Batterie aktiviert ein Gebl&auml;se, das die Verbrennungsgase ausbl&auml;st.Die im Koffer enthaltene Batterie aktiviert ein Gebl&auml;se, das die Verbrennungsgase ausbl&auml;st.",
+    "button-text": "Siehe ProduktSiehe ProduktSiehe ProduktSiehe Produkt",
+    "button-link": "https://www.indexfix.com/canales-venta/anclajes/fijacion-directa/fg-gun",
+    "related-products-title": "Verwandte ProdukteVerwandte ProdukteVerwandte ProdukteVerwandte Produkte",
+    "commons-related-products": [
+      {
+        "title": "FG-CLFG-CLFG-CLFG-CL",
+        "description": "Verzinkte Standard-N&auml;gel f&uuml;r BetonVerzinkte Standard-N&auml;gel f&uuml;r BetonVerzinkte Standard-N&auml;gel f&uuml;r BetonVerzinkte Standard-N&auml;gel f&uuml;r Beton",
+        "image": "assets/images/FG-CL.jpg",
+        "image-alt": "FG-CLFG-CLFG-CLFG-CL",
+        "href": "https://www.indexfix.com/producto/10704-FG-CL-clavos-estandar"
+      },
+      {
+        "title": "FG-CLHFG-CLHFG-CLHFG-CLH",
+        "description": "Verzinkte N&auml;gel f&uuml;r harte WerkstoffeVerzinkte N&auml;gel f&uuml;r harte WerkstoffeVerzinkte N&auml;gel f&uuml;r harte WerkstoffeVerzinkte N&auml;gel f&uuml;r harte Werkstoffe",
+        "image": "assets/images/FG-CLH.jpg",
+        "image-alt": "FG-CLHFG-CLHFG-CLHFG-CLH",
+        "href": "https://www.indexfix.com/producto/10703-FG-CLH-clavos-para-materiales-duros"
+      }
+    ],
+    "related-products": [
+      {
+        "id": "FG-GUNFG-GUNFG-GUNFG-GUN",
+        "swiper-id": "2222",
+        "products": [
+          {
+            "title": "FG-ARAM EPFG-ARAM EPFG-ARAM EPFG-ARAM EP",
+            "description": "Metallrondelle.Metallrondelle. Verkaufsformat: PlastikdoseVerkaufsformat: PlastikdoseMetallrondelle.Metallrondelle. Verkaufsformat: PlastikdoseVerkaufsformat: Plastikdose",
+            "image": "assets/images/FG-ARAM-bote-1000-u.jpg",
+            "image-alt": "FG-ARAM EPFG-ARAM EPFG-ARAM EPFG-ARAM EP",
+            "href": "https://www.indexfix.com/producto/11637-FG-ARAM-EP-arandela-metalica-bote-de-plastico"
+          },
+          {
+            "title": "FG-ARAMFG-ARAMFG-ARAMFG-ARAM",
+            "description": "Metallrondelle f&uuml;r Gasnagelger&auml;tMetallrondelle f&uuml;r Gasnagelger&auml;tMetallrondelle f&uuml;r Gasnagelger&auml;tMetallrondelle f&uuml;r Gasnagelger&auml;t",
+            "image": "assets/images/FG-ARAM.jpg",
+            "image-alt": "FG-ARAMFG-ARAMFG-ARAMFG-ARAM",
+            "href": "https://www.indexfix.com/producto/11636-FG-ARAM-arandela-metalica"
+          },
+          {
+            "title": "OMEOMEOMEOME",
+            "description": "UniversalverankerungUniversalverankerungUniversalverankerungUniversalverankerung",
+            "image": "assets/images/OME.jpg",
+            "image-alt": "OMEOMEOMEOME",
+            "href": "https://www.indexfix.com/producto/11173-OME-anclaje-universal"
+          },
+          {
+            "title": "AB-GUAB-GUAB-GUAB-GU",
+            "description": "Einfache F&uuml;hrungsschelleEinfache F&uuml;hrungsschelleEinfache F&uuml;hrungsschelleEinfache F&uuml;hrungsschelle",
+            "image": "assets/images/AB-GU.jpg",
+            "image-alt": "AB-GUAB-GUAB-GUAB-GU",
+            "href": "https://www.indexfix.com/producto/11305-AB-GU-abrazadera-guia-gris-simple-con-pre-rosca-m6"
+          },
+          {
+            "title": "AB-MUGAB-MUGAB-MUGAB-MUG",
+            "description": "Multi-Durchmesser-SchelleMulti-Durchmesser-SchelleMulti-Durchmesser-SchelleMulti-Durchmesser-Schelle",
+            "image": "assets/images/AB-MUG.jpg",
+            "image-alt": "AB-MUGAB-MUGAB-MUGAB-MUG",
+            "href": "https://www.indexfix.com/producto/10898-AB-MUG-abrazadera-multiusos"
+          },
+          {
+            "title": "AB-PRAB-PRAB-PRAB-PR",
+            "description": "DruckschelleDruckschelleDruckschelleDruckschelle",
+            "image": "assets/images/AB-PR.jpg",
+            "image-alt": "AB-PRAB-PRAB-PRAB-PR",
+            "href": "https://www.indexfix.com/producto/11308-AB-PR-gris"
+          },
+          {
+            "title": "AB-PIDAB-PIDAB-PIDAB-PID",
+            "description": "Krampe 1 Fu&szlig;Krampe 1 Fu&szlig;Krampe 1 Fu&szlig;Krampe 1 Fu&szlig;",
+            "image": "assets/images/AB-PID.jpg",
+            "image-alt": "AB-PIDAB-PIDAB-PIDAB-PID",
+            "href": "https://www.indexfix.com/producto/11496-AB-PID-grapa-1-pie-para-disparo"
+          },
+          {
+            "title": "FG-PLETFG-PLETFG-PLETFG-PLET",
+            "description": "Gewindestangen-Abh&auml;ngerGewindestangen-Abh&auml;ngerGewindestangen-Abh&auml;ngerGewindestangen-Abh&auml;nger",
+            "image": "assets/images/FG-PLET.jpg",
+            "image-alt": "FG-PLETFG-PLETFG-PLETFG-PLET",
+            "href": "https://www.indexfix.com/producto/10691-FG-PLET-pletina-roscada-para-varilla"
+          },
+          {
+            "title": "FG-ABRAFG-ABRAFG-ABRAFG-ABRA",
+            "description": "DruckschelleDruckschelleDruckschelleDruckschelle",
+            "image": "assets/images/FG-ABRA.jpg",
+            "image-alt": "FG-ABRAFG-ABRAFG-ABRAFG-ABRA",
+            "href": "https://www.indexfix.com/producto/10697-FG-ABRA-abrazadera-a-presion"
+          },
+          {
+            "title": "FG-BASEFG-BASEFG-BASEFG-BASE",
+            "description": "Kabelbinderhalter.Kabelbinderhalter. Erh&auml;ltlich in der Farbe GrauErh&auml;ltlich in der Farbe GrauKabelbinderhalter.Kabelbinderhalter. Erh&auml;ltlich in der Farbe GrauErh&auml;ltlich in der Farbe Grau",
+            "image": "assets/images/FG-BASE.jpg",
+            "image-alt": "FG-BASEFG-BASEFG-BASEFG-BASE",
+            "href": "https://www.indexfix.com/producto/10698-FG-BASE-base-para-brida"
+          },
+          {
+            "title": "CI-PECI-PECI-PECI-PE",
+            "description": "MontagelochbandMontagelochbandMontagelochbandMontagelochband",
+            "image": "assets/images/CI-PE.jpg",
+            "image-alt": "CI-PECI-PECI-PECI-PE",
+            "href": "https://www.indexfix.com/producto/11361-CI-PE-cinta-perforada-curva-atlantis-c2-m"
+          }
+        ]
+      },
+      {
+        "id": "FG-GUNELFG-GUNELFG-GUNELFG-GUNEL",
+        "swiper-id": "3333",
+        "products": [
+          {
+            "title": "FG-GASFG-GASFG-GASFG-GAS",
+            "description": "GaspatroneGaspatroneGaspatroneGaspatrone",
+            "image": "assets/images/FG-GAS.jpg",
+            "image-alt": "FG-GASFG-GASFG-GASFG-GAS",
+            "href": "https://www.indexfix.com/producto/10699-FG-GAS-cartucho-de-gas"
+          },
+          {
+            "title": "FG-CAELFG-CAELFG-CAELFG-CAEL",
+            "description": "Spezialpistolenlauf f&uuml;r ElektrikerSpezialpistolenlauf f&uuml;r ElektrikerSpezialpistolenlauf f&uuml;r ElektrikerSpezialpistolenlauf f&uuml;r Elektriker",
+            "image": "assets/images/FG-CAEL.jpg",
+            "image-alt": "FG-CAELFG-CAELFG-CAELFG-CAEL",
+            "href": "https://www.indexfix.com/producto/11642-FG-CAEL-canon-de-pistola-especial-para-electricista"
+          },
+          {
+            "title": "FG-CLCARFG-CLCARFG-CLCARFG-CLCAR",
+            "description": "Magazin f&uuml;r 40 N&auml;gelMagazin f&uuml;r 40 N&auml;gelMagazin f&uuml;r 40 N&auml;gelMagazin f&uuml;r 40 N&auml;gel",
+            "image": "assets/images/FG-CLCAR.jpg",
+            "image-alt": "FG-CLCARFG-CLCARFG-CLCARFG-CLCAR",
+            "href": "https://www.indexfix.com/producto/11626-FG-CLCAR-cargador-para-40-clavos"
+          },
+          {
+            "title": "FG-IMANFG-IMANFG-IMANFG-IMAN",
+            "description": "MagnetMagnetMagnetMagnet",
+            "image": "assets/images/FG-IMAN.jpg",
+            "image-alt": "FG-IMANFG-IMANFG-IMANFG-IMAN",
+            "href": "https://www.indexfix.com/producto/10690-FG-IMAN-iman"
+          },
+          {
+            "title": "FG-BATFG-BATFG-BATFG-BAT",
+            "description": "Akku f&uuml;r Gasnagelger&auml;tAkku f&uuml;r Gasnagelger&auml;tAkku f&uuml;r Gasnagelger&auml;tAkku f&uuml;r Gasnagelger&auml;t",
+            "image": "assets/images/FG-BAT.jpg",
+            "image-alt": "FG-BATFG-BATFG-BATFG-BAT",
+            "href": "https://www.indexfix.com/producto/10701-FG-BAT-bateria-para-pistola-fp60gun"
+          },
+          {
+            "title": "FG-CARFG-CARFG-CARFG-CAR",
+            "description": "Ladeger&auml;t f&uuml;r Gasnagelger&auml;tLadeger&auml;t f&uuml;r Gasnagelger&auml;tLadeger&auml;t f&uuml;r Gasnagelger&auml;tLadeger&auml;t f&uuml;r Gasnagelger&auml;t",
+            "image": "assets/images/FG-CAR.jpg",
+            "image-alt": "FG-CARFG-CARFG-CARFG-CAR",
+            "href": "https://www.indexfix.com/producto/10700-FG-CAR-cargador-para-pistola-fp60gun"
+          }
+        ]
+      }
+    ]
+  },
+  "applications-section": {
+    "title": "AnwendungenAnwendungenAnwendungenAnwendungen",
+    "aplications-cards": [
+      {
+        "description": "Montage von Kan&auml;len und Winkeln f&uuml;r laminierte Gipskartonplatten.Montage von Kan&auml;len und Winkeln f&uuml;r laminierte Gipskartonplatten.Montage von Kan&auml;len und Winkeln f&uuml;r laminierte Gipskartonplatten.Montage von Kan&auml;len und Winkeln f&uuml;r laminierte Gipskartonplatten.",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Montage von Kan&auml;len und Winkeln f&uuml;r laminierte Gipskartonplatten mit Direktbefestigungsger&auml;t.Montage von Kan&auml;len und Winkeln f&uuml;r laminierte Gipskartonplatten mit Direktbefestigungsger&auml;t.Montage von Kan&auml;len und Winkeln f&uuml;r laminierte Gipskartonplatten mit Direktbefestigungsger&auml;t.Montage von Kan&auml;len und Winkeln f&uuml;r laminierte Gipskartonplatten mit Direktbefestigungsger&auml;t."
+      },
+      {
+        "description": "Befestigung von technischen Maschen und Geweben an Betonwand.Befestigung von technischen Maschen und Geweben an Betonwand.Befestigung von technischen Maschen und Geweben an Betonwand.Befestigung von technischen Maschen und Geweben an Betonwand.",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Elektrische Rohre an Decke und Wand befestigt.Elektrische Rohre an Decke und Wand befestigt.Elektrische Rohre an Decke und Wand befestigt.Elektrische Rohre an Decke und Wand befestigt."
+      },
+      {
+        "description": "Befestigung von Elektroinstallationen an Decke und Wand.Befestigung von Elektroinstallationen an Decke und Wand.Befestigung von Elektroinstallationen an Decke und Wand.Befestigung von Elektroinstallationen an Decke und Wand.",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Montage von elektrischen Kabelkan&auml;len mit Direktbefestigungsger&auml;t.Montage von elektrischen Kabelkan&auml;len mit Direktbefestigungsger&auml;t.Montage von elektrischen Kabelkan&auml;len mit Direktbefestigungsger&auml;t.Montage von elektrischen Kabelkan&auml;len mit Direktbefestigungsger&auml;t."
+      },
+      {
+        "description": "Befestigung von Wellrohren mit Kabelbinder an Boden, Wand und Decke.Befestigung von Wellrohren mit Kabelbinder an Boden, Wand und Decke.Befestigung von Wellrohren mit Kabelbinder an Boden, Wand und Decke.Befestigung von Wellrohren mit Kabelbinder an Boden, Wand und Decke.",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Elektrische Rohre an Decke befestigt.Elektrische Rohre an Decke befestigt.Elektrische Rohre an Decke befestigt.Elektrische Rohre an Decke befestigt."
+      },
+      {
+        "description": "Befestigung von starren Rohren auf ebenen Fl&auml;chen (Wand, Decke usw.).Befestigung von starren Rohren auf ebenen Fl&auml;chen (Wand, Decke usw.).Befestigung von starren Rohren auf ebenen Fl&auml;chen (Wand, Decke usw.).Befestigung von starren Rohren auf ebenen Fl&auml;chen (Wand, Decke usw.).",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Elektrische Rohre an Wand befestigt.Elektrische Rohre an Wand befestigt.Elektrische Rohre an Wand befestigt.Elektrische Rohre an Wand befestigt."
+      }
+    ]
+  },
+  "materials-section": {
+    "title": "MaterialMaterialMaterialMaterial",
+    "materials-cards": [
+      {
+        "description": "BetonBetonBetonBeton",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "BetonBetonBetonBeton"
+      },
+      {
+        "description": "EdelholzEdelholzEdelholzEdelholz",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "EdelholzEdelholzEdelholzEdelholz"
+      },
+      {
+        "description": "PorenbetonPorenbetonPorenbetonPorenbeton",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "PorenbetonPorenbetonPorenbetonPorenbeton"
+      },
+      {
+        "description": "Blech - schweres ProfilBlech - schweres ProfilBlech - schweres ProfilBlech - schweres Profil",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Blech - schweres ProfilBlech - schweres ProfilBlech - schweres ProfilBlech - schweres Profil"
+      }
+    ]
+  },
+  "installation-section": {
+    "title": "Installationsanleitung mit BefestigungswerkzeugenInstallationsanleitung mit BefestigungswerkzeugenInstallationsanleitung mit BefestigungswerkzeugenInstallationsanleitung mit Befestigungswerkzeugen",
+    "installation-cards": [
+      {
+        "description": "1.1. Patrone mit N&auml;geln in das Gasnagelger&auml;t ansetzenPatrone mit N&auml;geln in das Gasnagelger&auml;t ansetzen1.1. Patrone mit N&auml;geln in das Gasnagelger&auml;t ansetzenPatrone mit N&auml;geln in das Gasnagelger&auml;t ansetzen",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Ansetzen der Patrone mit N&auml;geln in das Gasnagelger&auml;t.Ansetzen der Patrone mit N&auml;geln in das Gasnagelger&auml;t.Ansetzen der Patrone mit N&auml;geln in das Gasnagelger&auml;t.Ansetzen der Patrone mit N&auml;geln in das Gasnagelger&auml;t."
+      },
+      {
+        "description": "2.2. Gaspatrone einlegenGaspatrone einlegen2.2. Gaspatrone einlegenGaspatrone einlegen",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Einlegen der Gaspatrone in das Gasnagelger&auml;t.Einlegen der Gaspatrone in das Gasnagelger&auml;t.Einlegen der Gaspatrone in das Gasnagelger&auml;t.Einlegen der Gaspatrone in das Gasnagelger&auml;t."
+      },
+      {
+        "description": "3.3. Batterie einh&auml;ngenBatterie einh&auml;ngen3.3. Batterie einh&auml;ngenBatterie einh&auml;ngen",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Einsetzen der Batterie in das Gasnagelger&auml;t.Einsetzen der Batterie in das Gasnagelger&auml;t.Einsetzen der Batterie in das Gasnagelger&auml;t.Einsetzen der Batterie in das Gasnagelger&auml;t."
+      },
+      {
+        "description": "4.4. N&auml;gel in die Patrone einlegenN&auml;gel in die Patrone einlegen4.4. N&auml;gel in die Patrone einlegenN&auml;gel in die Patrone einlegen",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Einlegen der N&auml;gel in die Patrone des Gasnagelger&auml;ts.Einlegen der N&auml;gel in die Patrone des Gasnagelger&auml;ts.Einlegen der N&auml;gel in die Patrone des Gasnagelger&auml;ts.Einlegen der N&auml;gel in die Patrone des Gasnagelger&auml;ts."
+      },
+      {
+        "description": "5.5. Gasnagelger&auml;t &uuml;ber Kopf anlegenGasnagelger&auml;t &uuml;ber Kopf anlegen5.5. Gasnagelger&auml;t &uuml;ber Kopf anlegenGasnagelger&auml;t &uuml;ber Kopf anlegen",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Anlegen des Gasnagelger&auml;t &uuml;ber Kopf.Anlegen des Gasnagelger&auml;t &uuml;ber Kopf.Anlegen des Gasnagelger&auml;t &uuml;ber Kopf.Anlegen des Gasnagelger&auml;t &uuml;ber Kopf."
+      },
+      {
+        "description": "6.6. Gasnagelger&auml;t auf einer ebenen Fl&auml;che nach unten dr&uuml;cken.Gasnagelger&auml;t auf einer ebenen Fl&auml;che nach unten dr&uuml;cken.6.6. Gasnagelger&auml;t auf einer ebenen Fl&auml;che nach unten dr&uuml;cken.Gasnagelger&auml;t auf einer ebenen Fl&auml;che nach unten dr&uuml;cken.",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Gasnagelger&auml;t auf einer ebenen Fl&auml;che nach unten dr&uuml;cken.Gasnagelger&auml;t auf einer ebenen Fl&auml;che nach unten dr&uuml;cken.Gasnagelger&auml;t auf einer ebenen Fl&auml;che nach unten dr&uuml;cken.Gasnagelger&auml;t auf einer ebenen Fl&auml;che nach unten dr&uuml;cken."
+      },
+      {
+        "description": "7.7. Abzug bet&auml;tigenAbzug bet&auml;tigen7.7. Abzug bet&auml;tigenAbzug bet&auml;tigen",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Abzug des Gasnagelger&auml;ts bet&auml;tigenAbzug des Gasnagelger&auml;ts bet&auml;tigenAbzug des Gasnagelger&auml;ts bet&auml;tigenAbzug des Gasnagelger&auml;ts bet&auml;tigen"
+      },
+      {
+        "description": "8.8. EndergebnisEndergebnis8.8. EndergebnisEndergebnis",
+        "image": "assets/images/...",
+        "image2x": "assets/images/...",
+        "image-alt": "Nagel mit Gasnagelger&auml;t auf Fl&auml;che eingetriebenNagel mit Gasnagelger&auml;t auf Fl&auml;che eingetriebenNagel mit Gasnagelger&auml;t auf Fl&auml;che eingetriebenNagel mit Gasnagelger&auml;t auf Fl&auml;che eingetrieben"
+      }
+    ]
+  },
+  "documentation-section": {
+    "title": "DokumentationDokumentationDokumentationDokumentation",
+    "documentations": [
+      {
+        "title": "Technische Datenbl&auml;tterTechnische Datenbl&auml;tterTechnische Datenbl&auml;tterTechnische Datenbl&auml;tter",
+        "items": [
+          {
+            "text": "Gasnagelger&auml;t, Zubeh&ouml;r und N&auml;gel FGGasnagelger&auml;t, Zubeh&ouml;r und N&auml;gel FGGasnagelger&auml;t, Zubeh&ouml;r und N&auml;gel FGGasnagelger&auml;t, Zubeh&ouml;r und N&auml;gel FG",
+            "url": "https://www.indexfix.com/docs/FT_GAS_es_rev4.pdf"
+          },
+          {
+            "text": "Universalverankerung OMEUniversalverankerung OMEUniversalverankerung OMEUniversalverankerung OME",
+            "url": "https://www.indexfix.com/docs/FT_ACPY_es_rev4.pdf"
+          },
+          {
+            "text": "Schlauchklemmen ABSchlauchklemmen ABSchlauchklemmen ABSchlauchklemmen AB",
+            "url": "https://www.indexfix.com/docs/FT_ABRAPL_es_rev8.pdf"
+          },
+          {
+            "text": "Schlauchklemmen AB-PIDSchlauchklemmen AB-PIDSchlauchklemmen AB-PIDSchlauchklemmen AB-PID",
+            "url": "https://www.indexfix.com/docs/FT_POL_es_rev6.pdf"
+          },
+          {
+            "text": "Montagelochband CI-PEMontagelochband CI-PEMontagelochband CI-PEMontagelochband CI-PE",
+            "url": "https://www.indexfix.com/docs/FT_CIPE_es_rev5.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Sicherheitsdatenbl&auml;tterSicherheitsdatenbl&auml;tterSicherheitsdatenbl&auml;tterSicherheitsdatenbl&auml;tter",
+        "items": [
+          {
+            "text": "FG-CLFG-CLFG-CLFG-CL",
+            "url": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf"
+          },
+          {
+            "text": "FG-CLHFG-CLHFG-CLHFG-CLH",
+            "url": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf"
+          },
+          {
+            "text": "FG-CARFG-CARFG-CARFG-CAR",
+            "url": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Leistungserkl&auml;rungLeistungserkl&auml;rungLeistungserkl&auml;rungLeistungserkl&auml;rung",
+        "items": [
+          {
+            "text": "OMEOMEOMEOME",
+            "url": "https://www.indexfix.com/docs/DoP_OME_es_rev1.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  "contact-section": {
+    "title": "Fordern Sie weitere Informationen anFordern Sie weitere Informationen anFordern Sie weitere Informationen anFordern Sie weitere Informationen an",
+    "error": "FehlerFehlerFehlerFehler",
+    "close": "Schlie&szlig;enSchlie&szlig;enSchlie&szlig;enSchlie&szlig;en",
+    "name": "NameNameNameName",
+    "surnames": "NachnameNachnameNachnameNachname",
+    "company": "UnternehmenUnternehmenUnternehmenUnternehmen",
+    "email": "E-MailE-MailE-MailE-Mail",
+    "phone": "TelefonTelefonTelefonTelefon",
+    "phone-legend": "Zul&auml;ssiges Format 613445599 oder +34613445599Zul&auml;ssiges Format 613445599 oder +34613445599Zul&auml;ssiges Format 613445599 oder +34613445599Zul&auml;ssiges Format 613445599 oder +34613445599",
+    "message": "Nachricht/AnfrageNachricht/AnfrageNachricht/AnfrageNachricht/Anfrage",
+    "personal-data": "Ich akzeptiere die Verwendung meiner pers&ouml;nlichen Daten durch das technische Personal von T&eacute;cnicas Expansivas SL (CIF B-26220491), um mich ausschlie&szlig;lich f&uuml;r meine Ausbildung und zwecks technischer Beratung zu ihren Produkten zu kontaktieren.Ich akzeptiere die Verwendung meiner pers&ouml;nlichen Daten durch das technische Personal von T&eacute;cnicas Expansivas SL (CIF B-26220491), um mich ausschlie&szlig;lich f&uuml;r meine Ausbildung und zwecks technischer Beratung zu ihren Produkten zu kontaktieren.Ich akzeptiere die Verwendung meiner pers&ouml;nlichen Daten durch das technische Personal von T&eacute;cnicas Expansivas SL (CIF B-26220491), um mich ausschlie&szlig;lich f&uuml;r meine Ausbildung und zwecks technischer Beratung zu ihren Produkten zu kontaktieren.Ich akzeptiere die Verwendung meiner pers&ouml;nlichen Daten durch das technische Personal von T&eacute;cnicas Expansivas SL (CIF B-26220491), um mich ausschlie&szlig;lich f&uuml;r meine Ausbildung und zwecks technischer BeratungIch akzeptiere die Verwendung meiner pers&ouml;nlichen Daten durch das technische Personal von T&eacute;cnicas Expansivas SL (CIF B-26220491), um mich ausschlie&szlig;lich f&uuml;r meine Ausbildung und zwecks technischer Beratung zu ihren Produkten zu kontaktieren.Ich akzeptiere die Verwendung meiner pers&ouml;nlichen Daten durch das technische Personal von T&eacute;cnicas Expansivas SL (CIF B-26220491), um mich ausschlie&szlig;lich f&uuml;r meine Ausbildung und zwecks technischer Beratung zu ihren Produkten zu kontaktieren.Ich akzeptiere die Verwendung meiner pers&ouml;nlichen Daten durch das technische Personal von T&eacute;cnicas Expansivas SL (CIF B-26220491), um mich ausschlie&szlig;lich f&uuml;r meine Ausbildung und zwecks technischer Beratung zu ihren Produkten zu kontaktieren.Ich akzeptiere die Verwendung meiner pers&ouml;nlichen Daten durch das technische Personal von T&eacute;cnicas Expansivas SL (CIF B-26220491), um mich ausschlie&szlig;lich f&uuml;r meine Ausbildung und zwecks technischer Beratung zu ihren Produkten zu kontaktieren.",
+    "legal-data": "Ich habe die <a href='https://www.indexfix.com/aviso-es' target='_blank' class='index-link'>Rechtshinweise</a>Rechtshinweise und die <a href='https://www.indexfix.com/privacidad' target='_blank' class='index-link'>Datenschutzbestimmungen</a>Datenschutzbestimmungen gelesen und akzeptiere sie.Ich habe die <a href='https://www.indexfix.com/aviso-es' target='_blank' class='index-link'>Rechtshinweise</a>Rechtshinweise und die <a href='https://www.indexfix.com/privacidad' target='_blank' class='index-link'>Datenschutzbestimmungen</a>Datenschutzbestimmungen gelesen und akzeptiere sie.Ich habe die <a href='https://www.indexfix.com/aviso-es' target='_blank' class='index-link'>Rechtshinweise</a>Rechtshinweise und die <a href='https://www.indexfix.com/privacidad' target='_blank' class='index-link'>Datenschutzbestimmungen</a>Datenschutzbestimmungen gelesen und akzeptiere sie.Ich habe die <a href='https://www.indexfix.com/aviso-es' target='_blank' class='index-link'>Rechtshinweise</a>Rechtshinweise und die <a href='https:Ich habe die Rechtshinweise<a href='https://www.indexfix.com/aviso-es' target='_blank' class='index-link'>Rechtshinweise</a> und die Datenschutzbestimmungen<a href='https://www.indexfix.com/privacidad' target='_blank' class='index-link'>Datenschutzbestimmungen</a> gelesen und akzeptiere sie.Ich habe die Rechtshinweise<a href='https://www.indexfix.com/aviso-es' target='_blank' class='index-link'>Rechtshinweise</a> und die Datenschutzbestimmungen<a href='https://www.indexfix.com/privacidad' target='_blank' class='index-link'>Datenschutzbestimmungen</a> gelesen und akzeptiere sie.Ich habe die Rechtshinweise<a href='https://www.indexfix.com/aviso-es' target='_blank' class='index-link'>Rechtshinweise</a> und die Datenschutzbestimmungen<a href='https://www.indexfix.com/privacidad' target='_blank' class='index-link'>Datenschutzbestimmungen</a> gelesen und akzeptiere sie.Ich habe die Rechtshinweise<a href='https://www.indexfix.com/aviso-es' target='_blank' class='index-link'>Rechtshinweise</a> und die Datenschutzbestimmungen<a href='https://www.indexfix.com/privacidad' target='_blank' class='index-link'>Datenschutzbestimmungen</a> gelesen und akzeptiere sie.",
+    "description-1": "T&Eacute;CNICAS EXPANSIVAS S.L. informiert, dass freiwillig bereitgestellte personenbezogene Daten, deren Zweck, geplante Abtretungen und andere Umst&auml;nde, zum Zeitpunkt der Erfassung der pers&ouml;nlichen Daten angegeben werden, wobei der Zweck je nach Fall einer der folgenden sein kann: Bearbeitung Ihrer Anfrage, Beschwerde oder Frage, Aufrechterhaltung der Gesch&auml;ftsbeziehung, umfassende und kommerzielle Kundenverwaltung, Buchhaltung und Rechnungsstellung oder Versand von Mitteilungen, auch auf elektronischem Wege, von News und Aktivit&auml;ten im Zusammenhang mit T&Eacute;CNICAS EXPANSIVAS S.L.T&Eacute;CNICAS EXPANSIVAS S.L. informiert, dass freiwillig bereitgestellte personenbezogene Daten, deren Zweck, geplante Abtretungen und andere Umst&auml;nde, zum Zeitpunkt der Erfassung der pers&ouml;nlichen Daten angegeben werden, wobei der Zweck je nach Fall einer der folgenden sein kann: Bearbeitung Ihrer Anfrage, Beschwerde oder Frage, Aufrechterhaltung der Gesch&auml;ftsbeziehung, umfassende und kommeT&Eacute;CNICAS EXPANSIVAS S.L. informiert, dass freiwillig bereitgestellte personenbezogene Daten, deren Zweck, geplante Abtretungen und andere Umst&auml;nde, zum Zeitpunkt der Erfassung der pers&ouml;nlichen Daten angegeben werden, wobei der Zweck je nach Fall einer der folgenden sein kann: Bearbeitung Ihrer Anfrage, Beschwerde oder Frage, Aufrechterhaltung der Gesch&auml;ftsbeziehung, umfassende und kommerzielle Kundenverwaltung, Buchhaltung und Rechnungsstellung oder Versand von Mitteilungen, auch auf elektronischem Wege, von News und Aktivit&auml;ten im Zusammenhang mit T&Eacute;CNICAS EXPANSIVAS S.L.T&Eacute;CNICAS EXPANSIVAS S.L. informiert, dass freiwillig bereitgestellte personenbezogene Daten, deren Zweck, geplante Abtretungen und andere Umst&auml;nde, zum Zeitpunkt der Erfassung der pers&ouml;nlichen Daten angegeben werden, wobei der Zweck je nach Fall einer der folgenden sein kann: Bearbeitung Ihrer Anfrage, Beschwerde oder Frage, Aufrechterhaltung der Gesch&auml;ftsbeziehung, umfassende und kommerzielle Kundenverwaltung, Buchhaltung und Rechnungsstellung oder Versand von Mitteilungen, auch auf elektronischem Wege, von News und Aktivit&auml;ten im Zusammenhang mit T&Eacute;CNICAS EXPANSIVAS S.L.T&Eacute;CNICAS EXPANSIVAS S.L. informiert, dass freiwillig bereitgestellte personenbezogene Daten, deren Zweck, geplante Abtretungen und andere Umst&auml;nde, zum Zeitpunkt der Erfassung der pers&ouml;nlichen Daten angegeben werden, wobei der Zweck je nach Fall einer der folgenden sein kann: Bearbeitung Ihrer Anfrage, Beschwerde oder Frage, Aufrechterhaltung der Gesch&auml;ftsbeziehung, umfassende und kommerzielle Kundenverwaltung, Buchhaltung und Rechnungsstellung oder Versand von Mitteilungen, auch auf elektronischem Wege, von News und Aktivit&auml;ten im Zusammenhang mit T&Eacute;CNICAS EXPANSIVAS S.L.T&Eacute;CNICAS EXPANSIVAS S.L. informiert, dass freiwillig bereitgestellte personenbezogene Daten, deren Zweck, geplante Abtretungen und andere Umst&auml;nde, zum Zeitpunkt der Erfassung der pers&ouml;nlichenrzielle Kundenverwaltung, Buchhaltung und Rechnungsstellung oder Versand von Mitteilungen, auch auf elektronischem Wege, von News und Aktivit&auml;ten im Zusammenhang mit T&Eacute;CNICAS EXPANSIVAS S.L.T&Eacute;CNICAS EXPANSIVAS S.L. informiert, dass freiwillig bereitgestellte personenbezogene Daten, deren Zweck, geplante Abtretungen und andere Umst&auml;nde, zum Zeitpunkt der Erfassung der pers&ouml;nlichen Daten angegeben werden, wobei der Zweck je nach Fall einer der folgenden sein kann: Bearbeitung Ihrer Anfrage, Beschwerde oder Frage, Aufrechterhaltung der Gesch&auml;ftsbeziehung, umfassende und kommerzielle Kundenverwaltung, Buchhaltung und Rechnungsstellung oder Versand von Mitteilungen, auch auf elektronischem Wege, von News und Aktivit&auml;ten im Zusammenhang mit T&Eacute;CNICAS EXPANSIVAS S.L.T&Eacute;CNICAS EXPANSIVAS S.L. informiert, dass freiwillig bereitgestellte personenbezogene Daten, deren Zweck, geplante Abtretungen und andere Umst&auml;nde, zum Zeitpunkt der Erfassung der pers&ouml;nlichen Daten angegeben werden, wobei der Zweck je nach Fall einer der folgenden sein kann: Bearbeitung Ihrer Anfrage, Beschwerde oder Frage, Aufrechterhaltung der Gesch&auml;ftsbeziehung, umfassende und kommerzielle Kundenverwaltung, Buchhaltung und Rechnungsstellung oder Versand von Mitteilungen, auch auf elektronischem Wege, von News und Aktivit&auml;ten im Zusammenhang mit T&Eacute;CNICAS EXPANSIVAS S.L.",
+    "description-2": "Die Daten in unseren Dateien sind streng vertraulich und werden mit der gr&ouml;&szlig;tm&ouml;glichen Vertraulichkeit behandelt und erf&uuml;llen alle Anforderungen der Allgemeinen Datenschutzverordnung (DSGVO) vom 27. April 2016.Die Daten in unseren Dateien sind streng vertraulich und werden mit der gr&ouml;&szlig;tm&ouml;glichen Vertraulichkeit behandelt und erf&uuml;llen alle Anforderungen der Allgemeinen Datenschutzverordnung (DSGVO) vom 27. April 2016. Die Daten bleiben so lange in unseren Dateien gespeichert, wie es f&uuml;r den Zweck, f&uuml;r den sie erhoben wurden, erforderlich ist.Die Daten bleiben so lange in unseren Dateien gespeichert, wie es f&uuml;r den Zweck, f&uuml;r den sie erhoben wurden, erforderlich ist. Der Zeitraum, in dem die personenbezogenen Daten aufbewahrt werden, richtet sich nach der geltenden Gesetzgebung und gilt immer f&uuml;r den Zeitraum, der f&uuml;r die Erbringung der Dienstleistung, f&uuml;r die sie &uuml;bermittelt wurden, erforderlich ist.Der Zeitraum, in dem die persoDie Daten in unseren Dateien sind streng vertraulich und werden mit der gr&ouml;&szlig;tm&ouml;glichen Vertraulichkeit behandelt und erf&uuml;llen alle Anforderungen der Allgemeinen Datenschutzverordnung (DSGVO) vom 27. April 2016.Die Daten in unseren Dateien sind streng vertraulich und werden mit der gr&ouml;&szlig;tm&ouml;glichen Vertraulichkeit behandelt und erf&uuml;llen alle Anforderungen der Allgemeinen Datenschutzverordnung (DSGVO) vom 27. April 2016. Die Daten bleiben so lange in unseren Dateien gespeichert, wie es f&uuml;r den Zweck, f&uuml;r den sie erhoben wurden, erforderlich ist.Die Daten bleiben so lange in unseren Dateien gespeichert, wie es f&uuml;r den Zweck, f&uuml;r den sie erhoben wurden, erforderlich ist. Der Zeitraum, in dem die personenbezogenen Daten aufbewahrt werden, richtet sich nach der geltenden Gesetzgebung und gilt immer f&uuml;r den Zeitraum, der f&uuml;r die Erbringung der Dienstleistung, f&uuml;r die sie &uuml;bermittelt wurden, erforderlich ist.Der Zeitraum, in dem die personenbezogenen Daten aufbewahrt werden, richtet sich nach der geltenden Gesetzgebung und gilt immer f&uuml;r den Zeitraum, der f&uuml;r die Erbringung der Dienstleistung, f&uuml;r die sie &uuml;bermittelt wurden, erforderlich ist.Die Daten in unseren Dateien sind streng vertraulich und werden mit der gr&ouml;&szlig;tm&ouml;glichen Vertraulichkeit behandelt und erf&uuml;llen alle Anforderungen der Allgemeinen Datenschutzverordnung (DSGVO) vom 27. April 2016.Die Daten in unseren Dateien sind streng vertraulich und werden mit der gr&ouml;&szlig;tm&ouml;glichen Vertraulichkeit behandelt und erf&uuml;llen alle Anforderungen der Allgemeinen Datenschutzverordnung (DSGVO) vom 27. April 2016. Die Daten bleiben so lange in unseren Dateien gespeichert, wie es f&uuml;r den Zweck, f&uuml;r den sie erhoben wurden, erforderlich ist.Die Daten bleiben so lange in unseren Dateien gespeichert, wie es f&uuml;r den Zweck, f&uuml;r den sie erhoben wurden, erforderlich ist. Der Zeitraum, in dem die personenbezogenen Daten aufbewahrt nenbezogenen Daten aufbewahrt werden, richtet sich nach der geltenden Gesetzgebung und gilt immer f&uuml;r den Zeitraum, der f&uuml;r die Erbringung der Dienstleistung, f&uuml;r die sie &uuml;bermittelt wurden, erforderlich ist.Die Daten in unseren Dateien sind streng vertraulich und werden mit der gr&ouml;&szlig;tm&ouml;glichen Vertraulichkeit behandelt und erf&uuml;llen alle Anforderungen der Allgemeinen Datenschutzverordnung (DSGVO) vom 27. April 2016.Die Daten in unseren Dateien sind streng vertraulich und werden mit der gr&ouml;&szlig;tm&ouml;glichen Vertraulichkeit behandelt und erf&uuml;llen alle Anforderungen der Allgemeinen Datenschutzverordnung (DSGVO) vom 27. April 2016. Die Daten bleiben so lange in unseren Dateien gespeichert, wie es f&uuml;r den Zweck, f&uuml;r den sie erhoben wurden, erforderlich ist.Die Daten bleiben so lange in unseren Dateien gespeichert, wie es f&uuml;r den Zweck, f&uuml;r den sie erhoben wurden, erforderlich ist. Der Zeitraum, in dem die personenbezogenen Daten aufbewahrt werden, richtet sich nach der geltenden Gesetzgebung und gilt immer f&uuml;r den Zeitraum, der f&uuml;r die Erbringung der Dienstleistung, f&uuml;r die sie &uuml;bermittelt wurden, erforderlich ist.Der Zeitraum, in dem die personenbezogenen Daten aufbewahrt werden, richtet sich nach der geltenden Gesetzgebung und gilt immer f&uuml;r den Zeitraum, der f&uuml;r die Erbringung der Dienstleistung, f&uuml;r die sie &uuml;bermittelt wurden, erforderlich ist.",
+    "description-3": "Gem&auml;&szlig; der Datenschutzgesetzgebung wird Ihnen dringend davon abgeraten, personenbezogene Daten, wie z. B. Gesundheitsdaten, zu &uuml;bermitteln, da diese nicht verschl&uuml;sselt sind.Gem&auml;&szlig; der Datenschutzgesetzgebung wird Ihnen dringend davon abgeraten, personenbezogene Daten, wie z. B. Gesundheitsdaten, zu &uuml;bermitteln, da diese nicht verschl&uuml;sselt sind. Sollten Sie solche Daten &uuml;bermitteln, so geschieht dies auf Ihre alleinige Verantwortung.Sollten Sie solche Daten &uuml;bermitteln, so geschieht dies auf Ihre alleinige Verantwortung.Gem&auml;&szlig; der Datenschutzgesetzgebung wird Ihnen dringend davon abgeraten, personenbezogene Daten, wie z. B. Gesundheitsdaten, zu &uuml;bermitteln, da diese nicht verschl&uuml;sselt sind.Gem&auml;&szlig; der Datenschutzgesetzgebung wird Ihnen dringend davon abgeraten, personenbezogene Daten, wie z. B. Gesundheitsdaten, zu &uuml;bermitteln, da diese nicht verschl&uuml;sselt sind. Sollten Sie solche Daten &uuml;bermitteln, so geschieht diGem&auml;&szlig; der Datenschutzgesetzgebung wird Ihnen dringend davon abgeraten, personenbezogene Daten, wie z. B. Gesundheitsdaten, zu &uuml;bermitteln, da diese nicht verschl&uuml;sselt sind.Gem&auml;&szlig; der Datenschutzgesetzgebung wird Ihnen dringend davon abgeraten, personenbezogene Daten, wie z. B. Gesundheitsdaten, zu &uuml;bermitteln, da diese nicht verschl&uuml;sselt sind. Sollten Sie solche Daten &uuml;bermitteln, so geschieht dies auf Ihre alleinige Verantwortung.Sollten Sie solche Daten &uuml;bermitteln, so geschieht dies auf Ihre alleinige Verantwortung.Gem&auml;&szlig; der Datenschutzgesetzgebung wird Ihnen dringend davon abgeraten, personenbezogene Daten, wie z. B. Gesundheitsdaten, zu &uuml;bermitteln, da diese nicht verschl&uuml;sselt sind.Gem&auml;&szlig; der Datenschutzgesetzgebung wird Ihnen dringend davon abgeraten, personenbezogene Daten, wie z. B. Gesundheitsdaten, zu &uuml;bermitteln, da diese nicht verschl&uuml;sselt sind. Sollten Sie solche Daten &uuml;bermitteln, so geschieht dies auf Ihre alleinige Verantwortung.Sollten Sie solche Daten &uuml;bermitteln, so geschieht dies auf Ihre alleinige Verantwortung.",
+    "description-4": "Der Nutzer kann jederzeit sein Recht auf Zugang, Berichtigung, L&ouml;schung und Widerspruch gem&auml;&szlig; den Bestimmungen der Allgemeinen Datenschutzverordnung (DSGVO) vom 27. April 2016 aus&uuml;ben, indem er ein Schreiben an den f&uuml;r die Verarbeitung verantwortlichen Mitarbeiter sendet:Der Nutzer kann jederzeit sein Recht auf Zugang, Berichtigung, L&ouml;schung und Widerspruch gem&auml;&szlig; den Bestimmungen der Allgemeinen Datenschutzverordnung (DSGVO) vom 27. April 2016 aus&uuml;ben, indem er ein Schreiben an den f&uuml;r die Verarbeitung verantwortlichen Mitarbeiter sendet: Valent&iacute;n G&oacute;mez, Gesch&auml;ftsf&uuml;hrer, zusammen mit einer Fotokopie seines Personalausweises an T&Eacute;CNICAS EXPANSIVAS SL | P.I.Valent&iacute;n G&oacute;mez, Gesch&auml;ftsf&uuml;hrer, zusammen mit einer Fotokopie seines Personalausweises an T&Eacute;CNICAS EXPANSIVAS SL | P.I. La Portalada II | c/ Segador 13, 26006 | Logro&ntilde;o (La Rioja) oder &uuml;ber die E-Mail Adresse&nbsp;info@indexfix.com.LaDer Nutzer kann jederzeit sein Recht auf Zugang, Berichtigung, L&ouml;schung und Widerspruch gem&auml;&szlig; den Bestimmungen der Allgemeinen Datenschutzverordnung (DSGVO) vom 27. April 2016 aus&uuml;ben, indem er ein Schreiben an den f&uuml;r die Verarbeitung verantwortlichen Mitarbeiter sendet:Der Nutzer kann jederzeit sein Recht auf Zugang, Berichtigung, L&ouml;schung und Widerspruch gem&auml;&szlig; den Bestimmungen der Allgemeinen Datenschutzverordnung (DSGVO) vom 27. April 2016 aus&uuml;ben, indem er ein Schreiben an den f&uuml;r die Verarbeitung verantwortlichen Mitarbeiter sendet: Valent&iacute;n G&oacute;mez, Gesch&auml;ftsf&uuml;hrer, zusammen mit einer Fotokopie seines Personalausweises an T&Eacute;CNICAS EXPANSIVAS SL | P.I.Valent&iacute;n G&oacute;mez, Gesch&auml;ftsf&uuml;hrer, zusammen mit einer Fotokopie seines Personalausweises an T&Eacute;CNICAS EXPANSIVAS SL | P.I. La Portalada II | c/ Segador 13, 26006 | Logro&ntilde;o (La Rioja) oder &uuml;ber die E-Mail Adresse&nbsp;info@indexfix.com.La Portalada II | c/ Segador 13, 26006 | Logro&ntilde;o (La Rioja) oder &uuml;ber die E-Mail Adresse&nbsp;info@indexfix.com.Der Nutzer kann jederzeit sein Recht auf Zugang, Berichtigung, L&ouml;schung und Widerspruch gem&auml;&szlig; den Bestimmungen der Allgemeinen Datenschutzverordnung (DSGVO) vom 27. April 2016 aus&uuml;ben, indem er ein Schreiben an den f&uuml;r die Verarbeitung verantwortlichen Mitarbeiter sendet:Der Nutzer kann jederzeit sein Recht auf Zugang, Berichtigung, L&ouml;schung und Widerspruch gem&auml;&szlig; den Bestimmungen der Allgemeinen Datenschutzverordnung (DSGVO) vom 27. April 2016 aus&uuml;ben, indem er ein Schreiben an den f&uuml;r die Verarbeitung verantwortlichen Mitarbeiter sendet: Valent&iacute;n G&oacute;mez, Gesch&auml;ftsf&uuml;hrer, zusammen mit einer Fotokopie seines Personalausweises an T&Eacute;CNICAS EXPANSIVAS SL | P.I.Valent&iacute;n G&oacute;mez, Gesch&auml;ftsf&uuml;hrer, zusammen mit einer Fotokopie seines Personalausweises an T&Eacute;CNICAS EXPANSIVAS SL | P.I. La P Portalada II | c/ Segador 13, 26006 | Logro&ntilde;o (La Rioja) oder &uuml;ber die E-Mail Adresse&nbsp;info@indexfix.com.Der Nutzer kann jederzeit sein Recht auf Zugang, Berichtigung, L&ouml;schung und Widerspruch gem&auml;&szlig; den Bestimmungen der Allgemeinen Datenschutzverordnung (DSGVO) vom 27. April 2016 aus&uuml;ben, indem er ein Schreiben an den f&uuml;r die Verarbeitung verantwortlichen Mitarbeiter sendet:Der Nutzer kann jederzeit sein Recht auf Zugang, Berichtigung, L&ouml;schung und Widerspruch gem&auml;&szlig; den Bestimmungen der Allgemeinen Datenschutzverordnung (DSGVO) vom 27. April 2016 aus&uuml;ben, indem er ein Schreiben an den f&uuml;r die Verarbeitung verantwortlichen Mitarbeiter sendet: Valent&iacute;n G&oacute;mez, Gesch&auml;ftsf&uuml;hrer, zusammen mit einer Fotokopie seines Personalausweises an T&Eacute;CNICAS EXPANSIVAS SL | P.I.Valent&iacute;n G&oacute;mez, Gesch&auml;ftsf&uuml;hrer, zusammen mit einer Fotokopie seines Personalausweises an T&Eacute;CNICAS EXPANSIVAS SL | P.I. La Portalada II | c/ Segador 13, 26006 | Logro&ntilde;o (La Rioja) oder &uuml;ber die E-Mail Adresse&nbsp;info@indexfix.com.La Portalada II | c/ Segador 13, 26006 | Logro&ntilde;o (La Rioja) oder &uuml;ber die E-Mail Adresse&nbsp;info@indexfix.com.",
+    "button-send": "SendenSendenSendenSenden"
+  },
+  "menu-aside": {
+    "button-features": "EigenschaftenEigenschaftenEigenschaftenEigenschaften",
+    "button-range": "Zum SortimentZum SortimentZum SortimentZum Sortiment",
+    "button-resources": "Ressourcen herunterladenRessourcen herunterladenRessourcen herunterladenRessourcen herunterladen",
+    "button-info": "InformationenInformationenInformationenInformationen"
+  }
+}

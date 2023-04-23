@@ -1,4 +1,4 @@
-<a id="gama"></a>
+<a id="range-section"></a>
 {{#with range-section}}
   <section class="section">
     <div class="container">
@@ -13,7 +13,7 @@
         >
           {{#each range-cards}}
             <article
-              class="index-card index-card--mini index-card--interactive js-index-cards--interactive"
+              class="index-card index-card--interactive2 js-index-cards--interactive  {{#ifFirst @index}}index-card--interactive--active{{/ifFirst}}"
               data-show-id="{{this.related-products-id}}"
             >
               <div class="index-card__container">
@@ -42,17 +42,20 @@
               </div>
             </article>
           {{/each}}
-          <article class="index-card index-card--mini index-card--interactive">
+          <article class="index-card">
             <div class="index-card__container">
               <div class="index-card__body">
-                <i class="bi bi-info-circle section__information__icon"></i>
-                <p>{{card-info-1}}</p>
-                <p>{{card-info-2}}</p>
-                <a
-                  class="btn btn-primary"
+                <i class="bi bi-info-circle index-card__icon"></i>
+                <div class="index-card__text-area">
+                  <p>{{card-info-1}}</p>
+                  <p>{{card-info-2}}</p>
+                </div>
+                <div class="index-card__footer">
+                  <a
+                  class="btn btn-primary index-button--accent"
                   src="{{button-link}}"
-                >{{button-text}}</a>
-
+                  >{{button-text}}</a>
+                </div>
               </div>
             </div>
           </article>
@@ -64,7 +67,7 @@
       <div class="row">
         {{#each related-products}}
           <article
-            class="index-card index-card--full-width index-card--hidden"
+            class="index-card index-card--full-width  {{#ifFirst @index}}{{else}}index-card--hidden{{/ifFirst}}"
             data-id="{{this.id}}"
           >
             <div class="index-card__container">
@@ -73,7 +76,8 @@
                   <div class="row">
                      {{#each ../commons-related-products}}
                         <a
-                          class="col-12 col-md-6 col-lg-3 section__instalation-item section__instalation-item--center"
+                          class="col-12 col-md-6 col-lg-3 section__instalation-item section__instalation-item--center section__instalation-item--link"
+                          href={{this.href}}
                         >
                           <img
                             class="img-fluid image-thumb"
@@ -92,7 +96,8 @@
                      {{/each}}
                      {{#each products}}
                         <a
-                          class="col-12 col-md-6 col-lg-3 section__instalation-item section__instalation-item--center"
+                          class="col-12 col-md-6 col-lg-3 section__instalation-item section__instalation-item--center section__instalation-item--link"
+                           href={{this.href}}
                         >
                           <img
                             class="img-fluid image-thumb"

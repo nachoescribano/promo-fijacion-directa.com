@@ -21,7 +21,7 @@
                     <div class="interactive__button" tabindex="-1">
                       <i class="interactive__icon-plus"></i>
                     </div>
-                    <div class="interactive__popover">
+                    <div class="interactive__popover {{#ifLeftLessThan50 this.coors}}interactive__popover--right{{/ifLeftLessThan50}}">
                       {{#ifExists this.title}}
                         <p class="interactive__popover__title">
                           {{this.title}}

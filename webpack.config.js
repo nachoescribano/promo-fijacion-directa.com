@@ -4,6 +4,7 @@ const path = require("path");
 const HandlebarsPlugin = require("handlebars-webpack-plugin");
 const CopyWebpackPlugin = require("copy-webpack-plugin");
 const WatchFileAndRunCallbackWebpackPlugin = require("watch-file-change-and-run-callback-webpack-plugin");
+const { copyFileSync } = require("fs");
 const languanges = ["de", "en", "es", "fr", "pt"];
 
 // let langEs = require("./src/languages/es.json");
@@ -63,6 +64,18 @@ function generateHandlerbarsPlugin(language) {
       },
       sumValues: function (value1, value2) {
         return value1 + value2;
+      },
+      ifFirst: function (v1, options) {
+        if (v1 === 0) {
+          return options.fn(this);
+        }
+        return options.inverse(this);
+      },
+      ifLeftLessThan50: function (v1, options) {
+        if (parseFloat(v1.split(";")[0].split(":")[1]) < 50) {
+          return options.fn(this);
+        }
+        return options.inverse(this);
       },
       ifCond: function (v1, v2, options) {
         if (v1 === v2) {
@@ -136,6 +149,10 @@ module.exports = {
         {
           from: path.join(process.cwd(), "assets"),
           to: path.join(process.cwd(), "dist", "assets"),
+        },
+        {
+          from: path.join(process.cwd(), "php"),
+          to: path.join(process.cwd(), "dist"),
         },
       ],
     }),

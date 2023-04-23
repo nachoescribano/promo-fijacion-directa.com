@@ -1,3 +1,5 @@
+import { languages } from "./form-translations.js";
+
 (function () {
   const formContact = document.querySelector(".js-form-contact");
 
@@ -76,4 +78,4 @@
       false
     );
   }
-})();
+})(languages);

@@ -1,0 +1,30 @@
+<a id="features-section"></a>
+{{#with features-section}}
+  <section class="section section--color">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <h2 class="section__title section__title--small-margin">
+            {{title}}
+          </h2>
+          <div class="swiper-container js-swiper-container-0">
+            <div class="row">
+              {{#each features}}
+                <div
+                  class="col-12 col-md-6 col-lg-20-percent section__instalation-item section__instalation-item--center"
+                >
+                  <img
+                    class="img-fluid image-thumb"
+                    src="{{this.image}}"
+                    alt="{{this.feature}}"
+                  />
+                  <p>{{this.feature}}</p>
+                </div>
+              {{/each}}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+{{/with}}

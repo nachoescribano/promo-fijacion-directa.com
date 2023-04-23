@@ -1,0 +1,491 @@
+{
+  "lang": "it",
+  "description": "I fissaggi diretti consentono un lavoro preciso e affidabile grazie alla loro rapidità di applicazione. Grazie alle pistole a gas e a polvere si ottiene un fissaggio istantaneo. Scoprite tutto quello che c'è da sapere sui fissaggi diretti su INDEX.",
+  "keywords": "Selezione della pistola di fissaggio.Accessori per il fissaggio diretto a seconda del materiale. Guida all'installazione con pistola di fissaggio.",
+  "title": "",
+  "home": "Inizio",
+  "features": "Caratteristiche",
+  "range": "Gamma",
+  "applications": "Applicazioni",
+  "materials": "Materiali",
+  "installation": "Installazione",
+  "documentation": "Documentazione",
+  "contact": "Contatto",
+  "main-section": {
+    "title": "Fissaggio diretto",
+    "image-alt": "Operatore che utilizza una pistola per il fissaggio diretto per ancorare un profilo al pavimento",
+    "checklist": [
+      "Tempo di lavoro ridotto",
+      "Maggiore produttività",
+      "Maggiore sicurezza"
+    ],
+    "know-range": "Scopri la gamma",
+    "url-know-range": "https://www.indexfix.com/canales-venta/anclajes/fijacion-directa"
+  },
+  "intro-section": {
+    "title": "Che cos'è il fissaggio diretto?",
+    "description-1": "Il fissaggio diretto consente di lavorare in modo preciso e affidabile e di risparmiare tempo di installazione grazie alla rapidità di applicazione. Il fissaggio diretto a gas consente un ancoraggio istantaneo, autonomo e rapido. Il sistema è ideale per i lavori che richiedono forza e potenza quando si lavora su materiali come il calcestruzzo, il calcestruzzo cellulare, il legno duro e l'acciaio.",
+    "subtitle": "Vantaggi",
+    "list": [
+      "Costi contenuti. Il tempo necessario per l'installazione è minore.",
+      "Ergonomia. La pistola offre una buona presa e ha un peso contenuto.",
+      "Rapidità.",
+      "Procedura di ricarica automatica."
+    ],
+    "image-alt": "pistola per il fissaggio diretto, valigetta, accessori e prodotti correlati",
+    "interactive__popover": [
+      {
+        "description": "Batteria al litio ad alta capacità",
+        "coors": "left: 73%; top: 27%"
+      },
+      {
+        "description": "Leggera, comoda e facile da usare. 3,8 kg di peso",
+        "coors": "left: 54%; top: 29%"
+      },
+      {
+        "description": "Profondità di penetrazione regolabile",
+        "coors": "left: 33%; top: 35%"
+      },
+      {
+        "description": "Canna per il settore elettrico",
+        "coors": "left: 37%; top: 70%"
+      }
+    ]
+  },
+  "features-section": {
+    "title": "Caratteristiche e vantaggi del fissaggio diretto",
+    "features": [
+      {
+        "image": "assets/images/char-1.svg",
+        "feature": "Fissaggio su calcestruzzo e acciaio",
+        "image-alt": "chiodo fissato alla parete"
+      },
+      {
+        "image": "assets/images/char-2.svg",
+        "feature": "Controllo della profondità di inchiodatura",
+        "image-alt": "pannello di controllo"
+      },
+      {
+        "image": "assets/images/char-3.svg",
+        "feature": "Lavori più rapidi e puliti",
+        "image-alt": "doppia velocità"
+      },
+      {
+        "image": "assets/images/char-4.svg",
+        "feature": "Senza fili",
+        "image-alt": "batteria"
+      },
+      {
+        "image": "assets/images/char-5.svg",
+        "feature": "Sistemi di sicurezza integrati",
+        "image-alt": "scudo di sicurezza"
+      },
+      {
+        "image": "assets/images/char-6.svg",
+        "feature": "Pistole fornite con valigetta completa",
+        "image-alt": "valigetta"
+      },
+      {
+        "image": "assets/images/char-7.svg",
+        "feature": "Facilità d’uso",
+        "image-alt": "bacchetta magica"
+      },
+      {
+        "image": "assets/images/char-8.svg",
+        "feature": "Lunga gittata di tiro",
+        "image-alt": "clessidra"
+      },
+      {
+        "image": "assets/images/char-9.svg",
+        "feature": "Non è necessaria alcuna preforatura, il che accelera il processo.",
+        "image-alt": "nessuna foratura"
+      },
+      {
+        "image": "assets/images/char-10.svg",
+        "feature": "Rinculo ridotto",
+        "image-alt": "pistola per il fissaggio diretto"
+      }
+    ]
+  },
+  "range-section": {
+    "title": "Pistola per il fissaggio a gas",
+    "range-cards": [
+      {
+        "title": "FG-GUN﻿",
+        "description": "Pistola semiautomatica per il fissaggio a gas senza fili per cartongesso.",
+        "image": "assets/images/FG-GUNEL-pistola-PIM-2.webp",
+        "image2x": "assets/images/FG-GUNEL-pistola-PIM-2_2x.webp",
+        "image-alt": "CFG-GUN",
+        "related-products-id": "FG-GUN﻿"
+      },
+      {
+        "title": "FG-CLH﻿",
+        "description": "Chiodi zincati per materiali duri",
+        "image": "assets/images/FG-GUNEL-1-1_1.webp",
+        "image2x": "assets/images/FG-GUNEL-1-1_1_2x.webp",
+        "image-alt": "FG-GUNEL﻿",
+        "related-products-id": "FG-GUNEL﻿"
+      }
+    ],
+    "card-info-1": "Il fissaggio diretto mediante pistole a gas è semplice: dopo aver posizionato la carica di gas, appoggiare la punta dell'utensile sulla superficie e premere il grilletto.",
+    "card-info-2": "Dopo aver superato il sistema di sicurezza e premuto il grilletto, si attiva una scintilla che accende il gas nella camera di combustione. La batteria, inclusa nella valigetta, attiva una ventola che estrae i gas di combustione.",
+    "button-text": "Vedi il prodotto",
+    "button-link": "https://www.indexfix.com/canales-venta/anclajes/fijacion-directa/fg-gun",
+    "related-products-title": "Prodotti correlati",
+    "commons-related-products": [
+      {
+        "title": "FG-CL﻿",
+        "description": "Chiodi standard zincati per calcestruzzo",
+        "image": "assets/images/FG-CL.jpg",
+        "image-alt": "FG-CL﻿",
+        "href": "https://www.indexfix.com/producto/10704-FG-CL-clavos-estandar"
+      },
+      {
+        "title": "FG-CLH﻿",
+        "description": "Chiodi zincati per materiali duri",
+        "image": "assets/images/FG-CLH.jpg",
+        "image-alt": "FG-CLH﻿",
+        "href": "https://www.indexfix.com/producto/10703-FG-CLH-clavos-para-materiales-duros"
+      }
+    ],
+    "related-products": [
+      {
+        "id": "FG-GUN﻿",
+        "swiper-id": "2",
+        "products": [
+          {
+            "title": "FG-ARAM EP﻿",
+            "description": "Corona metallica. Formato di vendita: barattolo di plastica",
+            "image": "assets/images/FG-ARAM-bote-1000-u.jpg",
+            "image-alt": "FG-ARAM EP﻿",
+            "href": "https://www.indexfix.com/producto/11637-FG-ARAM-EP-arandela-metalica-bote-de-plastico"
+          },
+          {
+            "title": "FG-ARAM﻿",
+            "description": "Corona metallica per pistola a gas",
+            "image": "assets/images/FG-ARAM.jpg",
+            "image-alt": "FG-ARAM﻿",
+            "href": "https://www.indexfix.com/producto/11636-FG-ARAM-arandela-metalica"
+          },
+          {
+            "title": "OME﻿",
+            "description": "Ancoraggio universale",
+            "image": "assets/images/OME.jpg",
+            "image-alt": "OME﻿",
+            "href": "https://www.indexfix.com/producto/11173-OME-anclaje-universal"
+          },
+          {
+            "title": "AB-GU﻿",
+            "description": "Morsetto a guida singola",
+            "image": "assets/images/AB-GU.jpg",
+            "image-alt": "AB-GU﻿",
+            "href": "https://www.indexfix.com/producto/11305-AB-GU-abrazadera-guia-gris-simple-con-pre-rosca-m6"
+          },
+          {
+            "title": "AB-MUG﻿",
+            "description": "Morsetto multidiametro",
+            "image": "assets/images/AB-MUG.jpg",
+            "image-alt": "AB-MUG﻿",
+            "href": "https://www.indexfix.com/producto/10898-AB-MUG-abrazadera-multiusos"
+          },
+          {
+            "title": "AB-PR﻿",
+            "description": "Morsetto a pressione",
+            "image": "assets/images/AB-PR.jpg",
+            "image-alt": "AB-PR﻿",
+            "href": "https://www.indexfix.com/producto/11308-AB-PR-gris"
+          },
+          {
+            "title": "AB-PID﻿",
+            "description": "Graffetta un piede",
+            "image": "assets/images/AB-PID.jpg",
+            "image-alt": "AB-PID﻿",
+            "href": "https://www.indexfix.com/producto/11496-AB-PID-grapa-1-pie-para-disparo"
+          },
+          {
+            "title": "FG-PLET﻿",
+            "description": "Piastra filettata",
+            "image": "assets/images/FG-PLET.jpg",
+            "image-alt": "FG-PLET﻿",
+            "href": "https://www.indexfix.com/producto/10691-FG-PLET-pletina-roscada-para-varilla"
+          },
+          {
+            "title": "FG-ABRA﻿",
+            "description": "Morsetto a pressione",
+            "image": "assets/images/FG-ABRA.jpg",
+            "image-alt": "FG-ABRA﻿",
+            "href": "https://www.indexfix.com/producto/10697-FG-ABRA-abrazadera-a-presion"
+          },
+          {
+            "title": "FG-BASE﻿",
+            "description": "Base per morsetto. Colore grigio disponibile",
+            "image": "assets/images/FG-BASE.jpg",
+            "image-alt": "FG-BASE﻿",
+            "href": "https://www.indexfix.com/producto/10698-FG-BASE-base-para-brida"
+          },
+          {
+            "title": "CI-PE﻿",
+            "description": "Nastro forato",
+            "image": "assets/images/CI-PE.jpg",
+            "image-alt": "CI-PE﻿",
+            "href": "https://www.indexfix.com/producto/11361-CI-PE-cinta-perforada-curva-atlantis-c2-m"
+          }
+        ]
+      },
+      {
+        "id": "FG-GUNEL﻿",
+        "swiper-id": "3",
+        "products": [
+          {
+            "title": "FG-GAS﻿",
+            "description": "Cartuccia di gas",
+            "image": "assets/images/FG-GAS.jpg",
+            "image-alt": "FG-GAS﻿",
+            "href": "https://www.indexfix.com/producto/10699-FG-GAS-cartucho-de-gas"
+          },
+          {
+            "title": "FG-CAEL﻿",
+            "description": "Canna per pistola speciale per elettricisti﻿",
+            "image": "assets/images/FG-CAEL.jpg",
+            "image-alt": "FG-CAEL﻿",
+            "href": "https://www.indexfix.com/producto/11642-FG-CAEL-canon-de-pistola-especial-para-electricista"
+          },
+          {
+            "title": "FG-CLCAR﻿",
+            "description": "Caricatore per 40 chiodi",
+            "image": "assets/images/FG-CLCAR.jpg",
+            "image-alt": "FG-CLCAR﻿",
+            "href": "https://www.indexfix.com/producto/11626-FG-CLCAR-cargador-para-40-clavos"
+          },
+          {
+            "title": "FG-IMAN﻿",
+            "description": "Magnete",
+            "image": "assets/images/FG-IMAN.jpg",
+            "image-alt": "FG-IMAN﻿",
+            "href": "https://www.indexfix.com/producto/10690-FG-IMAN-iman"
+          },
+          {
+            "title": "FG-BAT﻿",
+            "description": "Batteria per pistola",
+            "image": "assets/images/FG-BAT.jpg",
+            "image-alt": "FG-BAT﻿",
+            "href": "https://www.indexfix.com/producto/10701-FG-BAT-bateria-para-pistola-fp60gun"
+          },
+          {
+            "title": "FG-CAR﻿",
+            "description": "Caricatore per pistola",
+            "image": "assets/images/FG-CAR.jpg",
+            "image-alt": "FG-CAR﻿",
+            "href": "https://www.indexfix.com/producto/10700-FG-CAR-cargador-para-pistola-fp60gun"
+          }
+        ]
+      }
+    ]
+  },
+  "applications-section": {
+    "title": "Applicazioni",
+    "aplications-cards": [
+      {
+        "description": "Installazione di canali e angoli per lastre di cartongesso.",
+        "image": "assets/images/instalacion-canales-placas-yeso.webp",
+        "image2x": "assets/images/instalacion-canales-placas-yeso_2x.webp",
+        "image-alt": "Installazione di canali e angoli per lastre di cartongesso con pistola per il fissaggio diretto."
+      },
+      {
+        "description": "Fissaggio di reti e tessuti tecnici su pareti in calcestruzzo.",
+        "image": "assets/images/fijacion-mallas-y-tejidos-tecnicos.webp",
+        "image2x": "assets/images/fijacion-mallas-y-tejidos-tecnicos_2x.webp",
+        "image-alt": "tubi elettrici fissati a soffitto e a parete."
+      },
+      {
+        "description": "Fissaggio di impianti elettrici a soffitto o a parete.",
+        "image": "assets/images/fijacion-instalaciones-electricas.webp",
+        "image2x": "assets/images/fijacion-instalaciones-electricas@2x.webp",
+        "image-alt": "Installazione di tubi per il cablaggio elettrico con pistola per il fissaggio diretto."
+      },
+      {
+        "description": "Fissaggio di tubi corrugati con flangia a pavimento, parete e soffitto.",
+        "image": "assets/images/fijacion-tubos-corrugados.webp",
+        "image2x": "assets/images/fijacion-tubos-corrugados_2x.webp",
+        "image-alt": "tubi elettrici fissati a soffitto."
+      },
+      {
+        "description": "Fissaggio di tubi rigidi su superfici piane (parete, soffitto...).",
+        "image": "assets/images/fijacion-tubos-rigidos.webp",
+        "image2x": "assets/images/fijacion-tubos-rigidos_2x.webp",
+        "image-alt": "tubi elettrici fissati a parete."
+      }
+    ]
+  },
+  "materials-section": {
+    "title": "Materiali",
+    "materials-cards": [
+      {
+        "description": "calcestruzzo",
+        "image": "assets/images/MU_HORMIGON.webp",
+        "image2x": "assets/images/MU_HORMIGON@2x.webp",
+        "image-alt": "calcestruzzo"
+      },
+      {
+        "description": "Legno duro",
+        "image": "assets/images/MU_MADERA_NOBLE.webp",
+        "image2x": "assets/images/MU_MADERA_NOBLE@2x.webp",
+        "image-alt": "Legno duro"
+      },
+      {
+        "description": "Calcestruzzo cellulare",
+        "image": "assets/images/MU_HORM_CELULAR.webp",
+        "image2x": "assets/images/MU_HORM_CELULAR@2x.webp",
+        "image-alt": "Calcestruzzo cellulare"
+      },
+      {
+        "description": "Lamiera - profilo rinforzato",
+        "image": "assets/images/MU_CHAPA_PERF_PESADO.webp",
+        "image2x": "assets/images/MU_CHAPA_PERF_PESADO@2x.webp",
+        "image-alt": "Lamiera - profilo rinforzato"
+      }
+    ]
+  },
+  "installation-section": {
+    "title": "Guida all'installazione con strumenti di fissaggio",
+    "installation-cards": [
+      {
+        "description": "1. Inserire la cartuccia di chiodi nella pistola",
+        "image": "assets/images/FG-GUN_0.webp",
+        "image2x": "assets/images/FG-GUN_0@2x.webp",
+        "image-alt": "Inserimento della cartuccia di chiodi nella pistola per il fissaggio diretto."
+      },
+      {
+        "description": "2. Inserire la cartuccia di gas",
+        "image": "assets/images/FG-GUN_1.webp",
+        "image2x": "assets/images/FG-GUN_1@2x.webp",
+        "image-alt": "Inserimento della cartuccia di gas nella pistola per il fissaggio diretto."
+      },
+      {
+        "description": "3. Collegare la batteria",
+        "image": "assets/images/FG-GUN_2.webp",
+        "image2x": "assets/images/FG-GUN_2@2x.webp",
+        "image-alt": "Posizionare la batteria nella pistola per il fissaggio diretto."
+      },
+      {
+        "description": "4. Inserire i chiodi nella cartuccia",
+        "image": "assets/images/FG-GUN_3.webp",
+        "image2x": "assets/images/FG-GUN_3@2x.webp",
+        "image-alt": "Inserimento dei chiodi nella cartuccia della pistola per il fissaggio diretto."
+      },
+      {
+        "description": "5. Posizionare la pistola a testa in giù",
+        "image": "assets/images/FG-GUN_4.webp",
+        "image2x": "assets/images/FG-GUN_4@2x.webp",
+        "image-alt": "Posizionare la pistola per il fissaggio diretto a testa in giù."
+      },
+      {
+        "description": "6. Premere la pistola su una superficie piana.",
+        "image": "assets/images/FG-GUN_5.webp",
+        "image2x": "assets/images/FG-GUN_5@2x.webp",
+        "image-alt": "Premere la pistola per il fissaggio diretto su una superficie piana."
+      },
+      {
+        "description": "7. Premere il grilletto",
+        "image": "assets/images/FG-GUN_6.webp",
+        "image2x": "assets/images/FG-GUN_6@2x.webp",
+        "image-alt": "Premere il grilletto della pistola per il fissaggio diretto"
+      },
+      {
+        "description": "8. Risultato finale",
+        "image": "assets/images/FG-GUN_7.webp",
+        "image2x": "assets/images/FG-GUN_7@2x.webp",
+        "image-alt": "Chiodo inserito nella superficie con una pistola per il fissaggio diretto"
+      }
+    ]
+  },
+  "documentation-section": {
+    "title": "Documentazione",
+    "icon": "book",
+    "list-icon": "file-earmark-pdf",
+    "documentations": [
+      {
+        "title": "Schede tecniche",
+        "icon": "book",
+        "list-icon": "file-earmark-pdf",
+        "items": [
+          {
+            "text": "Pistola, accessori e chiodi FG",
+            "url": "https://www.indexfix.com/docs/FT_GAS_es_rev4.pdf"
+          },
+          {
+            "text": "Ancoraggio universale OME",
+            "url": "https://www.indexfix.com/docs/FT_ACPY_es_rev4.pdf"
+          },
+          {
+            "text": "Morsetti AB",
+            "url": "https://www.indexfix.com/docs/FT_ABRAPL_es_rev8.pdf"
+          },
+          {
+            "text": "Morsetti AB-PID",
+            "url": "https://www.indexfix.com/docs/FT_POL_es_rev6.pdf"
+          },
+          {
+            "text": "Nastro perforato CI-PE",
+            "url": "https://www.indexfix.com/docs/FT_CIPE_es_rev5.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Schede di sicurezza",
+        "icon": "cone-striped",
+        "list-icon": "file-earmark-pdf",
+        "items": [
+          {
+            "text": "FG-CL﻿",
+            "url": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf"
+          },
+          {
+            "text": "FG-CLH﻿",
+            "url": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf"
+          },
+          {
+            "text": "FG-CAR﻿",
+            "url": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf"
+          }
+        ]
+      },
+      {
+        "title": "Dichiarazione delle prestazioni",
+        "icon": "table",
+        "list-icon": "file-earmark-pdf",
+        "items": [
+          {
+            "text": "OME﻿",
+            "url": "https://www.indexfix.com/docs/DoP_OME_es_rev1.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  "contact-section": {
+    "title": "Richiedi informazioni",
+    "error": "Errore",
+    "close": "Chiudi",
+    "name": "Nome",
+    "surnames": "Cognome/i",
+    "company": "Azienda",
+    "email": "E-mail",
+    "phone": "Telefono",
+    "phone-legend": "Formato accettato 613445599 o +34613445599",
+    "message": "Messaggio/Domanda",
+    "personal-data": "Accetto il trattamento dei miei dati personali da parte del personale tecnico di Técnicas Expansivas SL (CIF B-26220491) affinché possano contattarmi esclusivamente per formazione e consulenza tecnica sui prodotti.",
+    "legal-data": "Ho letto e accetto l'<a href='https://www.indexfix.com/aviso-es' target='_blank' class='index-link'>Avviso legale</a> e l'<a href='https://www.indexfix.com/privacidad' target='_blank' class='index-link'>Informativa sulla privacy</a>.",
+    "description-1": "TÉCNICAS EXPANSIVAS S.L. informa che per i dati personali forniti volontariamente, le finalità, i trasferimenti previsti e altre circostanze si comunicano al momento della raccolta dei dati personali, anche se, a seconda del caso specifico, la loro finalità può essere una delle seguenti: risposta a richieste, reclami o dubbi sollevati dall’utente, mantenimento della relazione instaurata, gestione integrale e commerciale dei clienti, contabilità e fatturazione o invio di comunicazioni, anche per via elettronica, di notizie e attività relative a TÉCNICAS EXPANSIVAS S.L.",
+    "description-2": "I dati contenuti nei nostri archivi sono assolutamente confidenziali e saranno trattati con la massima riservatezza e nel rispetto di tutti i requisiti del regolamento generale sulla protezione dei dati (GDPR) del 27 aprile 2016. I dati rimarranno registrati nei nostri archivi per il tempo necessario allo scopo per il quale sono stati raccolti. Il periodo durante il quale saranno conservati i dati personali sarà quello stabilito dalla legislazione vigente e sempre per la durata per cui si presta il servizio per il quale sono stati comunicati.",
+    "description-3": "Si raccomanda di non inviare dati personali di alto livello secondo la legislazione sulla protezione dei dati, come quelli relativi alla salute, poiché non vengono criptati né codificati. Quindi, la responsabilità è di chi li invia.",
+    "description-4": "Gli utenti possono in qualsiasi momento esercitare i loro diritti di accesso, rettifica, opposizione, cancellazione, limitazione del trattamento o richiesta di portabilità in conformità con le disposizioni del regolamento generale sulla protezione dei dati (GDPR) del 27 aprile 2016 inviando una lettera al responsabile del trattamento: Valentín Gómez, Direttore, insieme a una fotocopia della carta d'identità, a TÉCNICAS EXPANSIVAS SL | P.I. La Portalada II | c/ Segador 13, 26006 | Logroño (La Rioja) o inviando un'e-mail al seguente indirizzo: info@indexfix.com.",
+    "button-send": "Invia"
+  },
+  "menu-aside": {
+    "button-features": "Caratteristiche",
+    "button-range": "Vedi gamma",
+    "button-resources": "Download risorse",
+    "button-info": "Informazioni"
+  }
+}

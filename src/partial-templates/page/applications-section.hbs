@@ -1,0 +1,41 @@
+<a id="applications-section"></a>
+{{#with applications-section}}
+  <section class="section section--color">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 mb-5">
+          <h2 class="section__title">
+            {{title}}
+          </h2>
+          <div class="swiper-container js-swiper-container-4">
+            <div class="row justify-content-center-768">
+              {{#each aplications-cards}}
+                <article
+                  class="col-12 col-md-6 col-lg-4 section__instalation-item"
+                >
+                  <div class="card2">
+                    <picture>
+                      <source
+                        class="card2__image"
+                        srcset="{{this.image2x}}"
+                        media="(min-width: 768px)"
+                      />
+                      <img
+                        alt="{{this.description}}"
+                        class="card2__image"
+                        src="{{this.image}}"
+                      />
+                    </picture>
+                    <p class="card2__copy">
+                      {{this.description}}
+                    </p>
+                  </div>
+                </article>
+              {{/each}}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+{{/with}}

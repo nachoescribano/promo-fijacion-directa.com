@@ -1,0 +1,20 @@
+<svg id="char-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36.655" height="61" viewBox="0 0 36.655 61">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_839" data-name="Rectángulo 839" width="36.655" height="61" fill="none" stroke="#4da9a8" stroke-width="2"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1422" data-name="Grupo 1422" clip-path="url(#clip-path)">
+    <path id="Trazado_2732" data-name="Trazado 2732" d="M50.6,2V60.654H36.554V35.843h4.657l5.865-4.516L41.211,26.81H36.554V2Z" transform="translate(-15.114 -0.827)" fill="none" stroke="#4da9a8" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <rect id="Rectángulo_837" data-name="Rectángulo 837" width="7.021" height="24.811" transform="translate(14.419 1.173)" fill="none" stroke="#4da9a8" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <rect id="Rectángulo_838" data-name="Rectángulo 838" width="7.021" height="24.811" transform="translate(14.419 35.016)" fill="none" stroke="#4da9a8" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Trazado_2733" data-name="Trazado 2733" d="M47.533,12.254a2.276,2.276,0,1,1-2.276-2.276A2.276,2.276,0,0,1,47.533,12.254Z" transform="translate(-17.771 -4.126)" fill="none" stroke="#4da9a8" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <ellipse id="Elipse_13" data-name="Elipse 13" cx="1.138" cy="1.138" rx="1.138" ry="1.138" transform="translate(30.769 12.842)" fill="none" stroke="#4da9a8" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <ellipse id="Elipse_14" data-name="Elipse 14" cx="1.138" cy="1.138" rx="1.138" ry="1.138" transform="translate(24.072 45.968)" fill="none" stroke="#4da9a8" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Trazado_2734" data-name="Trazado 2734" d="M47.7,32.349a2.861,2.861,0,1,1-2.861-2.861A2.861,2.861,0,0,1,47.7,32.349Z" transform="translate(-17.358 -12.192)" fill="none" stroke="#4da9a8" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <ellipse id="Elipse_15" data-name="Elipse 15" cx="2.211" cy="2.211" rx="2.211" ry="2.211" transform="translate(30.281 39.271)" fill="none" stroke="#4da9a8" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Trazado_2735" data-name="Trazado 2735" d="M52.106,91.3a1.626,1.626,0,1,1-1.625-1.625A1.625,1.625,0,0,1,52.106,91.3Z" transform="translate(-20.2 -37.078)" fill="none" stroke="#4da9a8" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <line id="Línea_74" data-name="Línea 74" x1="23.165" transform="translate(1.173 30.5)" fill="none" stroke="#4da9a8" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Línea_75" data-name="Línea 75" y2="6.301" transform="translate(1.173 27.35)" fill="none" stroke="#4da9a8" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

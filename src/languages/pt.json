@@ -20,7 +20,10 @@
       "Maior segurança"
     ],
     "know-range": "Conhecer a gama",
-    "url-know-range": "https://www.indexfix.com/canales-venta/anclajes/fijacion-directa"
+    "url-know-range": "https://www.indexfix.com/canais-venda/ancoragens/fixacao-direta"
+  },
+  "header": {
+    "url-home": "https://www.indexfix.com/pt"
   },
   "intro-section": {
     "title": "O que é a fixação direta?",
@@ -119,8 +122,8 @@
         "related-products-id": "FG-GUN"
       },
       {
-        "title": "FG-CLH",
-        "description": "Pregos com revestimento zincado para materiais duros",
+        "title": "FG-GUNEL",
+        "description": "Pistola semiautomática de fixação a gás sem cabos para electricistas",
         "image": "assets/images/FG-GUNEL-1-1_1.webp",
         "image2x": "assets/images/FG-GUNEL-1-1_1_2x.webp",
         "image-alt": "FG-GUNEL",
@@ -130,7 +133,7 @@
     "card-info-1": "A fixação direta através de pistolas de gás é simples: depois de colocar a carga de gás, situa-se a ponta da ferramenta na superfície para depois acionar o gatilho.",
     "card-info-2": "Após vencer o sistema de segurança e apertar o gatilho, ativa-se uma faísca que acende o gás na câmara de combustão. A bateria, incluída na maleta, ativa um ventilador que extrai os gases de combustão.",
     "button-text": "Ver produto",
-    "button-link": "https://www.indexfix.com/canales-venta/anclajes/fijacion-directa/fg-gun",
+    "button-link": "https://www.indexfix.com/canais-venda/ancoragens/fixacao-direta/fg-gun",
     "related-products-title": "Productos relacionados",
     "commons-related-products": [
       {
@@ -138,14 +141,14 @@
         "description": "Pregos padronizados com revestimento zincado para betão",
         "image": "assets/images/FG-CL.jpg",
         "image-alt": "FG-CL",
-        "href": "https://www.indexfix.com/producto/10704-FG-CL-clavos-estandar"
+        "href": "https://www.indexfix.com/produto/10704-FG-CL-pregos-para-shootex60-e-pulsa400"
       },
       {
         "title": "FG-CLH",
         "description": "Pregos com revestimento zincado para materiais duros",
         "image": "assets/images/FG-CLH.jpg",
         "image-alt": "FG-CLH",
-        "href": "https://www.indexfix.com/producto/10703-FG-CLH-clavos-para-materiales-duros"
+        "href": "https://www.indexfix.com/produto/10703-FG-CLH-pregos-para-materiais-duros"
       }
     ],
     "related-products": [
@@ -158,77 +161,77 @@
             "description": "Coroa metálica. Formato de venda: frasco de plástico",
             "image": "assets/images/FG-ARAM-bote-1000-u.jpg",
             "image-alt": "FG-ARAM EP",
-            "href": "https://www.indexfix.com/producto/11637-FG-ARAM-EP-arandela-metalica-bote-de-plastico"
+            "href": "https://www.indexfix.com/produto/11637-FG-ARAM-EP-anilha-metalica-balde-de-plastico"
           },
           {
             "title": "FG-ARAM",
             "description": "Coroa metálica para pistola de gás",
             "image": "assets/images/FG-ARAM.jpg",
             "image-alt": "FG-ARAM",
-            "href": "https://www.indexfix.com/producto/11636-FG-ARAM-arandela-metalica"
+            "href": "https://www.indexfix.com/produto/11636-FG-ARAM-anilha-metalica"
           },
           {
             "title": "OME",
             "description": "Ancoragem universal",
             "image": "assets/images/OME.jpg",
             "image-alt": "OME",
-            "href": "https://www.indexfix.com/producto/11173-OME-anclaje-universal"
+            "href": "https://www.indexfix.com/produto/11173-OME-ancoragem-universal"
           },
           {
             "title": "AB-GU",
             "description": "Abraçadeira guia simples",
             "image": "assets/images/AB-GU.jpg",
             "image-alt": "AB-GU",
-            "href": "https://www.indexfix.com/producto/11305-AB-GU-abrazadera-guia-gris-simple-con-pre-rosca-m6"
+            "href": "https://www.indexfix.com/produto/11305-AB-GU-abracadeira-clip-simples-cinzenta-com-pre-rosca-m6"
           },
           {
             "title": "AB-MUG",
             "description": "Abraçadeira multidiâmetro",
             "image": "assets/images/AB-MUG.jpg",
             "image-alt": "AB-MUG",
-            "href": "https://www.indexfix.com/producto/10898-AB-MUG-abrazadera-multiusos"
+            "href": "https://www.indexfix.com/produto/10898-AB-MUG-abracadeira-multiusos"
           },
           {
             "title": "AB-PR",
             "description": "Abraçadeira para pressão",
             "image": "assets/images/AB-PR.jpg",
             "image-alt": "AB-PR",
-            "href": "https://www.indexfix.com/producto/11308-AB-PR-gris"
+            "href": "https://www.indexfix.com/produto/11308-AB-PR-cinzento"
           },
           {
             "title": "AB-PID",
             "description": "Grampo com pé",
             "image": "assets/images/AB-PID.jpg",
             "image-alt": "AB-PID",
-            "href": "https://www.indexfix.com/producto/11496-AB-PID-grapa-1-pie-para-disparo"
+            "href": "https://www.indexfix.com/produto/11496-AB-PID-grampo-1-pe-para-disparo"
           },
           {
             "title": "FG-PLET",
             "description": "Placa roscada",
             "image": "assets/images/FG-PLET.jpg",
             "image-alt": "FG-PLET",
-            "href": "https://www.indexfix.com/producto/10691-FG-PLET-pletina-roscada-para-varilla"
+            "href": "https://www.indexfix.com/produto/10691-FG-PLET-clip-roscado-para-varao"
           },
           {
             "title": "FG-ABRA",
             "description": "Abraçadeira para pressão",
             "image": "assets/images/FG-ABRA.jpg",
             "image-alt": "FG-ABRA",
-            "href": "https://www.indexfix.com/producto/10697-FG-ABRA-abrazadera-a-presion"
+            "href": "https://www.indexfix.com/produto/10697-FG-ABRA-abracadeira-de-pressao"
           },
           {
             "title": "FG-BASE",
             "description": "Base para flange. Cor cinzenta disponível",
             "image": "assets/images/FG-BASE.jpg",
             "image-alt": "FG-BASE",
-            "href": "https://www.indexfix.com/producto/10698-FG-BASE-base-para-brida"
+            "href": "https://www.indexfix.com/produto/10698-FG-BASE-base-para-abracadeira"
           },
           {
             "title": "CI-PE",
             "description": "Fita perfurada",
             "image": "assets/images/CI-PE.jpg",
             "image-alt": "CI-PE",
-            "href": "https://www.indexfix.com/producto/11361-CI-PE-cinta-perforada-curva-atlantis-c2-m"
+            "href": "https://www.indexfix.com/produto/11361-CI-PE-fita-perfurada-redonda-atlantis-c2-m"
           }
         ]
       },
@@ -241,42 +244,42 @@
             "description": "Cartucho de gás",
             "image": "assets/images/FG-GAS.jpg",
             "image-alt": "FG-GAS",
-            "href": "https://www.indexfix.com/producto/10699-FG-GAS-cartucho-de-gas"
+            "href": "https://www.indexfix.com/produto/10699-FG-GAS-cartucho-de-gas"
           },
           {
             "title": "FG-CAEL",
             "description": "Cano de pistola especial para eletricista",
             "image": "assets/images/FG-CAEL.jpg",
             "image-alt": "FG-CAEL",
-            "href": "https://www.indexfix.com/producto/11642-FG-CAEL-canon-de-pistola-especial-para-electricista"
+            "href": "https://www.indexfix.com/produto/11642-FG-CAEL-barril-de-canhao-especial-para-electricistas"
           },
           {
             "title": "FG-CLCAR",
             "description": "Carregador para 40 pregos",
             "image": "assets/images/FG-CLCAR.jpg",
             "image-alt": "FG-CLCAR",
-            "href": "https://www.indexfix.com/producto/11626-FG-CLCAR-cargador-para-40-clavos"
+            "href": "https://www.indexfix.com/produto/11626-FG-CLCAR-revista-de-pistolas-para-40-pregos"
           },
           {
             "title": "FG-IMAN",
             "description": "Íman",
             "image": "assets/images/FG-IMAN.jpg",
             "image-alt": "FG-IMAN",
-            "href": "https://www.indexfix.com/producto/10690-FG-IMAN-iman"
+            "href": "https://www.indexfix.com/produto/10690-FG-IMAN-iman"
           },
           {
             "title": "FG-BAT",
             "description": "Bateria para pistola",
             "image": "assets/images/FG-BAT.jpg",
             "image-alt": "FG-BAT",
-            "href": "https://www.indexfix.com/producto/10701-FG-BAT-bateria-para-pistola-fp60gun"
+            "href": "https://www.indexfix.com/produto/10701-FG-BAT-bateria-para-pistola-fp60gun"
           },
           {
             "title": "FG-CAR",
             "description": "Carregador para pistola",
             "image": "assets/images/FG-CAR.jpg",
             "image-alt": "FG-CAR",
-            "href": "https://www.indexfix.com/producto/10700-FG-CAR-cargador-para-pistola-fp60gun"
+            "href": "https://www.indexfix.com/produto/10700-FG-CAR-carregador-para-pistola-fp60gun"
           }
         ]
       }
@@ -475,7 +478,7 @@
     "phone-legend": "Formato aceite 613445599 ou +34613445599",
     "message": "Mensagem/Consulta",
     "personal-data": "Aceito a utilização dos meus dados pessoais pelo pessoal técnico da Técnicas Expansivas SL (N.I.P.C. B-26220491) para que me contacte exclusivamente para a minha formação e assessoria técnica sobre os seus produtos.",
-    "legal-data": "Li e aceito o <a href='https://www.indexfix.com/aviso-es' target='_blank' class='index-link'>Aviso Legal</a> e a <a href='https://www.indexfix.com/privacidad' target='_blank' class='index-link'>Política de Privacidade</a>.",
+    "legal-data": "Li e aceito o <a href='https://www.indexfix.com/aviso-pt' target='_blank' class='index-link'>Aviso Legal</a> e a <a href='https://www.indexfix.com/privacidade' target='_blank' class='index-link'>Política de Privacidade</a>.",
     "description-1": "TÉCNICAS EXPANSIVAS S.L. informa que os dados de caráter pessoal fornecidos de forma voluntária, cuja finalidade, transferências previstas e demais circunstâncias, são comunicadas no momento da recolha dos dados pessoais, ainda que, dependendo do caso específico, a sua finalidade possa ser alguma das seguintes: atendimento do seu pedido, reclamação ou dúvida apresentada, manutenção da relação estabelecida, gestão integral e comercial de clientes, contabilidade e faturação ou envio de comunicações, inclusive por meio eletrónico, de notícias e atividades relacionadas com TÉCNICAS EXPANSIVAS S.L.",
     "description-2": "Os dados incluídos nos nossos ficheiros são absolutamente confidenciais e serão tratados com a máxima confidencialidade e cumprindo todos os requisitos exigidos pelo Regulamento Geral de Proteção de Dados (RGPD) de 27 de abril de 2016. Os dados ficarão registados nos nossos ficheiros pelo tempo necessário que durar a motivação para a qual foram recolhidos. O período durante o qual os dados pessoais serão conservados será o estabelecido pela legislação em vigor e sempre durante o tempo necessário para a prestação do serviço para o qual foram comunicados.",
     "description-3": "Recomenda-se não enviar dados pessoais de alto nível, de acordo com a legislação de proteção de dados, como os relativos à saúde, pois os mesmos não são transferidos criptografados ou encriptados. De modo que, se os enviar, o envio será da sua exclusiva responsabilidade.",

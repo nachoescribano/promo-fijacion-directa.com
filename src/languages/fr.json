@@ -20,7 +20,10 @@
       "Davantage de sécurité"
     ],
     "know-range": "Découvrir la gamme",
-    "url-know-range": "https://www.indexfix.com/canales-venta/anclajes/fijacion-directa"
+    "url-know-range": "https://www.indexfix.com/canaux-vente/chevilles/fixation-directe"
+  },
+  "header": {
+    "url-home": "https://www.indexfix.com/fr"
   },
   "intro-section": {
     "title": "Qu'est-ce que la fixation directe ?",
@@ -119,8 +122,8 @@
         "related-products-id": "FG-GUN"
       },
       {
-        "title": "FG-CLH",
-        "description": "Clous avec revêtement zingué pour matériaux durs",
+        "title": "FG-GUNEL",
+        "description": "Pistolet semi-automatique autonome. Cloueur à gaz pour électriciens",
         "image": "assets/images/FG-GUNEL-1-1_1.webp",
         "image2x": "assets/images/FG-GUNEL-1-1_1_2x.webp",
         "image-alt": "FG-GUNEL",
@@ -130,7 +133,7 @@
     "card-info-1": "La fixation directe avec des pistolets à gaz est simple : après avoir placé la charge de gaz, la pointe de l'outil est située sur la surface et la gâchette est actionnée.",
     "card-info-2": "Après avoir franchi le système de sécurité et appuyé sur la gâchette, une étincelle est activée et enflamme le gaz dans la chambre de combustion. La batterie, incluse dans l’étui, active un ventilateur qui évacue les gaz de combustion.",
     "button-text": "Voir le produit",
-    "button-link": "https://www.indexfix.com/canales-venta/anclajes/fijacion-directa/fg-gun",
+    "button-link": "https://www.indexfix.com/canaux-vente/chevilles/fixation-directe/fg-gun",
     "related-products-title": "Produits associés",
     "commons-related-products": [
       {
@@ -138,14 +141,14 @@
         "description": "Clous standard avec revêtement zingué pour le béton",
         "image": "assets/images/FG-CL.jpg",
         "image-alt": "FG-CL",
-        "href": "https://www.indexfix.com/producto/10704-FG-CL-clavos-estandar"
+        "href": "https://www.indexfix.com/produit/10704-FG-CL-clous-standards"
       },
       {
         "title": "FG-CLH",
         "description": "Clous avec revêtement zingué pour matériaux durs",
         "image": "assets/images/FG-CLH.jpg",
         "image-alt": "FG-CLH",
-        "href": "https://www.indexfix.com/producto/10703-FG-CLH-clavos-para-materiales-duros"
+        "href": "https://www.indexfix.com/produit/10703-FG-CLH-clous-pour-materiaux-durs"
       }
     ],
     "related-products": [
@@ -158,77 +161,77 @@
             "description": "Couronne métallique. Format de vente : pot en plastique",
             "image": "assets/images/FG-ARAM-bote-1000-u.jpg",
             "image-alt": "FG-ARAM EP",
-            "href": "https://www.indexfix.com/producto/11637-FG-ARAM-EP-arandela-metalica-bote-de-plastico"
+            "href": "https://www.indexfix.com/produit/11637-FG-ARAM-EP-rondelle-metallique-seau-plastique"
           },
           {
             "title": "FG-ARAM",
             "description": "Couronne métallique pour pistolet à gaz",
             "image": "assets/images/FG-ARAM.jpg",
             "image-alt": "FG-ARAM",
-            "href": "https://www.indexfix.com/producto/11636-FG-ARAM-arandela-metalica"
+            "href": "https://www.indexfix.com/produit/11636-FG-ARAM-rondelle-metallique"
           },
           {
             "title": "OME",
             "description": "Ancrage universel",
             "image": "assets/images/OME.jpg",
             "image-alt": "OME",
-            "href": "https://www.indexfix.com/producto/11173-OME-anclaje-universal"
+            "href": "https://www.indexfix.com/produit/11173-OME-cavalier-universel"
           },
           {
             "title": "AB-GU",
             "description": "Collier de guidage simple",
             "image": "assets/images/AB-GU.jpg",
             "image-alt": "AB-GU",
-            "href": "https://www.indexfix.com/producto/11305-AB-GU-abrazadera-guia-gris-simple-con-pre-rosca-m6"
+            "href": "https://www.indexfix.com/produit/11305-AB-GU-collier-guide-gris-simple-avec-prefilet-m6"
           },
           {
             "title": "AB-MUG",
             "description": "Collier multi-diamètre",
             "image": "assets/images/AB-MUG.jpg",
             "image-alt": "AB-MUG",
-            "href": "https://www.indexfix.com/producto/10898-AB-MUG-abrazadera-multiusos"
+            "href": "https://www.indexfix.com/produit/10898-AB-MUG-collier-polypropylene-multi-usages"
           },
           {
             "title": "AB-PR",
             "description": "Collier sous pression",
             "image": "assets/images/AB-PR.jpg",
             "image-alt": "AB-PR",
-            "href": "https://www.indexfix.com/producto/11308-AB-PR-gris"
+            "href": "https://www.indexfix.com/produit/11308-AB-PR-gris"
           },
           {
             "title": "AB-PID",
             "description": "Agrafe un pied",
             "image": "assets/images/AB-PID.jpg",
             "image-alt": "AB-PID",
-            "href": "https://www.indexfix.com/producto/11496-AB-PID-grapa-1-pie-para-disparo"
+            "href": "https://www.indexfix.com/produit/11496-AB-PID-agrafe-1-pied-pour-declenchement"
           },
           {
             "title": "FG-PLET",
             "description": "Plaque filetée",
             "image": "assets/images/FG-PLET.jpg",
             "image-alt": "FG-PLET",
-            "href": "https://www.indexfix.com/producto/10691-FG-PLET-pletina-roscada-para-varilla"
+            "href": "https://www.indexfix.com/produit/10691-FG-PLET-clip-de-fixation-pour-tiges-filetees"
           },
           {
             "title": "FG-ABRA",
             "description": "Collier sous pression",
             "image": "assets/images/FG-ABRA.jpg",
             "image-alt": "FG-ABRA",
-            "href": "https://www.indexfix.com/producto/10697-FG-ABRA-abrazadera-a-presion"
+            "href": "https://www.indexfix.com/produit/10697-FG-ABRA-collier-a-pression"
           },
           {
             "title": "FG-BASE",
             "description": "Base pour bride. Couleur&nbsp;grise disponible",
             "image": "assets/images/FG-BASE.jpg",
             "image-alt": "FG-BASE",
-            "href": "https://www.indexfix.com/producto/10698-FG-BASE-base-para-brida"
+            "href": "https://www.indexfix.com/produit/10698-FG-BASE-base-pour-collier-de-serrage"
           },
           {
             "title": "CI-PE",
             "description": "Bande perforée",
             "image": "assets/images/CI-PE.jpg",
             "image-alt": "CI-PE",
-            "href": "https://www.indexfix.com/producto/11361-CI-PE-cinta-perforada-curva-atlantis-c2-m"
+            "href": "https://www.indexfix.com/produit/11361-CI-PE-bande-perforee-courbee-atlantis-c2-m"
           }
         ]
       },
@@ -241,42 +244,42 @@
             "description": "Cartouche de gaz",
             "image": "assets/images/FG-GAS.jpg",
             "image-alt": "FG-GAS",
-            "href": "https://www.indexfix.com/producto/10699-FG-GAS-cartucho-de-gas"
+            "href": "https://www.indexfix.com/produit/10699-FG-GAS-cartouche-de-gaz"
           },
           {
             "title": "FG-CAEL",
             "description": "Canon de pistolet spécial pour électricien",
             "image": "assets/images/FG-CAEL.jpg",
             "image-alt": "FG-CAEL",
-            "href": "https://www.indexfix.com/producto/11642-FG-CAEL-canon-de-pistola-especial-para-electricista"
+            "href": "https://www.indexfix.com/produit/11642-FG-CAEL-canon-special-pour-electriciens"
           },
           {
             "title": "FG-CLCAR",
             "description": "Chargeur pour 40 clous",
             "image": "assets/images/FG-CLCAR.jpg",
             "image-alt": "FG-CLCAR",
-            "href": "https://www.indexfix.com/producto/11626-FG-CLCAR-cargador-para-40-clavos"
+            "href": "https://www.indexfix.com/produit/11626-FG-CLCAR-chargeur-de-pistolet-pour-40-clous"
           },
           {
             "title": "FG-IMAN",
             "description": "Aimant",
             "image": "assets/images/FG-IMAN.jpg",
             "image-alt": "FG-IMAN",
-            "href": "https://www.indexfix.com/producto/10690-FG-IMAN-iman"
+            "href": "https://www.indexfix.com/produit/10690-FG-IMAN-aimant"
           },
           {
             "title": "FG-BAT",
             "description": "Batterie pour pistolet",
             "image": "assets/images/FG-BAT.jpg",
             "image-alt": "FG-BAT",
-            "href": "https://www.indexfix.com/producto/10701-FG-BAT-bateria-para-pistola-fp60gun"
+            "href": "https://www.indexfix.com/produit/10701-FG-BAT-batterie-pour-pistolet-fp60gun"
           },
           {
             "title": "FG-CAR",
             "description": "Chargeur pour pistolet",
             "image": "assets/images/FG-CAR.jpg",
             "image-alt": "FG-CAR",
-            "href": "https://www.indexfix.com/producto/10700-FG-CAR-cargador-para-pistola-fp60gun"
+            "href": "https://www.indexfix.com/produit/10700-FG-CAR-chargeur-pour-pistolet-fp60gun"
           }
         ]
       }
@@ -411,23 +414,23 @@
         "items": [
           {
             "text": "Pistolet, accessoires et clous FG",
-            "url": "https://www.indexfix.com/docs/FT_GAS_es_rev4.pdf"
+            "url": "https://www.indexfix.com/docs/FT_GAS_fr_rev4.pdf"
           },
           {
             "text": "Ancrage universel OME",
-            "url": "https://www.indexfix.com/docs/FT_ACPY_es_rev4.pdf"
+            "url": "https://www.indexfix.com/docs/FT_ACPY_fr_rev4.pdf"
           },
           {
             "text": "Colliers AB",
-            "url": "https://www.indexfix.com/docs/FT_ABRAPL_es_rev8.pdf"
+            "url": "https://www.indexfix.com/docs/FT_ABRAPL_fr_rev8.pdf"
           },
           {
             "text": "Colliers AB-PID",
-            "url": "https://www.indexfix.com/docs/FT_POL_es_rev6.pdf"
+            "url": "https://www.indexfix.com/docs/FT_POL_fr_rev6.pdf"
           },
           {
             "text": "Bande perforée CI-PE",
-            "url": "https://www.indexfix.com/docs/FT_CIPE_es_rev5.pdf"
+            "url": "https://www.indexfix.com/docs/FT_CIPE_fr_rev5.pdf"
           }
         ]
       },
@@ -438,15 +441,15 @@
         "items": [
           {
             "text": "FG-CL",
-            "url": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf"
+            "url": "https://www.indexfix.com/docs/FS_GAS_fr_rev3.pdf"
           },
           {
             "text": "FG-CLH",
-            "url": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf"
+            "url": "https://www.indexfix.com/docs/FS_GAS_fr_rev3.pdf"
           },
           {
             "text": "FG-CAR",
-            "url": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf"
+            "url": "https://www.indexfix.com/docs/FS_GAS_fr_rev3.pdf"
           }
         ]
       },
@@ -457,7 +460,7 @@
         "items": [
           {
             "text": "OME",
-            "url": "https://www.indexfix.com/docs/DoP_OME_es_rev1.pdf"
+            "url": "https://www.indexfix.com/docs/DoP_OME_fr_rev1.pdf"
           }
         ]
       }
@@ -475,7 +478,7 @@
     "phone-legend": "Format accepté 613445599 ou +34613445599",
     "message": "Message/Consultation",
     "personal-data": "J’accepte que mes données personnelles soient utilisées par le personnel technique de Técnicas Expansivas SL (CIF B-26220491) pour me contacter uniquement dans le cadre de ma formation et de l’assistance technique de ses produits.",
-    "legal-data": "J’ai lu et j'accepte les <a href='https://www.indexfix.com/aviso-es' target='_blank' class='index-link'>Mentions Légales</a> et la <a href='https://www.indexfix.com/privacidad' target='_blank' class='index-link'>Politique de Confidentialité</a>.",
+    "legal-data": "J’ai lu et j'accepte les <a href='https://www.indexfix.com/mentions' target='_blank' class='index-link'>Mentions Légales</a> et la <a href='https://www.indexfix.com/confidentialite' target='_blank' class='index-link'>Politique de Confidentialité</a>.",
     "description-1": "TÉCNICAS EXPANSIVAS S.L. informe que les données à caractère personnel fournies volontairement, dont la finalité, les cessions prévues et autres circonstances sont décrites au moment de la collecte des données à caractère personnel. Toutefois, selon le cas, la finalité peut être une des suivantes&nbsp;: traitement d’une demande, réclamation ou question posée&nbsp;; maintien de la relation établie&nbsp;; gestion intégrale et commerciale des clients&nbsp;; comptabilité et facturation&nbsp;; ou envoi de communications, y compris par voie électronique, d’actualités et activités relatives à TÉCNICAS EXPANSIVAS S.L.",
     "description-2": "Les données intégrées à nos fichiers sont absolument confidentielles et seront traitées dans la plus grande confidentialité ainsi que conformément à toutes les exigences imposées par le Règlement Général sur la Protection des Données (RGPD) du 27 avril 2016. Les données resteront enregistrées dans nos fichiers pendant la durée nécessaire à la finalité ayant motivé leur collecte. Le délai pendant lequel les données personnelles seront conservées sera celui défini par la législation en vigueur et toujours pendant la durée de la prestation du service pour lequel elles ont été communiquées.",
     "description-3": "Il est recommandé de ne pas envoyer de données personnelles de haut niveau, selon la législation de protection des données, comme celles relatives à la santé, car leur transfert n'est pas chiffré ni crypté. Par conséquent, si vous les envoyez, vous le ferez sous votre entière responsabilité.",

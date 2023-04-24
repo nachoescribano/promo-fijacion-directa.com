@@ -2,7 +2,7 @@
   "lang": "it",
   "description": "I fissaggi diretti consentono un lavoro preciso e affidabile grazie alla loro rapidità di applicazione. Grazie alle pistole a gas e a polvere si ottiene un fissaggio istantaneo. Scoprite tutto quello che c'è da sapere sui fissaggi diretti su INDEX.",
   "keywords": "Selezione della pistola di fissaggio.Accessori per il fissaggio diretto a seconda del materiale. Guida all'installazione con pistola di fissaggio.",
-  "title": "",
+  "title": "Fissaggio diretto. Caratteristiche e vantaggi | INDEX",
   "home": "Inizio",
   "features": "Caratteristiche",
   "range": "Gamma",
@@ -20,7 +20,10 @@
       "Maggiore sicurezza"
     ],
     "know-range": "Scopri la gamma",
-    "url-know-range": "https://www.indexfix.com/canales-venta/anclajes/fijacion-directa"
+    "url-know-range": "https://www.indexfix.com/canali-vendita/ancoraggi/fissaggio-diretto"
+  },
+  "header": {
+    "url-home": "https://www.indexfix.com/it"
   },
   "intro-section": {
     "title": "Che cos'è il fissaggio diretto?",
@@ -119,8 +122,8 @@
         "related-products-id": "FG-GUN﻿"
       },
       {
-        "title": "FG-CLH﻿",
-        "description": "Chiodi zincati per materiali duri",
+        "title": "FG-GUNEL",
+        "description": "Pistola di fissaggio semiautomatica a gas senza cavi per elettricisti",
         "image": "assets/images/FG-GUNEL-1-1_1.webp",
         "image2x": "assets/images/FG-GUNEL-1-1_1_2x.webp",
         "image-alt": "FG-GUNEL﻿",
@@ -130,7 +133,7 @@
     "card-info-1": "Il fissaggio diretto mediante pistole a gas è semplice: dopo aver posizionato la carica di gas, appoggiare la punta dell'utensile sulla superficie e premere il grilletto.",
     "card-info-2": "Dopo aver superato il sistema di sicurezza e premuto il grilletto, si attiva una scintilla che accende il gas nella camera di combustione. La batteria, inclusa nella valigetta, attiva una ventola che estrae i gas di combustione.",
     "button-text": "Vedi il prodotto",
-    "button-link": "https://www.indexfix.com/canales-venta/anclajes/fijacion-directa/fg-gun",
+    "button-link": "https://www.indexfix.com/canali-vendita/ancoraggi/fissaggio-diretto/fg-gun",
     "related-products-title": "Prodotti correlati",
     "commons-related-products": [
       {
@@ -138,14 +141,14 @@
         "description": "Chiodi standard zincati per calcestruzzo",
         "image": "assets/images/FG-CL.jpg",
         "image-alt": "FG-CL﻿",
-        "href": "https://www.indexfix.com/producto/10704-FG-CL-clavos-estandar"
+        "href": "https://www.indexfix.com/prodotto/fg-cl-chiodi-standard"
       },
       {
         "title": "FG-CLH﻿",
         "description": "Chiodi zincati per materiali duri",
         "image": "assets/images/FG-CLH.jpg",
         "image-alt": "FG-CLH﻿",
-        "href": "https://www.indexfix.com/producto/10703-FG-CLH-clavos-para-materiales-duros"
+        "href": "https://www.indexfix.com/prodotto/fg-clh-chiodi-per-materiali-duri"
       }
     ],
     "related-products": [
@@ -158,77 +161,77 @@
             "description": "Corona metallica. Formato di vendita: barattolo di plastica",
             "image": "assets/images/FG-ARAM-bote-1000-u.jpg",
             "image-alt": "FG-ARAM EP﻿",
-            "href": "https://www.indexfix.com/producto/11637-FG-ARAM-EP-arandela-metalica-bote-de-plastico"
+            "href": "https://www.indexfix.com/prodotto/fg-aram-ep-rondella-metallica-barattolo-in-plastica"
           },
           {
             "title": "FG-ARAM﻿",
             "description": "Corona metallica per pistola a gas",
             "image": "assets/images/FG-ARAM.jpg",
             "image-alt": "FG-ARAM﻿",
-            "href": "https://www.indexfix.com/producto/11636-FG-ARAM-arandela-metalica"
+            "href": "https://www.indexfix.com/prodotto/fg-aram-rondella-metallica"
           },
           {
             "title": "OME﻿",
             "description": "Ancoraggio universale",
             "image": "assets/images/OME.jpg",
             "image-alt": "OME﻿",
-            "href": "https://www.indexfix.com/producto/11173-OME-anclaje-universal"
+            "href": "https://www.indexfix.com/prodotto/ome-ancoraggio-universale"
           },
           {
             "title": "AB-GU﻿",
             "description": "Morsetto a guida singola",
             "image": "assets/images/AB-GU.jpg",
             "image-alt": "AB-GU﻿",
-            "href": "https://www.indexfix.com/producto/11305-AB-GU-abrazadera-guia-gris-simple-con-pre-rosca-m6"
+            "href": "https://www.indexfix.com/prodotto/ab-gu-morsetto-guida-grigio-singolo-con-prefilettatura-m6"
           },
           {
             "title": "AB-MUG﻿",
             "description": "Morsetto multidiametro",
             "image": "assets/images/AB-MUG.jpg",
             "image-alt": "AB-MUG﻿",
-            "href": "https://www.indexfix.com/producto/10898-AB-MUG-abrazadera-multiusos"
+            "href": "https://www.indexfix.com/prodotto/ab-mug-morsetto-multiuso"
           },
           {
             "title": "AB-PR﻿",
             "description": "Morsetto a pressione",
             "image": "assets/images/AB-PR.jpg",
             "image-alt": "AB-PR﻿",
-            "href": "https://www.indexfix.com/producto/11308-AB-PR-gris"
+            "href": "https://www.indexfix.com/prodotto/ab-pr-grigia"
           },
           {
             "title": "AB-PID﻿",
             "description": "Graffetta un piede",
             "image": "assets/images/AB-PID.jpg",
             "image-alt": "AB-PID﻿",
-            "href": "https://www.indexfix.com/producto/11496-AB-PID-grapa-1-pie-para-disparo"
+            "href": "https://www.indexfix.com/prodotto/ab-pid-graffa-a-1-piede-per-chiodatrice"
           },
           {
             "title": "FG-PLET﻿",
             "description": "Piastra filettata",
             "image": "assets/images/FG-PLET.jpg",
             "image-alt": "FG-PLET﻿",
-            "href": "https://www.indexfix.com/producto/10691-FG-PLET-pletina-roscada-para-varilla"
+            "href": "https://www.indexfix.com/prodotto/fg-plet-piastra-filettata-per-asta"
           },
           {
             "title": "FG-ABRA﻿",
             "description": "Morsetto a pressione",
             "image": "assets/images/FG-ABRA.jpg",
             "image-alt": "FG-ABRA﻿",
-            "href": "https://www.indexfix.com/producto/10697-FG-ABRA-abrazadera-a-presion"
+            "href": "https://www.indexfix.com/prodotto/fg-abra-morsetto-a-pressione"
           },
           {
             "title": "FG-BASE﻿",
             "description": "Base per morsetto. Colore grigio disponibile",
             "image": "assets/images/FG-BASE.jpg",
             "image-alt": "FG-BASE﻿",
-            "href": "https://www.indexfix.com/producto/10698-FG-BASE-base-para-brida"
+            "href": "https://www.indexfix.com/prodotto/fg-base-base-per-morsetto"
           },
           {
             "title": "CI-PE﻿",
             "description": "Nastro forato",
             "image": "assets/images/CI-PE.jpg",
             "image-alt": "CI-PE﻿",
-            "href": "https://www.indexfix.com/producto/11361-CI-PE-cinta-perforada-curva-atlantis-c2-m"
+            "href": "https://www.indexfix.com/prodotto/ci-pe-nastro-forato-curvo-atlantis-c2-m"
           }
         ]
       },
@@ -241,42 +244,42 @@
             "description": "Cartuccia di gas",
             "image": "assets/images/FG-GAS.jpg",
             "image-alt": "FG-GAS﻿",
-            "href": "https://www.indexfix.com/producto/10699-FG-GAS-cartucho-de-gas"
+            "href": "https://www.indexfix.com/prodotto/fg-gas-cartuccia-di-gas"
           },
           {
             "title": "FG-CAEL﻿",
             "description": "Canna per pistola speciale per elettricisti﻿",
             "image": "assets/images/FG-CAEL.jpg",
             "image-alt": "FG-CAEL﻿",
-            "href": "https://www.indexfix.com/producto/11642-FG-CAEL-canon-de-pistola-especial-para-electricista"
+            "href": "https://www.indexfix.com/prodotto/fg-cael-canna-della-pistola-speciale-per-elettricisti"
           },
           {
             "title": "FG-CLCAR﻿",
             "description": "Caricatore per 40 chiodi",
             "image": "assets/images/FG-CLCAR.jpg",
             "image-alt": "FG-CLCAR﻿",
-            "href": "https://www.indexfix.com/producto/11626-FG-CLCAR-cargador-para-40-clavos"
+            "href": "https://www.indexfix.com/prodotto/fg-clcar-caricatore-per-40-chiodi"
           },
           {
             "title": "FG-IMAN﻿",
             "description": "Magnete",
             "image": "assets/images/FG-IMAN.jpg",
             "image-alt": "FG-IMAN﻿",
-            "href": "https://www.indexfix.com/producto/10690-FG-IMAN-iman"
+            "href": "https://www.indexfix.com/prodotto/fg-iman-magnete"
           },
           {
             "title": "FG-BAT﻿",
             "description": "Batteria per pistola",
             "image": "assets/images/FG-BAT.jpg",
             "image-alt": "FG-BAT﻿",
-            "href": "https://www.indexfix.com/producto/10701-FG-BAT-bateria-para-pistola-fp60gun"
+            "href": "https://www.indexfix.com/prodotto/fg-bat-batteria-per-pistola-fp60gun"
           },
           {
             "title": "FG-CAR﻿",
             "description": "Caricatore per pistola",
             "image": "assets/images/FG-CAR.jpg",
             "image-alt": "FG-CAR﻿",
-            "href": "https://www.indexfix.com/producto/10700-FG-CAR-cargador-para-pistola-fp60gun"
+            "href": "https://www.indexfix.com/prodotto/fg-car-caricatore-per-pistola-fp60gun"
           }
         ]
       }
@@ -411,23 +414,23 @@
         "items": [
           {
             "text": "Pistola, accessori e chiodi FG",
-            "url": "https://www.indexfix.com/docs/FT_GAS_es_rev4.pdf"
+            "url": "https://www.indexfix.com/docs/FT_GAS_en_rev4.pdf"
           },
           {
             "text": "Ancoraggio universale OME",
-            "url": "https://www.indexfix.com/docs/FT_ACPY_es_rev4.pdf"
+            "url": "https://www.indexfix.com/docs/FT_ACPY_en_rev4.pdf"
           },
           {
             "text": "Morsetti AB",
-            "url": "https://www.indexfix.com/docs/FT_ABRAPL_es_rev8.pdf"
+            "url": "https://www.indexfix.com/docs/FT_ABRAPL_en_rev8.pdf"
           },
           {
             "text": "Morsetti AB-PID",
-            "url": "https://www.indexfix.com/docs/FT_POL_es_rev6.pdf"
+            "url": "https://www.indexfix.com/docs/FT_POL_en_rev6.pdf"
           },
           {
             "text": "Nastro perforato CI-PE",
-            "url": "https://www.indexfix.com/docs/FT_CIPE_es_rev5.pdf"
+            "url": "https://www.indexfix.com/docs/FT_CIPE_en_rev5.pdf"
           }
         ]
       },
@@ -438,15 +441,15 @@
         "items": [
           {
             "text": "FG-CL﻿",
-            "url": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf"
+            "url": "https://www.indexfix.com/docs/FS_GAS_en_rev3.pdf"
           },
           {
             "text": "FG-CLH﻿",
-            "url": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf"
+            "url": "https://www.indexfix.com/docs/FS_GAS_en_rev3.pdf"
           },
           {
             "text": "FG-CAR﻿",
-            "url": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf"
+            "url": "https://www.indexfix.com/docs/FS_GAS_en_rev3.pdf"
           }
         ]
       },
@@ -457,7 +460,7 @@
         "items": [
           {
             "text": "OME﻿",
-            "url": "https://www.indexfix.com/docs/DoP_OME_es_rev1.pdf"
+            "url": "https://www.indexfix.com/docs/DoP_OME_en_rev1.pdf"
           }
         ]
       }
@@ -475,7 +478,7 @@
     "phone-legend": "Formato accettato 613445599 o +34613445599",
     "message": "Messaggio/Domanda",
     "personal-data": "Accetto il trattamento dei miei dati personali da parte del personale tecnico di Técnicas Expansivas SL (CIF B-26220491) affinché possano contattarmi esclusivamente per formazione e consulenza tecnica sui prodotti.",
-    "legal-data": "Ho letto e accetto l'<a href='https://www.indexfix.com/aviso-es' target='_blank' class='index-link'>Avviso legale</a> e l'<a href='https://www.indexfix.com/privacidad' target='_blank' class='index-link'>Informativa sulla privacy</a>.",
+    "legal-data": "Ho letto e accetto l'<a href='https://www.indexfix.com/avviso' target='_blank' class='index-link'>Avviso legale</a> e l'<a href='https://www.indexfix.com/privacy-it' target='_blank' class='index-link'>Informativa sulla privacy</a>.",
     "description-1": "TÉCNICAS EXPANSIVAS S.L. informa che per i dati personali forniti volontariamente, le finalità, i trasferimenti previsti e altre circostanze si comunicano al momento della raccolta dei dati personali, anche se, a seconda del caso specifico, la loro finalità può essere una delle seguenti: risposta a richieste, reclami o dubbi sollevati dall’utente, mantenimento della relazione instaurata, gestione integrale e commerciale dei clienti, contabilità e fatturazione o invio di comunicazioni, anche per via elettronica, di notizie e attività relative a TÉCNICAS EXPANSIVAS S.L.",
     "description-2": "I dati contenuti nei nostri archivi sono assolutamente confidenziali e saranno trattati con la massima riservatezza e nel rispetto di tutti i requisiti del regolamento generale sulla protezione dei dati (GDPR) del 27 aprile 2016. I dati rimarranno registrati nei nostri archivi per il tempo necessario allo scopo per il quale sono stati raccolti. Il periodo durante il quale saranno conservati i dati personali sarà quello stabilito dalla legislazione vigente e sempre per la durata per cui si presta il servizio per il quale sono stati comunicati.",
     "description-3": "Si raccomanda di non inviare dati personali di alto livello secondo la legislazione sulla protezione dei dati, come quelli relativi alla salute, poiché non vengono criptati né codificati. Quindi, la responsabilità è di chi li invia.",

@@ -20,7 +20,10 @@
       "Increased safety"
     ],
     "know-range": "See the full range",
-    "url-know-range": "https://www.indexfix.com/canales-venta/anclajes/fijacion-directa"
+    "url-know-range": "https://www.indexfix.com/sales-channels/anchors/direct-fixing"
+  },
+  "header": {
+    "url-home": "https://www.indexfix.com/en"
   },
   "intro-section": {
     "title": "What is direct fixing?",
@@ -119,8 +122,8 @@
         "related-products-id": "FG-GUN"
       },
       {
-        "title": "FG-CLH",
-        "description": "Galvanised nails for hard materials",
+        "title": "FG-GUNEL",
+        "description": "Semiautomatic, wireless, gas-actuated nail gun for electricians",
         "image": "assets/images/FG-GUNEL-1-1_1.webp",
         "image2x": "assets/images/FG-GUNEL-1-1_1_2x.webp",
         "image-alt": "FG-GUNEL",
@@ -130,7 +133,7 @@
     "card-info-1": "Direct fixing using a gas-actuated nail gun is simple: once the gas has been charged, just position the tip of the gun on the surface and pull the trigger.",
     "card-info-2": "Upon squeezing the trigger, unless the safety system is activated, a spark ignites the gas in the combustion chamber. The battery, included in the case, then activates a fan that extracts the combustion gases.",
     "button-text": "See product",
-    "button-link": "https://www.indexfix.com/canales-venta/anclajes/fijacion-directa/fg-gun",
+    "button-link": "https://www.indexfix.com/sales-channels/anchors/direct-fixing/fg-gun",
     "related-products-title": "Related products",
     "commons-related-products": [
       {
@@ -138,14 +141,14 @@
         "description": "Standard galvanised nails for concrete",
         "image": "assets/images/FG-CL.jpg",
         "image-alt": "FG-CL",
-        "href": "https://www.indexfix.com/producto/10704-FG-CL-clavos-estandar"
+        "href": "https://www.indexfix.com/product/10704-FG-CL-standard-nails"
       },
       {
         "title": "FG-CLH",
         "description": "Galvanised nails for hard materials",
         "image": "assets/images/FG-CLH.jpg",
         "image-alt": "FG-CLH",
-        "href": "https://www.indexfix.com/producto/10703-FG-CLH-clavos-para-materiales-duros"
+        "href": "https://www.indexfix.com/product/10703-FG-CLH-nails-for-hard-materials"
       }
     ],
     "related-products": [
@@ -158,77 +161,77 @@
             "description": "Metal crown. Sale format: plastic container",
             "image": "assets/images/FG-ARAM-bote-1000-u.jpg",
             "image-alt": "FG-ARAM EP",
-            "href": "https://www.indexfix.com/producto/11637-FG-ARAM-EP-arandela-metalica-bote-de-plastico"
+            "href": "https://www.indexfix.com/product/11637-FG-ARAM-EP-metallic-washer-plastic-container"
           },
           {
             "title": "FG-ARAM",
             "description": "Metal crown for gas-actuated nail gun",
             "image": "assets/images/FG-ARAM.jpg",
             "image-alt": "FG-ARAM",
-            "href": "https://www.indexfix.com/producto/11636-FG-ARAM-arandela-metalica"
+            "href": "https://www.indexfix.com/product/11636-FG-ARAM-metallic-washer"
           },
           {
             "title": "OME",
             "description": "Universal anchor",
             "image": "assets/images/OME.jpg",
             "image-alt": "OME",
-            "href": "https://www.indexfix.com/producto/11173-OME-anclaje-universal"
+            "href": "https://www.indexfix.com/product/11173-OME-universal-anchor"
           },
           {
             "title": "AB-GU",
             "description": "Simple guide conduit clip",
             "image": "assets/images/AB-GU.jpg",
             "image-alt": "AB-GU",
-            "href": "https://www.indexfix.com/producto/11305-AB-GU-abrazadera-guia-gris-simple-con-pre-rosca-m6"
+            "href": "https://www.indexfix.com/product/11305-AB-GU-closed-polypropilene-pipe-clip-with-pre-thread-m6-grey"
           },
           {
             "title": "AB-MUG",
             "description": "Multi-diameter conduit clip",
             "image": "assets/images/AB-MUG.jpg",
             "image-alt": "AB-MUG",
-            "href": "https://www.indexfix.com/producto/10898-AB-MUG-abrazadera-multiusos"
+            "href": "https://www.indexfix.com/product/10898-AB-MUG-multiuse-pipe-clip"
           },
           {
             "title": "AB-PR",
             "description": "Snap-in conduit clip",
             "image": "assets/images/AB-PR.jpg",
             "image-alt": "AB-PR",
-            "href": "https://www.indexfix.com/producto/11308-AB-PR-gris"
+            "href": "https://www.indexfix.com/product/11308-AB-PR-grey"
           },
           {
             "title": "AB-PID",
             "description": "Pipe strap",
             "image": "assets/images/AB-PID.jpg",
             "image-alt": "AB-PID",
-            "href": "https://www.indexfix.com/producto/11496-AB-PID-grapa-1-pie-para-disparo"
+            "href": "https://www.indexfix.com/product/11496-AB-PID-conduit-clip-with-single-hole-for-shooting"
           },
           {
             "title": "FG-PLET",
             "description": "Threaded bracket",
             "image": "assets/images/FG-PLET.jpg",
             "image-alt": "FG-PLET",
-            "href": "https://www.indexfix.com/producto/10691-FG-PLET-pletina-roscada-para-varilla"
+            "href": "https://www.indexfix.com/product/10691-FG-PLET-threaded-platen-for-rod"
           },
           {
             "title": "FG-ABRA",
             "description": "Snap-in conduit clip",
             "image": "assets/images/FG-ABRA.jpg",
             "image-alt": "FG-ABRA",
-            "href": "https://www.indexfix.com/producto/10697-FG-ABRA-abrazadera-a-presion"
+            "href": "https://www.indexfix.com/product/10697-FG-ABRA-snap-clamp"
           },
           {
             "title": "FG-BASE",
             "description": "Flange base. Grey colour available",
             "image": "assets/images/FG-BASE.jpg",
             "image-alt": "FG-BASE",
-            "href": "https://www.indexfix.com/producto/10698-FG-BASE-base-para-brida"
+            "href": "https://www.indexfix.com/product/10698-FG-BASE-flange-base"
           },
           {
             "title": "CI-PE",
             "description": "Fixing band",
             "image": "assets/images/CI-PE.jpg",
             "image-alt": "CI-PE",
-            "href": "https://www.indexfix.com/producto/11361-CI-PE-cinta-perforada-curva-atlantis-c2-m"
+            "href": "https://www.indexfix.com/product/11361-CI-PE-round-fixing-band-atlantis-c2-m"
           }
         ]
       },
@@ -241,42 +244,42 @@
             "description": "Gas cartridge",
             "image": "assets/images/FG-GAS.jpg",
             "image-alt": "FG-GAS",
-            "href": "https://www.indexfix.com/producto/10699-FG-GAS-cartucho-de-gas"
+            "href": "https://www.indexfix.com/product/10699-FG-GAS-gas-cartridge"
           },
           {
             "title": "FG-CAEL",
             "description": "Special gun barrel for electricians",
             "image": "assets/images/FG-CAEL.jpg",
             "image-alt": "FG-CAEL",
-            "href": "https://www.indexfix.com/producto/11642-FG-CAEL-canon-de-pistola-especial-para-electricista"
+            "href": "https://www.indexfix.com/product/11642-FG-CAEL-special-pistol-barrel-for-electricians"
           },
           {
             "title": "FG-CLCAR",
             "description": "Magazine for 40 nails",
             "image": "assets/images/FG-CLCAR.jpg",
             "image-alt": "FG-CLCAR",
-            "href": "https://www.indexfix.com/producto/11626-FG-CLCAR-cargador-para-40-clavos"
+            "href": "https://www.indexfix.com/product/11626-FG-CLCAR-gun-magazine-for-40-nails"
           },
           {
             "title": "FG-IMAN",
             "description": "Magnet",
             "image": "assets/images/FG-IMAN.jpg",
             "image-alt": "FG-IMAN",
-            "href": "https://www.indexfix.com/producto/10690-FG-IMAN-iman"
+            "href": "https://www.indexfix.com/product/10690-FG-IMAN-magnet"
           },
           {
             "title": "FG-BAT",
             "description": "Gun battery",
             "image": "assets/images/FG-BAT.jpg",
             "image-alt": "FG-BAT",
-            "href": "https://www.indexfix.com/producto/10701-FG-BAT-bateria-para-pistola-fp60gun"
+            "href": "https://www.indexfix.com/product/10701-FG-BAT-fp60gun-battery"
           },
           {
             "title": "FG-CAR",
             "description": "Gun charger",
             "image": "assets/images/FG-CAR.jpg",
             "image-alt": "FG-CAR",
-            "href": "https://www.indexfix.com/producto/10700-FG-CAR-cargador-para-pistola-fp60gun"
+            "href": "https://www.indexfix.com/product/10700-FG-CAR-fp60gun-charger"
           }
         ]
       }
@@ -411,23 +414,23 @@
         "items": [
           {
             "text": "Gun, accessories and FG nails",
-            "url": "https://www.indexfix.com/docs/FT_GAS_es_rev4.pdf"
+            "url": "https://www.indexfix.com/docs/FT_GAS_en_rev4.pdf"
           },
           {
             "text": "OME Universal Anchor",
-            "url": "https://www.indexfix.com/docs/FT_ACPY_es_rev4.pdf"
+            "url": "https://www.indexfix.com/docs/FT_ACPY_en_rev4.pdf"
           },
           {
             "text": "AB Clips",
-            "url": "https://www.indexfix.com/docs/FT_ABRAPL_es_rev8.pdf"
+            "url": "https://www.indexfix.com/docs/FT_ABRAPL_en_rev8.pdf"
           },
           {
-            "text": "AB- PID Clips",
-            "url": "https://www.indexfix.com/docs/FT_POL_es_rev6.pdf"
+            "text": "AB-PID Clips",
+            "url": "https://www.indexfix.com/docs/FT_POL_en_rev6.pdf"
           },
           {
             "text": "CI-PE Fixing Band",
-            "url": "https://www.indexfix.com/docs/FT_CIPE_es_rev5.pdf"
+            "url": "https://www.indexfix.com/docs/FT_CIPE_en_rev5.pdf"
           }
         ]
       },
@@ -438,15 +441,15 @@
         "items": [
           {
             "text": "FG-CL",
-            "url": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf"
+            "url": "https://www.indexfix.com/docs/FS_GAS_en_rev3.pdf"
           },
           {
             "text": "FG-CLH",
-            "url": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf"
+            "url": "https://www.indexfix.com/docs/FS_GAS_en_rev3.pdf"
           },
           {
             "text": "FG-CAR",
-            "url": "https://www.indexfix.com/docs/FS_GAS_es_rev3.pdf"
+            "url": "https://www.indexfix.com/docs/FS_GAS_en_rev3.pdf"
           }
         ]
       },
@@ -457,7 +460,7 @@
         "items": [
           {
             "text": "OME",
-            "url": "https://www.indexfix.com/docs/DoP_OME_es_rev1.pdf"
+            "url": "https://www.indexfix.com/docs/DoP_OME_en_rev1.pdf"
           }
         ]
       }
@@ -475,7 +478,7 @@
     "phone-legend": "Accepted format 613445599 or +34613445599",
     "message": "Message/Query",
     "personal-data": "I authorise the use of my personal data by the technical staff of Técnicas Expansivas SL (Tax ID (CIF) B-26220491) to contact me exclusively for the purpose of training me and providing me with technical advice regarding their products.",
-    "legal-data": "I have read and accept the <a href='https://www.indexfix.com/aviso-es' target='_blank' class='index-link'>Legal Notice</a> and <a href='https://www.indexfix.com/privacidad' target='_blank' class='index-link'>Privacy Policy</a>.",
+    "legal-data": "I have read and accept the <a href='https://www.indexfix.com/notice' target='_blank' class='index-link'>Legal Notice</a> and <a href='https://www.indexfix.com/privacy' target='_blank' class='index-link'>Privacy Policy</a>.",
     "description-1": "TÉCNICAS EXPANSIVAS S.L. informs you that the personal data provided voluntarily on this website, the purpose, intended transfers and other circumstances of which are communicated when the personal data is collected, may, depending on the specific case, have any of the following purposes: responding to your request, complaint or question, maintaining the established relationship, the comprehensive and commercial management of customers, accounting and invoicing or sending of communications of news and activities related with TÉCNICAS EXPANSIVAS S.L., including by electronic means.",
     "description-2": "The data included in our files is absolutely confidential and will be processed with the utmost confidentiality and in compliance with all the requirements set out in the General Data Protection Regulation (GDPR) of the 27<sup>th</sup> of April 2016. The data is registered in our files for the time necessary for the purpose for which it was collected. The period during which the personal data will be kept will be that established by current legislation and always during the period of the provision of the service for which it was provided.",
     "description-3": "We do not recommend sending personal data that is classified as highly confidential by data protection legislation, such as that related to health, as it is not sent coded or encrypted. Therefore, if you send this type of data, it will be at your own risk.",

@@ -22,6 +22,9 @@
     "know-range": "Conocer la gama",
     "url-know-range": "https://www.indexfix.com/canales-venta/anclajes/fijacion-directa"
   },
+  "header": {
+    "url-home": "https://www.indexfix.com"
+  },
   "intro-section": {
     "title": "¿Qué es la fijación directa?",
     "description-1": "La fijación directa permite trabajar de forma precisa y fiable además de ahorrar tiempo en la instalación gracias a la rápida aplicación. La fijación directa a gas permite una fijación instantánea, autónoma y veloz. El sistema es idóneo para aquellos trabajos en los que se requiere fuerza y potencia a la hora de trabajar sobre materiales como hormigón hormigón celular, madera noble y acero.",
@@ -119,8 +122,8 @@
         "related-products-id": "FG-GUN"
       },
       {
-        "title": "FG-CLH",
-        "description": "Clavos con recubrimiento cincado para materiales duros",
+        "title": "FG-GUNEL",
+        "description": "Pistola semiautomática de fijación a gas sin cables para electricisticas",
         "image": "assets/images/FG-GUNEL-1-1_1.webp",
         "image2x": "assets/images/FG-GUNEL-1-1_1_2x.webp",
         "image-alt": "FG-GUNEL",

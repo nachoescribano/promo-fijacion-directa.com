@@ -5,7 +5,7 @@ const HandlebarsPlugin = require("handlebars-webpack-plugin");
 const CopyWebpackPlugin = require("copy-webpack-plugin");
 const WatchFileAndRunCallbackWebpackPlugin = require("watch-file-change-and-run-callback-webpack-plugin");
 const { copyFileSync } = require("fs");
-const languanges = ["de", "en", "es", "fr", "pt"];
+const languanges = ["de", "en", "es", "fr", "pt", "it"];
 
 // let langEs = require("./src/languages/es.json");
 // let langEn = require("./src/languages/en.json");

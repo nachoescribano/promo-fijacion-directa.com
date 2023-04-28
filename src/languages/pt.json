@@ -11,6 +11,8 @@
   "installation": "Instalação",
   "documentation": "Documentação",
   "contact": "Contacto",
+  "back-to-top": "Ir para início",
+  "show-aside": "mostrar atalhos",
   "main-section": {
     "title": "Fixação direta",
     "image-alt": "Operário a usar uma pistola de fixação direta para ancorar um perfil no pavimento",
@@ -23,7 +25,8 @@
     "url-know-range": "https://www.indexfix.com/canais-venda/ancoragens/fixacao-direta"
   },
   "header": {
-    "url-home": "https://www.indexfix.com/pt"
+    "url-home": "https://www.indexfix.com/pt",
+    "menu": "cardápio"
   },
   "intro-section": {
     "title": "O que é a fixação direta?",

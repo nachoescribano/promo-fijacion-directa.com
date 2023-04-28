@@ -1,6 +1,7 @@
 <header class="header js-header">
   <nav class="nav-menu js-navMenu">
     <button class="mobile-button-menu js-mobile-button">
+      <span class="sr-only">{{header.menu}}</span>
       <svg
         aria-hidden="true"
         width="24"
@@ -141,11 +142,7 @@
     </ul>
   </nav>
   <div class="separtator-logo separtator-logo--white js-separtator-logo">
-    <a
-      href="{{header.url-home}}"
-      title="home - indexfix"
-      class="link-logo"
-    >
+    <a href="{{header.url-home}}" title="home - indexfix" class="link-logo">
       <svg
         class="logo"
         id="Capa_1"

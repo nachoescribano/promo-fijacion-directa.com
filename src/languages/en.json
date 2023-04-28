@@ -11,6 +11,8 @@
   "installation": "Installation",
   "documentation": "Documentation",
   "contact": "Contact",
+  "back-to-top": "go to start",
+  "show-aside": "show shortcuts",
   "main-section": {
     "title": "Direct fixing",
     "image-alt": "Operator using nail gun to anchor profile to the floor",
@@ -23,7 +25,8 @@
     "url-know-range": "https://www.indexfix.com/sales-channels/anchors/direct-fixing"
   },
   "header": {
-    "url-home": "https://www.indexfix.com/en"
+    "url-home": "https://www.indexfix.com/en",
+    "menu": "menu"
   },
   "intro-section": {
     "title": "What is direct fixing?",

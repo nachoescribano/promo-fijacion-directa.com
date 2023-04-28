@@ -11,6 +11,8 @@
   "installation": "Instalación",
   "documentation": "Documentación",
   "contact": "Contacto",
+  "back-to-top": "Ir al inicio",
+  "show-aside": "mostrar accesos rápidos",
   "main-section": {
     "title": "Fijación directa",
     "image-alt": "Operario usando pistola de fijación directa para anclar un perfil en el suelo",
@@ -23,7 +25,8 @@
     "url-know-range": "https://www.indexfix.com/canales-venta/anclajes/fijacion-directa"
   },
   "header": {
-    "url-home": "https://www.indexfix.com"
+    "url-home": "https://www.indexfix.com",
+    "menu": "menu"
   },
   "intro-section": {
     "title": "¿Qué es la fijación directa?",

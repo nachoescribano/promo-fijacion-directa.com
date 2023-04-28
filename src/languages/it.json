@@ -11,6 +11,8 @@
   "installation": "Installazione",
   "documentation": "Documentazione",
   "contact": "Contatto",
+  "back-to-top": "Vai all'inizio",
+  "show-aside": "mostra scorciatoie",
   "main-section": {
     "title": "Fissaggio diretto",
     "image-alt": "Operatore che utilizza una pistola per il fissaggio diretto per ancorare un profilo al pavimento",
@@ -23,7 +25,8 @@
     "url-know-range": "https://www.indexfix.com/canali-vendita/ancoraggi/fissaggio-diretto"
   },
   "header": {
-    "url-home": "https://www.indexfix.com/it"
+    "url-home": "https://www.indexfix.com/it",
+    "menu": "menù"
   },
   "intro-section": {
     "title": "Che cos'è il fissaggio diretto?",

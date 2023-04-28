@@ -11,6 +11,8 @@
   "installation": "Installation",
   "documentation": "Documentation",
   "contact": "Contact",
+  "back-to-top": "Aller au début",
+  "show-aside": "afficher les raccourcis",
   "main-section": {
     "title": "Fixation directe",
     "image-alt": "Opérateur utilisant un pistolet de fixation directe pour ancrer un profilé au sol.",
@@ -23,7 +25,8 @@
     "url-know-range": "https://www.indexfix.com/canaux-vente/chevilles/fixation-directe"
   },
   "header": {
-    "url-home": "https://www.indexfix.com/fr"
+    "url-home": "https://www.indexfix.com/fr",
+    "menu": "menu"
   },
   "intro-section": {
     "title": "Qu'est-ce que la fixation directe ?",

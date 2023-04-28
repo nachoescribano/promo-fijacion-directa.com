@@ -11,7 +11,8 @@
   "installation": "Installation",
   "documentation": "Dokumentation",
   "contact": "Kontakt",
-  "url-home": "https://www.indexfix.com/de",
+  "back-to-top": "Zum Starten gehen",
+  "show-aside": "Verknüpfungen anzeigen",
   "main-section": {
     "title": "Direktbefestigung",
     "image-alt": "Bediener, der ein Gasnagelgerät verwendet, um ein Profil im Boden zu verankern",
@@ -24,7 +25,8 @@
     "url-know-range": "https://www.indexfix.com/kataloge/verankerungen/direktmontage"
   },
   "header": {
-    "url-home": "https://www.indexfix.com/de"
+    "url-home": "https://www.indexfix.com/de",
+    "menu": "speisekarte"
   },
   "intro-section": {
     "title": "Was ist die Direktbefestigung?",

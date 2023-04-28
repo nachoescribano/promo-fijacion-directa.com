@@ -235,6 +235,7 @@ h2 {
   width: 100%;
   padding: var(--index-cards-gutter-v) var(--index-cards-gutter-h);
   min-height: 300px;
+  display: flex;
 }
 
 .index-card--mini {
@@ -1282,6 +1283,7 @@ h2 {
 }
 .documentation__list-item {
   margin-bottom: 2rem;
+  display: flex;
 }
 .documentation__item {
   flex-direction: column;

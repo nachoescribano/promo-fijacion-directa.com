@@ -1284,6 +1284,7 @@ h2 {
 .documentation__list-item {
   margin-bottom: 2rem;
   display: flex;
+  flex-direction: column;
 }
 .documentation__item {
   flex-direction: column;

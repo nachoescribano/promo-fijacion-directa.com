@@ -3,7 +3,7 @@
   const header = document.querySelector(".js-header");
   const navMenu = document.querySelector(".js-navMenu");
   const navMenuList = document.querySelector(".js-navMenuList");
-  const htmlContainer = document.querySelector("body");
+  const htmlContainer = document.querySelector("html");
   const separatorLogo = document.querySelector(".js-separtator-logo");
   const mainSectionImage = document.querySelector(".js-main-section__image");
   const buttonMenuMobile = document.querySelector(".js-buttonMenuMobile");

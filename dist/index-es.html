@@ -1,4 +1,6 @@
+<!DOCTYPE html>
 <html lang="es">
+
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -51,6 +53,7 @@
     <header class="header js-header">
       <nav class="nav-menu js-navMenu">
         <button class="mobile-button-menu js-mobile-button">
+          <span class="sr-only">menu</span>
           <svg
             aria-hidden="true"
             width="24"
@@ -191,11 +194,7 @@
         </ul>
       </nav>
       <div class="separtator-logo separtator-logo--white js-separtator-logo">
-        <a
-          href="https://www.indexfix.com"
-          title="home - indexfix"
-          class="link-logo"
-        >
+        <a href="https://www.indexfix.com" title="home - indexfix" class="link-logo">
           <svg
             class="logo"
             id="Capa_1"
@@ -1624,11 +1623,14 @@
       <aside class="menu-sections">
         <button
           class="js-buttonMenuMobile btn btn-primary menu-sections__button-menu"
-        ></button>
+        >
+          <span class="sr-only">mostrar accesos rápidos</span>
+        </button>
         <a
           href="#main-section"
           class="btn btn-primary menu-sections__button menu-sections__button--small"
         >
+          <span class="sr-only">Ir al inicio</span>
           <i class="bi bi-chevron-up"></i>
         </a>
         <ul class="menu-sections__actions">
